@@ -6,11 +6,8 @@
 <body>
     @include('layout/header')
 
-    
-    @include('about/curosel')
-    @include('about/about_details')
-    @include('about/leader_slider')
-    @include('about/succes_story')
+    @section('main-content')
+        @show
 
     @include('layout/footer')    
 </body>
