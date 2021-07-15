@@ -1,16 +1,10 @@
-<html lang="en">
+@extends('app')
 
-<head>
-    @include('layout/head')
-</head>
-<body>
-    @include('layout/header')
+@section('curosal-title',('BLOGS'))
+@section('curosal-subtitle',('logetter we can make a difference'))
+    @section('main-content')
+        @include('about/curosel')
+        @include('blog/blog_card')
+        @include('about/succes_story')
+    @endsection
 
-    
-    @include('about/curosel')
-    @include('blog/blog_card')
-    @include('about/succes_story')
-
-    @include('layout/footer')    
-</body>
-</html>
