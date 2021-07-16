@@ -36,3 +36,7 @@ Route::get('/gallery', function () {
 Route::get('/people', function () {
     return view('people');
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});

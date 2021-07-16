@@ -1,21 +1,20 @@
 @extends('app')
 
-@section('curosal-title',('TRAVEL DETAILS'))
+@section('curosal-title',('CONTACT US'))
 @section('curosal-subtitle',('logetter we can make a difference'))
     @section('main-content')
         @include('about/curosel')
         <div class="container">
-            <div class="row pt-5">
-                <div class="col-md-4">
-                    @include('travel/travel-cards')
+            <div class="row py-5">
+                <div class="col-lg-5">
+                    @include('contact/contact-form')
                 </div>
-                <div class="col-md-8">
-                    @include('travel/travel-details')
+                <div class="col-lg-6 offset-lg-1">
+                    @include('contact/contact')
                 </div>
             </div>
         </div>
         
-        @include('blog/team')
         @include('about/succes_story')
     @endsection
 

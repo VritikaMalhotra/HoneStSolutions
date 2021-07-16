@@ -1,0 +1,56 @@
+<html>
+    <head>
+    <style>
+        .travel-card__image-fix{
+            width:100%;
+        }        
+        .travel-card__content{
+            border:1px solid black;
+        }
+        .travel-card__offer{
+            font-size:0.5rem;
+        }
+        .travel-card__price{
+            color: green;
+            font-weight:bold;
+        }
+        .travel-card__plan{
+        }
+        .travel-card__days{
+            color:gray;
+        }
+        .travel-card__range{
+            width:100%;
+        }
+ 
+ 
+
+    </style>
+    </head>
+    <body>
+        <div class="page-travel-card py-5">
+            <div class="container">
+                <div class="travel-cards row m-0">
+                    <div class="travel-card col-md-12 mb-4">
+                    <a href="#">
+                        <div class="travel-card__image">
+                            <img src="img/person_1.jpg" alt="" class="travel-card__image-fix">
+                        </div>
+                        <div class="travel-card__content px-4 py-4">
+                            <input type="range" class="travel-card__range form-range" id="disabledRange" disabled value='99'>
+                            <h6 class="travel-card__offer mb-2">FEES</h6>
+                            <h6 class="travel-card__price">RS 50</h6>
+                            <h5 class="travel-card__plan mb-2">Upcoming Events</h5>
+                            <div class="d-flex align-items-center">
+                                <i class="fa fa-calendar" style="color:gray"></i>
+                                <p class="travel-card__days pl-2 mb-0">2 Days remaining</p>
+                            </div>
+                            <a href="#" class="btn btn-black mt-2">Register Now</a>
+                        </div>
+                    </a>   
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

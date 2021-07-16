@@ -37,7 +37,7 @@
             <p class="page-teams__subtitle col-12">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
             <div class="container">
                 <div class="page-teams__cards justify-content-center row m-0">
-                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="team__card px-4 py-4">
                             <div class="team__logo d-flex justify-content-center px-0 mb-4">
                                 <img src="img/person_1.jpg" alt="" class="team__logo-fix">
@@ -49,7 +49,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="team__card px-4 py-4">
                             <div class="team__logo d-flex justify-content-center px-0 mb-4">
                                 <img src="img/person_2.jpg" alt="" class="team__logo-fix">
@@ -61,7 +61,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="team__card px-4 py-4">
                             <div class="team__logo d-flex justify-content-center px-0 mb-4">
                                 <img src="img/person_3.jpg" alt="" class="team__logo-fix">
@@ -73,7 +73,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                    <a href="#" class="team col-xl-3 col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="team__card px-4 py-4">
                             <div class="team__logo d-flex justify-content-center px-0 mb-4">
                                 <img src="img/person_4.jpg" alt="" class="team__logo-fix">
