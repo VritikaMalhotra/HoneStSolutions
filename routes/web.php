@@ -40,3 +40,6 @@ Route::get('/people', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/books', function () {
+    return view('books');
+});
