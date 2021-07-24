@@ -24,6 +24,7 @@
     <body>
     @section('main-content')
         @include('main-carosal')
+        @include('timeline/timeline')
     @endsection
     </body>
 </html>

@@ -35,8 +35,7 @@
         /* transform: rotate(268deg);
         -webkit-transform: rotate(268deg); */
         }
-
-        .active:after {
+        .accordion.active:after {
         content: "\25B2";
         }
 
