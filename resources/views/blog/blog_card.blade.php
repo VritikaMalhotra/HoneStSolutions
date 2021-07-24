@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="page-blog__cards row m-0">
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -46,7 +46,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -100,7 +100,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -118,7 +118,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="#">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/person_1.jpg" alt="" class="blog-card__image-fix">
                         </div>

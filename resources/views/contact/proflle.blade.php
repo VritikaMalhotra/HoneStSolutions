@@ -11,7 +11,7 @@
             /* margin-bottom: 15rem; */
         }
         .profile-card{
-            margin-top:0;
+            margin-top:-50px;
         }
         .profile-card__logo-fix{
             width:150px;
@@ -43,7 +43,7 @@
     <div class="profile-main">
         <div class="container">
             <div class="row m-0 justify-content-center">
-                <a href="#" class="profile-card col-md-6 col-sm-6 pt-5">
+                <a href="#" class="profile-card col-md-6 col-sm-6 pb-5">
                     <div class="profile-card__logo d-flex justify-content-center px-0 mb-4">
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#" class="profile-card col-md-6 col-sm-6 pt-5">
+                <a href="#" class="profile-card col-md-6 col-sm-6 pb-5">
                     <div class="profile-card__logo d-flex justify-content-center px-0 mb-4">
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>

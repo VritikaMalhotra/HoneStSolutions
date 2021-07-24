@@ -4,6 +4,7 @@
 @section('curosal-subtitle',('logetter we can make a difference'))
     @section('main-content')
         @include('about/curosel')
+        @include('contact/simple-banner')
         @include('contact/proflle')
         <div class="container">
             <div class="row py-5">

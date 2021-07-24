@@ -4,7 +4,10 @@
         .gallery-card__image-fix{
             width:100%;
         }        
- 
+        .probootstrap-animate {
+  opacity: 0;
+  visibility: hidden;
+}
  
 
     </style>
@@ -121,6 +124,9 @@
                         </div>
                     </a>
 
+                    <div class="col-md-3 col-sm-4 col-xs-6 gal-item probootstrap-animate">
+              <a href="img/person_2.jpg" class="image-popup"><img src="img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></a>
+            </div>
                 </div>
             </div>
         </div>

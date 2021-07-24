@@ -22,9 +22,9 @@
         transition: 0.4s;
         }
 
-        .active, .accordion:hover {
+        /* .active, .accordion:hover {
             background-color: #fff;
-        }
+        } */
 
         .accordion:after {
         content: '\25BC';

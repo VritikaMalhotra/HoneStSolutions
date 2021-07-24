@@ -184,7 +184,7 @@
   </div>
 
 </header> -->
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top py-4">
   <a class="navbar-brand" href="/"> <img src="../img/logo.png" alt=""> </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -194,7 +194,7 @@
       <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="/gallery">Gallery</a>
       <a class="nav-item nav-link" href="/books">Books</a>
-      <li class="nav-item dropdown">
+      <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Blog
         </a>
@@ -202,8 +202,11 @@
           <a class="dropdown-item" href="/blogs">Blogs</a>
           <a class="dropdown-item" href="/blogs-details">Blogs Details</a>
         </div>
-      </li>
+      </li> -->
+      <a class="nav-item nav-link" href="/blogs">Blogs</a>
       <a class="nav-item nav-link" href="/people">People</a>
+      <a class="nav-item nav-link" href="/our-journey">Our journey</a>
+      <a class="nav-item nav-link" href="/servies">Servies</a>
       <a class="nav-item nav-link" href="/about">About Us</a>
       <a class="nav-item nav-link" href="/contact">Contact Us</a>
     </div>
