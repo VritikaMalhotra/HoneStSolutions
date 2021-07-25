@@ -72,21 +72,21 @@
             </ul>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="img/hero_bg_bw_1.jpg" alt="Los Angeles" width="100%">
+                <img src="img/img_sm_1.jpg" alt="Los Angeles" width="100%" height="60%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>
                 </div>   
                 </div>
                 <div class="carousel-item">
-                <img src="img/hero_bg_bw_1.jpg" alt="Chicago" width="100%">
+                <img src="img/img_sm_1.jpg" alt="Chicago" width="100%" height="60%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>
                 </div>   
                 </div>
                 <div class="carousel-item">
-                <img src="img/hero_bg_bw_1.jpg" alt="New York" width="100%">
+                <img src="img/img_sm_1.jpg" alt="New York" width="100%" height="60%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>

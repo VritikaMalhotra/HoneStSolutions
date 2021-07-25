@@ -11,13 +11,14 @@
             /* margin-bottom: 15rem; */
         }
         .profile-card{
-            margin-top:-50px;
+            margin-top:-120px;
         }
         .profile-card__logo-fix{
-            width:150px;
-            height:150px;
+            width:180px;
+            height:180px;
             border-radius: 50%;
-            border: 20px solid orange;
+            border: 20px solid #ffffff;
+            outline: orange;
         }        
         .profile-card__description{
             text-align:center;
@@ -25,7 +26,8 @@
         }
         .profile-card__name{
             text-align:center;
-            color: gray;
+            color: #000000;
+            
         }
         .profile-card__position{
             text-align:center;
@@ -37,6 +39,8 @@
         .profile-card__logo{
             /* padding-top:5rem; */
         }
+
+        
     </style>
 </head>
 <body>
@@ -44,7 +48,7 @@
         <div class="container">
             <div class="row m-0 justify-content-center">
                 <a href="#" class="profile-card col-md-6 col-sm-6 pb-5">
-                    <div class="profile-card__logo d-flex justify-content-center px-0 mb-4">
+                    <div class="profile-card__logo d-flex justify-content-center px-0 mb-4 ">
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
@@ -61,7 +65,7 @@
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
-                        <h3 class="profile-card__name mb-0">Prasun <span class="">Kundu</span></h3>
+                        <h3 class="profile-card__name mb-0">Sandhya <span class="">Kundu</span></h3>
                         <p class="profile-card__description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae. Ultricies aliquet fringilla tortor sed consectetur maecenas. Vestibulum ridiculus egestas et sapien nec vitae mollis. Vitae elementum lacinia in non pretium in. Quam."</p>
                         <!-- <a href="#" class="btn btn-primary">Know More</a> -->
                         <div class="d-flex justify-content-center">

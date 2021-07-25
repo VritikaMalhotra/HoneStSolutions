@@ -37,15 +37,15 @@
                             <img src="img/person_1.jpg" alt="" class="travel-card__image-fix">
                         </div>
                         <div class="travel-card__content px-4 py-4">
-                            <input type="range" class="travel-card__range form-range" id="disabledRange" disabled value='99'>
-                            <h6 class="travel-card__offer mb-2">FEES</h6>
-                            <h6 class="travel-card__price">RS 50</h6>
-                            <h5 class="travel-card__plan mb-2">Upcoming Events</h5>
+                            {{-- <input type="range" class="travel-card__range form-range" id="disabledRange" disabled value='99'> --}}
+                            {{-- <h6 class="travel-card__offer mb-2">FEES</h6>
+                            <h6 class="travel-card__price">RS 50</h6> --}}
+                            <h5 class="travel-card__plan mb-2">Prasun Kundu</h5>
                             <div class="d-flex align-items-center">
-                                <i class="fa fa-calendar" style="color:gray"></i>
-                                <p class="travel-card__days pl-2 mb-0">2 Days remaining</p>
+                                {{-- <i class="fa fa-calendar" style="color:gray"></i> --}}
+                                <p class="travel-card__days pl-2 mb-0">Lorem ipsum dolor sit amet consectetur</p>
                             </div>
-                            <a href="#" class="btn btn-black mt-2">Register Now</a>
+                            <a href="#" class="btn btn-primary mt-2">Read more</a>
                         </div>
                     </a>   
                     </div>

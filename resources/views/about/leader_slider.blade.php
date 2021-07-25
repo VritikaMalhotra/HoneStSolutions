@@ -26,8 +26,8 @@
 
        <div class="container">
        
-           <h1 class="leader_slider__title">LEADERSHIP</h1>
-           <p class="leader_slider__subtitle">logetter we can make a difference</p>
+           <h1 class="leader_slider__title">Events</h1>
+           <p class="leader_slider__subtitle">together we can make a difference</p>
            <div class="owl-carousel owl-theme">
                <div class="leader_slider__item">
                    <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">

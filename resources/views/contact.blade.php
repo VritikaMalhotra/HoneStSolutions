@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('curosal-title',('CONTACT US'))
-@section('curosal-subtitle',('logetter we can make a difference'))
+@section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')
         @include('about/curosel')
         @include('contact/simple-banner')

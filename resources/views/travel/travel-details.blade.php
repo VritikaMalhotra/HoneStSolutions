@@ -39,7 +39,7 @@
                 </div>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
-                <a href="#" class="btn btn-black">Comment Now</a>
+                <a href="#" class="btn btn-primary">Comment Now</a>
             </div>
         </div>
     </body>
