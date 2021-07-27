@@ -184,25 +184,16 @@
   </div>
 
 </header> -->
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top py-4">
+<!-- <nav class="navbar navbar-expand-lg navbar-dark sticky-top py-4">
   <a class="navbar-brand" href="/"> <img src="../img/logo.png" alt=""> </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="/gallery">Gallery</a>
       <a class="nav-item nav-link" href="/books">Books</a>
-      <!-- <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Blog
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/blogs">Blogs</a>
-          <a class="dropdown-item" href="/blogs-details">Blogs Details</a>
-        </div>
-      </li> -->
       <a class="nav-item nav-link" href="/blogs">Blogs</a>
       <a class="nav-item nav-link" href="/people">People</a>
       <a class="nav-item nav-link" href="/our-journey">Our journey</a>
@@ -211,4 +202,47 @@
       <a class="nav-item nav-link" href="/contact">Contact Us</a>
     </div>
   </div>
-</nav>
+</nav> -->
+
+<header>
+    <nav>
+        <div class="menu-icon">
+            <i class="fa fa-bars fa-2x"></i>
+        </div>
+        <div class="logo">
+            LOGO
+        </div>
+        <div class="menu">
+            <ul>
+                <li class="navbar__wrap"><a href="/" class="navbar__item">Home</a></li>
+                <li class="navbar__wrap"><a href="/gallery" class="navbar__item">Gallery</a></li>
+                <li class="navbar__wrap"><a href="/books" class="navbar__item">Books</a></li>
+                <li class="navbar__wrap"><a href="/blogs" class="navbar__item">Blogs</a></li>
+                <li class="navbar__wrap"><a href="/people" class="navbar__item">People</a></li>
+                <li class="navbar__wrap"><a href="/our-journey" class="navbar__item">Our journey</a></li>
+                <li class="navbar__wrap"><a href="/servies" class="navbar__item">Servies</a></li>
+                <li class="navbar__wrap"><a href="/about" class="navbar__item">About Us</a></li>
+                <li class="navbar__wrap"><a href="/contact" class="navbar__item">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<script>
+    $(document).ready(function() {
+        $(".menu-icon").on("click", function() {
+            $("nav ul").toggleClass("showing");
+            });
+        });
+
+    // Scrolling Effect
+
+    $(window).on("scroll", function() {
+        if($(window).scrollTop()) {
+            $('nav').addClass('black');
+        }
+
+        else {
+             $('nav').removeClass('black');
+        }
+    })
+</script>
