@@ -348,14 +348,18 @@ nav.black ul {
       text-decoration: none;
       color: #fff;
       font-size: 16px;
+      border-bottom: 2px solid cornflowerblue;
 }
 @media(max-width: 1440px) {
     .navbar__item {
         padding: 12px 15px;       
         font-size: 12px;
   }
-  .logo{
-
+}
+@media(max-width: 1280px) {
+    .navbar__item {
+        padding: 10px 14px;       
+        font-size: 10px;
   }
 }
 .menu-icon {
@@ -396,7 +400,7 @@ nav.black ul {
             width: 100%;
             padding: 24px;
             text-align: center;
-
+            font-size:20px;
       }
 
       .menu-icon {
