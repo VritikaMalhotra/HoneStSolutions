@@ -307,7 +307,7 @@ a:hover, a:focus, a:active {
       line-height: 60px;
       position: fixed;
       float: left;
-      margin: 16px 46px;
+      margin-left: 16px;
       color: #fff;
       font-weight: bold;
       font-size: 20px;
@@ -329,7 +329,7 @@ nav ul {
       padding: 0;
       text-align: right;
       margin: 0;
-      padding-right: 40px;
+      /* padding-right: 40px; */
       transition: 1s;
 }
 
@@ -337,21 +337,31 @@ nav.black ul {
       background: cornflowerblue;
 }
 
-nav ul li {
+/* nav ul li {
       display: inline-block;
       padding: 16px 40px;;
-}
+} */
 
-nav ul li a {
+.navbar__item {
+      display: inline-block;
+      padding: 16px 20px;;
       text-decoration: none;
       color: #fff;
       font-size: 16px;
 }
+@media(max-width: 1440px) {
+    .navbar__item {
+        padding: 12px 15px;       
+        font-size: 12px;
+  }
+  .logo{
 
+  }
+}
 .menu-icon {
       line-height: 60px;
       width: 100%;
-      background: #000;
+      background: cornflowerblue;
       text-align: right;
       box-sizing: border-box;
       padding: 15px 24px;
@@ -370,45 +380,46 @@ nav ul li a {
 
       nav ul {
             max-height: 0px;
-            background: #000;
+            background: cornflowerblue;
       }
 
-      nav.black ul {
+      /* nav.black ul {
             background: #000;
-      }
+      } */
 
       .showing {
-            max-height: 34em;
+            max-height: 45em;
       }
 
-      nav ul li {
+      .navbar__item {
             box-sizing: border-box;
             width: 100%;
             padding: 24px;
             text-align: center;
+
       }
 
       .menu-icon {
             display: block;
       }
-	  .navbar__wrap:hover {
-		border-bottom:2px solid orange;
-		background-color:white;
-			
+	  .navbar__item:hover {
+      border-bottom:2px solid orange;
+      background-color:white;
+      color:orange;	
 		}
 		.navbar__wrap:hover .navbar__item{
-			color:orange;	
+			
 		}
 
 }
-.navbar__wrap:hover {
+.navbar__item:hover {
 	border-bottom:2px solid orange;
 	background-color:white;
-	
-}
-.navbar__wrap:hover .navbar__item{
 	color:orange;	
 }
+/* .navbar__wrap:hover .navbar__item{
+	
+} */
 
     </style>
 </head>

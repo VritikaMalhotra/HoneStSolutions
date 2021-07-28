@@ -210,20 +210,40 @@
             <i class="fa fa-bars fa-2x"></i>
         </div>
         <div class="logo">
-            LOGO
+            CHARITY
         </div>
         <div class="menu">
+            <!-- <div class="navbar__wrap"> -->
             <ul>
-                <li class="navbar__wrap"><a href="/" class="navbar__item">Home</a></li>
-                <li class="navbar__wrap"><a href="/gallery" class="navbar__item">Gallery</a></li>
-                <li class="navbar__wrap"><a href="/books" class="navbar__item">Books</a></li>
-                <li class="navbar__wrap"><a href="/blogs" class="navbar__item">Blogs</a></li>
-                <li class="navbar__wrap"><a href="/people" class="navbar__item">People</a></li>
-                <li class="navbar__wrap"><a href="/our-journey" class="navbar__item">Our journey</a></li>
-                <li class="navbar__wrap"><a href="/servies" class="navbar__item">Servies</a></li>
-                <li class="navbar__wrap"><a href="/about" class="navbar__item">About Us</a></li>
-                <li class="navbar__wrap"><a href="/contact" class="navbar__item">Contact Us</a></li>
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/" class="navbar__item">Home</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/gallery" class="navbar__item">Gallery</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/books" class="navbar__item">Books</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/blogs" class="navbar__item">Blogs</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/people" class="navbar__item">People</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/our-journey" class="navbar__item">Our journey</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/servies" class="navbar__item">Servies</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/about" class="navbar__item">About Us</a>
+                <!-- </li> -->
+                <!-- <li class="navbar__wrap"> -->
+                    <a href="/contact" class="navbar__item">Contact Us</a>
+                <!-- </li> -->
             </ul>
+            <!-- </div> -->
         </div>
     </nav>
 </header>
