@@ -20,7 +20,7 @@
 <!-- Owl Carousel -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
 
-    
+
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
     <title>Head</title>
     <style>
@@ -255,6 +255,84 @@ a:hover, a:focus, a:active {
 .mt100 {
   margin-top: 100px;
 }
+.pt10 {
+  padding-top: 10px;
+}
+
+.pt20 {
+  padding-top: 20px;
+}
+
+.pt30 {
+  padding-top: 30px;
+}
+
+.pt40 {
+  padding-top: 40px;
+}
+
+.pt50 {
+  padding-top: 50px;
+}
+
+.pt60 {
+  padding-top: 60px;
+}
+
+.pt70 {
+  padding-top: 70px;
+}
+
+.pt80 {
+  padding-top: 80px;
+}
+
+.pt90 {
+  padding-top: 90px;
+}
+
+.pt100 {
+  padding-top: 100px;
+}
+.pb10 {
+  padding-bottom: 10px;
+}
+
+.pb20 {
+  padding-bottom: 20px;
+}
+
+.pb30 {
+  padding-bottom: 30px;
+}
+
+.pb40 {
+  padding-bottom: 40px;
+}
+
+.pb50 {
+  padding-bottom: 50px;
+}
+
+.pb60 {
+  padding-bottom: 60px;
+}
+
+.pb70 {
+  padding-bottom: 70px;
+}
+
+.pb80 {
+  padding-bottom: 80px;
+}
+
+.pb90 {
+  padding-bottom: 90px;
+}
+
+.pb100 {
+  padding-bottom: 100px;
+}
 
 .pb0 {
   padding-bottom: 0 !important;
@@ -352,13 +430,13 @@ nav.black ul {
 }
 @media(max-width: 1440px) {
     .navbar__item {
-        padding: 12px 15px;       
+        padding: 12px 15px;
         font-size: 12px;
   }
 }
 @media(max-width: 1280px) {
     .navbar__item {
-        padding: 10px 14px;       
+        padding: 10px 14px;
         font-size: 10px;
   }
 }
@@ -409,20 +487,20 @@ nav.black ul {
 	  .navbar__item:hover {
       border-bottom:2px solid orange;
       background-color:white;
-      color:orange;	
+      color:orange;
 		}
 		.navbar__wrap:hover .navbar__item{
-			
+
 		}
 
 }
 .navbar__item:hover {
 	border-bottom:2px solid orange;
 	background-color:white;
-	color:orange;	
+	color:orange;
 }
 /* .navbar__wrap:hover .navbar__item{
-	
+
 } */
 
     </style>

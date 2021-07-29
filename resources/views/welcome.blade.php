@@ -18,13 +18,24 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
+                /* background-color:red; */
+            }
+            .main-content{
+                background-color:#e7e7e7;
             }
         </style>
     </head>
     <body>
     @section('main-content')
-        @include('main-carosal')
+        <div class="main-content pt30 pb30">
+            <div class="container">
+                @include('home/our-service')
+                @include('home/our-partner-carousel')
 
+            </div>
+
+        </div>
+        {{-- @include('main-carosal') --}}
     @endsection
     </body>
 </html>
