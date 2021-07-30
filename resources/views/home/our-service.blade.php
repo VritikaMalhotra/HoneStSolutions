@@ -8,6 +8,7 @@
     <style>
         .page__our-servies{
             /* background-color: #d6d6d6; */
+            padding: 180px 0 80px 0;
         }
         .our-servies__card{
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -21,6 +22,11 @@
         .our-servies__logo-fix{
             width:150px;
         }
+        @media only screen and (max-width: 1023px) {
+            .our-servies__logo-fix{
+                width:100%;
+        }
+        }
         .our-servies__name{
             color: black;
             font-weight: 600;
@@ -30,13 +36,14 @@
             color: gray;
             text-align:center;
         }
+
     </style>
 </head>
 <body>
-    <div class="page__our-servies py-5">
-        <div class="container">
+    <div class="page__our-servies">
+        {{-- <div class="container"> --}}
             <div class="our-servies__cards justify-content-center row m-0">
-                <a href="#" class="our-servies col-md-3 col-sm-6 pt-5">
+                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/person_1.jpg" alt="" class="our-servies__logo-fix">
@@ -51,7 +58,7 @@
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-md-3 col-sm-6 pt-5">
+                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/person_2.jpg" alt="" class="our-servies__logo-fix">
@@ -66,7 +73,7 @@
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-md-3 col-sm-6 pt-5">
+                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/person_3.jpg" alt="" class="our-servies__logo-fix">
@@ -81,7 +88,7 @@
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-md-3 col-sm-6 pt-5">
+                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/person_4.jpg" alt="" class="our-servies__logo-fix">
@@ -98,7 +105,7 @@
 
 
             </div>
-        </div>
+        {{-- </div> --}}
     </div>
 </body>
 </html>

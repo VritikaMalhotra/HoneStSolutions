@@ -26,7 +26,7 @@
         </style>
     </head>
     <body>
-   <div class="our-partner-carousel pt50 pb50">
+   <div class="our-partner-carousel pt50 pb50 my-5">
 
        <div class="container">
 

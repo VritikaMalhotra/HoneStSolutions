@@ -27,13 +27,16 @@
     </head>
     <body>
     @section('main-content')
-        <div class="main-content pt30 pb30">
+        <div class="main-content">
+            @include('home/homepage-banner')
             <div class="container">
                 @include('home/our-service')
+                @include('home/our-mission')
+                @include('home/testlmenial-carousel')
                 @include('home/our-partner-carousel')
 
             </div>
-
+            @include('home/contact-banner')
         </div>
         {{-- @include('main-carosal') --}}
     @endsection
