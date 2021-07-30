@@ -15,6 +15,14 @@
            .our-partner-carousel__title{
                text-align:center;
            }
+           .our-partner-carousel__title--shadow{
+            position: relative;
+                font-size: 60px;
+                color: gray;
+                text-align: center;
+                top: -75px;
+                opacity: 0.12;
+            }
            .our-partner-carousel__subtitle{
                text-align:center;
            }
@@ -30,7 +38,8 @@
 
        <div class="container">
 
-           <h1 class="our-partner-carousel__title">Our Partners</h1>
+           <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
+           <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1>
            <div class="owl-carousel our-partner-owl-carousel">
                <div class="our-partner-carousel__item">
                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">

@@ -21,7 +21,7 @@
                 font-size: 60px;
                 color: gray;
                 text-align: center;
-                top: -105px;
+                top: -75px;
                 opacity: 0.12;
             }
            .testlmenial-carousel__image-fix{
@@ -60,7 +60,7 @@
 
        <div class="container">
 
-           <h1 class="testlmenial-carousel__title">Testlmenial</h1>
+           <h1 class="testlmenial-carousel__title mb0">Testlmenial</h1>
            <h1 class="testlmenial-carousel__title--shadow mb0">Testlmenial</h1>
            <div id="testlmenial-carousel" class="carousel slide testlmenial-carousel__slide" data-ride="carousel">
             <ul class="carousel-indicators">

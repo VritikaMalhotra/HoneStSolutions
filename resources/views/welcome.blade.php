@@ -32,6 +32,7 @@
             <div class="container">
                 @include('home/our-service')
                 @include('home/our-mission')
+                @include('home/events')
                 @include('home/testlmenial-carousel')
                 @include('home/our-partner-carousel')
 
