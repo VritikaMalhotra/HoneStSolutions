@@ -12,6 +12,12 @@
                 background-color:white;
                 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             }
+            .testlmenial-carousel__background{
+                background-image: url(img/background-ship.png),url(img/bacground-om.png);
+                background-repeat: no-repeat;
+                background-position: top left,bottom right;
+                background-size: 200px,150px;
+            }
            .testlmenial-carousel__title{
                text-align:center;
                /* text-shadow: 1px 1px 2px gray; */
@@ -56,46 +62,48 @@
         </style>
     </head>
     <body>
-   <div class="testlmenial-carousel pt50 pb50 my-5">
 
+   <div class="testlmenial-carousel__background">
        <div class="container">
+            <div class="testlmenial-carousel  pt50 pb50 my-5">
 
-           <h1 class="testlmenial-carousel__title mb0">Testlmenial</h1>
-           <h1 class="testlmenial-carousel__title--shadow mb0">Testlmenial</h1>
-           <div id="testlmenial-carousel" class="carousel slide testlmenial-carousel__slide" data-ride="carousel">
-            <ul class="carousel-indicators">
-                <li data-target="#testlmenial-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#testlmenial-carousel" data-slide-to="1"></li>
-                <li data-target="#testlmenial-carousel" data-slide-to="2"></li>
-            </ul>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="d-flex justify-content-center">
-                        <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
-                    </div>
-                    <div class="testlmenial-carousel__content">
-                        <h1 class="testlmenial-carousel__name pt20">Hello</h1>
-                        <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="d-flex justify-content-center">
-                        <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
-                    </div>
-                    <div class="testlmenial-carousel__content">
-                        <h1 class="testlmenial-carousel__name pt20">Hello</h1>
-                        <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="d-flex justify-content-center">
-                        <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
-                    </div>
-                    <div class="testlmenial-carousel__content">
-                        <h1 class="testlmenial-carousel__name pt20">Hello</h1>
-                        <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
-                    </div>
-                </div>
+                <h1 class="testlmenial-carousel__title mb0">Testlmenial</h1>
+                <h1 class="testlmenial-carousel__title--shadow mb0">Testlmenial</h1>
+                <div id="testlmenial-carousel" class="carousel slide testlmenial-carousel__slide" data-ride="carousel">
+                 <ul class="carousel-indicators">
+                     <li data-target="#testlmenial-carousel" data-slide-to="0" class="active"></li>
+                     <li data-target="#testlmenial-carousel" data-slide-to="1"></li>
+                     <li data-target="#testlmenial-carousel" data-slide-to="2"></li>
+                 </ul>
+                 <div class="carousel-inner">
+                     <div class="carousel-item active">
+                         <div class="d-flex justify-content-center">
+                             <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
+                         </div>
+                         <div class="testlmenial-carousel__content">
+                             <h1 class="testlmenial-carousel__name pt20">Hello</h1>
+                             <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                         </div>
+                     </div>
+                     <div class="carousel-item">
+                         <div class="d-flex justify-content-center">
+                             <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
+                         </div>
+                         <div class="testlmenial-carousel__content">
+                             <h1 class="testlmenial-carousel__name pt20">Hello</h1>
+                             <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                         </div>
+                     </div>
+                     <div class="carousel-item">
+                         <div class="d-flex justify-content-center">
+                             <img src="img/person_1.jpg" alt="" class="testlmenial-carousel__image-fix">
+                         </div>
+                         <div class="testlmenial-carousel__content">
+                             <h1 class="testlmenial-carousel__name pt20">Hello</h1>
+                             <p class="testlmenial-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                         </div>
+                     </div>
+                 </div>
             </div>
         </div>
 

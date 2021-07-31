@@ -32,16 +32,18 @@
     </style>
 </head>
 <body>
-    <div class="page__our-mission py-5 px-5 my-5">
-        <h1 class="our-mission__title mb0">Our Mission</h1>
-        <h1 class="our-mission__title--shadow mb0">Our Mission</h1>
-        <div class="our-mission__banner d-flex justify-content-center mb20">
-            <img src="img/person_4.jpg" alt="" class="our-mission__banner-fix">
-        </div>
-        <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
-        <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
-        <div class="d-flex justify-content-center pt30">
-            <a href="#" class="btn btn-primary">Register</a>
+    <div class="container">
+        <div class="page__our-mission py-5 px-5 my-5">
+            <h1 class="our-mission__title mb0">Our Mission</h1>
+            <h1 class="our-mission__title--shadow mb0">Our Mission</h1>
+            <div class="our-mission__banner d-flex justify-content-center mb20">
+                <img src="img/person_4.jpg" alt="" class="our-mission__banner-fix">
+            </div>
+            <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
+            <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
+            <div class="d-flex justify-content-center pt30">
+                <a href="#" class="btn btn-primary">Register</a>
+            </div>
         </div>
     </div>
 </body>

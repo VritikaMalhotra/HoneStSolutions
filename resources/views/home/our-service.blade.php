@@ -6,9 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        .homepage__banner-fix{
+            padding: 180px 0 80px 0;
+        }
         .page__our-servies{
             /* background-color: #d6d6d6; */
-            padding: 180px 0 80px 0;
+            background-image: url(img/background-flower3.png),url(img/background-flower4.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,200px;
+            /* padding: 180px 0 80px 0; */
         }
         .our-servies__card{
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -40,8 +47,9 @@
     </style>
 </head>
 <body>
+    <div class="homepage__banner-fix">
     <div class="page__our-servies">
-        {{-- <div class="container"> --}}
+        <div class="container">
             <div class="our-servies__cards justify-content-center row m-0">
                 <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
@@ -105,7 +113,8 @@
 
 
             </div>
-        {{-- </div> --}}
+        </div>
+    </div>
     </div>
 </body>
 </html>

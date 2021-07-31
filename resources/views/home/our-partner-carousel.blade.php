@@ -8,6 +8,12 @@
             integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
             crossorigin="anonymous" />
         <style>
+            .our-partner-carousel__background{
+                background-image: url(img/background-testlmenial.png);
+                background-repeat: no-repeat;
+                background-position: bottom left;
+                background-size: 200px;
+            }
             .our-partner-carousel{
                 background-color:white;
                 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -34,26 +40,27 @@
         </style>
     </head>
     <body>
-   <div class="our-partner-carousel pt50 pb50 my-5">
+   <div class="our-partner-carousel__background">
 
        <div class="container">
-
-           <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
-           <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1>
-           <div class="owl-carousel our-partner-owl-carousel">
-               <div class="our-partner-carousel__item">
-                   <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
-               </div>
-               <div class="our-partner-carousel__item">
-                   <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
-               </div>
-               <div class="our-partner-carousel__item">
-                   <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
-               </div>
-               <div class="our-partner-carousel__item">
-                   <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
-               </div>
-           </div>
+        <div class="our-partner-carousel pt50 pb50 my-5">
+            <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
+            <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1>
+            <div class="owl-carousel our-partner-owl-carousel">
+                <div class="our-partner-carousel__item">
+                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                </div>
+                <div class="our-partner-carousel__item">
+                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                </div>
+                <div class="our-partner-carousel__item">
+                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                </div>
+                <div class="our-partner-carousel__item">
+                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                </div>
+            </div>
+        </div>
        </div>
    </div>
 

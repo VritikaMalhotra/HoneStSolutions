@@ -23,20 +23,28 @@
             .main-content{
                 background-color:#e7e7e7;
             }
+            .background-our-mission{
+                background-image: url(img/bacground-our-mission.png);
+                background-repeat: no-repeat;
+                background-position: bottom left;
+                background-size: 200px;
+            }
         </style>
     </head>
     <body>
     @section('main-content')
         <div class="main-content">
             @include('home/homepage-banner')
-            <div class="container">
+            {{-- <div class="container"> --}}
                 @include('home/our-service')
-                @include('home/our-mission')
+                <div class="background-our-mission">
+                    @include('home/our-mission')
+                </div>
                 @include('home/events')
                 @include('home/testlmenial-carousel')
                 @include('home/our-partner-carousel')
 
-            </div>
+            {{-- </div> --}}
             @include('home/contact-banner')
         </div>
         {{-- @include('main-carosal') --}}
