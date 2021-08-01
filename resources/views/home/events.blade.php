@@ -12,6 +12,9 @@
                 background-position: center right;
                 /* background-size: 200px; */
             }
+            .events__title-fix{
+                max-width: 100%;
+            }
             .events__title{
                text-align:center;
             }
@@ -42,8 +45,11 @@
 <body>
     <div class="events events__background">
         <div class="container">
-            <h1 class="events__title mb0">Events</h1>
-            <h1 class="events__title--shadow mb0">Events</h1>
+            <div class="events__title d-flex justify-content-center">
+                <img src="img/events-title.png" alt="" class="events__title-fix">
+            </div>
+            {{-- <h1 class="events__title mb0">Events</h1>
+            <h1 class="events__title--shadow mb0">Events</h1> --}}
             <div class="events__cards">
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">

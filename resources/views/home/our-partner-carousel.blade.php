@@ -18,6 +18,9 @@
                 background-color:white;
                 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             }
+            .our-partner-carousel__title-fix{
+                max-width: 100%;
+            }
            .our-partner-carousel__title{
                text-align:center;
            }
@@ -32,9 +35,12 @@
            .our-partner-carousel__subtitle{
                text-align:center;
            }
-
+            /* .our-partner-carousel__image{
+                max-width:100% !important;
+            } */
            .our-partner-carousel__image-fix{
-               width:100%
+               max-width:100% !important;
+               margin: auto;
            }
 
         </style>
@@ -44,20 +50,26 @@
 
        <div class="container">
         <div class="our-partner-carousel pt50 pb50 my-5">
-            <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
-            <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1>
+            <div class="our-partner-carousel__title d-flex justify-content-center">
+                <img src="img/Our-partners-title.png" alt="" class="our-partner-carousel__title-fix">
+            </div>
+            {{-- <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
+            <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1> --}}
             <div class="owl-carousel our-partner-owl-carousel">
-                <div class="our-partner-carousel__item">
-                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                <div class="our-partner-carousel__item d-flex align-items-center">
+                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                        <img src="img/our-partner-img1.jpg" alt="" class="our-partner-carousel__image-fix">
+                    {{-- </div> --}}
                 </div>
-                <div class="our-partner-carousel__item">
-                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                <div class="our-partner-carousel__item d-flex align-items-center">
+                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                        <img src="img/our-partner-img2.jpg" alt="" class="our-partner-carousel__image-fix">
+                    {{-- </div> --}}
                 </div>
-                <div class="our-partner-carousel__item">
-                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
-                </div>
-                <div class="our-partner-carousel__item">
-                    <img src="img/person_1.jpg" alt="" class="our-partner-carousel__image-fix">
+                <div class="our-partner-carousel__item d-flex align-items-center">
+                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                        <img src="img/our-partner-img3.jpg" alt="" class="our-partner-carousel__image-fix">
+                    {{-- </div> --}}
                 </div>
             </div>
         </div>

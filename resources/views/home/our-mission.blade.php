@@ -10,6 +10,9 @@
             background-color: white;
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         }
+        .Our-mission__title-fix{
+            max-width: 100%;
+        }
         .our-mission__title{
             text-align: center;
         }
@@ -34,8 +37,11 @@
 <body>
     <div class="container">
         <div class="page__our-mission py-5 px-5 my-5">
-            <h1 class="our-mission__title mb0">Our Mission</h1>
-            <h1 class="our-mission__title--shadow mb0">Our Mission</h1>
+            {{-- <h1 class="our-mission__title mb0">Our Mission</h1>
+            <h1 class="our-mission__title--shadow mb0">Our Mission</h1> --}}
+            <div class="Our-mission__title d-flex justify-content-center">
+                <img src="img/Our-mission-title.png" alt="" class="Our-mission__title-fix">
+            </div>
             <div class="our-mission__banner d-flex justify-content-center mb20">
                 <img src="img/person_4.jpg" alt="" class="our-mission__banner-fix">
             </div>

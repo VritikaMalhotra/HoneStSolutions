@@ -17,6 +17,9 @@
             background-size: 200px,200px;
             /* padding: 180px 0 80px 0; */
         }
+        .our-service-title-fix{
+            max-width: 100%;
+        }
         .our-servies__card{
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             transition: 0.3s;
@@ -50,6 +53,9 @@
     <div class="homepage__banner-fix">
     <div class="page__our-servies">
         <div class="container">
+            <div class="our-service-title d-flex justify-content-center">
+                <img src="img/our-service-title.png" alt="" class="our-service-title-fix">
+            </div>
             <div class="our-servies__cards justify-content-center row m-0">
                 <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card">
