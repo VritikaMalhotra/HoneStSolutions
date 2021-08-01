@@ -19,6 +19,15 @@
         .book__link-icon:hover{
             color:gray;
         }
+        .book-carousel__image-fix{
+               max-width:100% !important;
+               margin: auto;
+           }
+           .owl-carousel .owl-stage {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
     </style>
     </head>
     <body>
@@ -26,27 +35,46 @@
 
             <!-- <p class="page-book__subtitle col-12">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p> -->
             <div class="container">
-                <div class="page-book__cards justify-content-center row m-0">
-                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
-                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                <div class="owl-carousel book-owl-carousel">
+                    <div class="book-carousel__item d-flex align-items-center justify-content-center">
+                        <div class="book-carousel__image d-flex align-items-center justify-content-center">
+                            <img src="img/person_1.jpg" alt="" class="book-carousel__image-fix">
                         </div>
-                    </a>
-
-                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
-                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                    </div>
+                    <div class="book-carousel__item d-flex align-items-center justify-content-center">
+                        <div class="book-carousel__image d-flex align-items-center justify-content-center">
+                            <img src="img/person_2.jpg" alt="" class="book-carousel__image-fix">
                         </div>
-                    </a>
-
-                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
-                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                    </div>
+                    <div class="book-carousel__item d-flex align-items-center justify-content-center">
+                        <div class="book-carousel__image d-flex align-items-center justify-content-center">
+                            <img src="img/person_3.jpg" alt="" class="book-carousel__image-fix">
                         </div>
-                    </a>
-
-
+                    </div>
                 </div>
+            </div>
+
+                {{-- <div class="page-book__cards justify-content-center row m-0">
+                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                        </div>
+                    </a>
+
+                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                        </div>
+                    </a>
+
+                    <a href="#" class="book col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="book__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/person_1.jpg" alt="" class="book__logo-fix">
+                        </div>
+                    </a>
+
+
+                </div> --}}
             </div>
             <div class="page-book__wrapper d-flex justify-content-center">
                 <a href="#" class="book_link"><i class="fa fa-facebook p-2 m-2 book__link-icon"></i></a>
@@ -56,5 +84,37 @@
             </div>
             <h6 class="page-book__title col-12 mb-0">Share this book</h6>
         </div>
+       <!--Jquery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+<!-- Owl Carousel -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- custom JS code after importing jquery and owl -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".book-owl-carousel").owlCarousel();
+    });
+
+    $('.book-owl-carousel').owlCarousel({
+        loop: true,
+        margin: 0,
+        autoplay:true,
+        nav: false,
+        dots:false,
+        responsive: {
+            0: {
+                items: 1
+            },
+            448: {
+                items: 2
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 3
+            }
+        }
+    })
+</script>
     </body>
 </html>
