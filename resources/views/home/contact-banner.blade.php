@@ -22,17 +22,17 @@
     </style>
 </head>
 <body>
-    <div class="contact-banner pt80 pb80">
+    <div class="contact-banner">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-6 pt80 pb80">
                     <h4 class="contact-banner__title mb20">Contact us for updates and quries</h4>
                     <h6 class="contact-banner__subtitle mb60">Contact us for updates and quries</h6>
                     <a href="#" class="btn btn-black">Contact us</a>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6 pt80 pb80" style="background-image: url(img/contact-banner-background-img.png);    background-position: center;background-repeat: no-repeat;background-size: contain;">
                     <div class="d-flex justify-content-center">
-                        <img src="img/person_4.jpg" alt="" class="contact-banner__image-fix">
+                        <img src="img/contact-logo-banner.png" alt="" class="contact-banner__image-fix">
                     </div>
                 </div>
             </div>

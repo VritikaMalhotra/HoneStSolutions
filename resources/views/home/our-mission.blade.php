@@ -9,6 +9,12 @@
         .page__our-mission{
             background-color: white;
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            padding: 0 121px;
+        }
+        @media only screen and (max-width: 768px) {
+            .page__our-mission{
+                padding: 0 15px;
+        }
         }
         .Our-mission__title-fix{
             max-width: 100%;
@@ -25,8 +31,8 @@
                 opacity: 0.12;
             }
         .our-mission__banner-fix{
-            width: 150px;
-            height: 150px;
+            width: auto;
+            /* height: 150px; */
         }
         .our-mission__description{
 
@@ -36,19 +42,19 @@
 </head>
 <body>
     <div class="container">
-        <div class="page__our-mission py-5 px-5 my-5">
+        <div class="page__our-mission py-5 my-5">
             {{-- <h1 class="our-mission__title mb0">Our Mission</h1>
             <h1 class="our-mission__title--shadow mb0">Our Mission</h1> --}}
             <div class="Our-mission__title d-flex justify-content-center">
                 <img src="img/Our-mission-title.png" alt="" class="Our-mission__title-fix">
             </div>
             <div class="our-mission__banner d-flex justify-content-center mb20">
-                <img src="img/person_4.jpg" alt="" class="our-mission__banner-fix">
+                <img src="img/our-mission-banner.jpg" alt="" class="our-mission__banner-fix">
             </div>
-            <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
-            <p class="our-mission__description mb0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eum libero voluptas nobis dicta!</p>
+            <p class="our-mission__description mb0">Today, given the economic and labor market conditions, the best and least risky way to invest is to invest in personal assets and skills. </p>
+            <p class="our-mission__description mb0">UI / UX Product Design Course covers all aspects of product design from product thinking and design to user-centric re</p>
             <div class="d-flex justify-content-center pt30">
-                <a href="#" class="btn btn-primary">Register</a>
+                <a href="#" class="btn btn-secondary">Read more</a>
             </div>
         </div>
     </div>

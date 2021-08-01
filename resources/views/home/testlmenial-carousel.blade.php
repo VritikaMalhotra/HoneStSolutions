@@ -36,7 +36,7 @@
            .testomoials-carousel__image-fix{
                width:120px;
                height: 120px;
-               border: 10px solid orange;
+               border: 10px solid #F9B94E;
                border-radius: 50%;
            }
            .testomoials-carousel__name{
@@ -47,8 +47,8 @@
            }
            .testomoials-carousel__slide{
                padding: 0px 100px;
-               border-left: 10px solid orange;
-               border-right: 10px solid orange;
+               border-left: 10px solid #F78819;
+               border-right: 10px solid #F78819;
            }
            @media screen and (max-width: 1023px) {
                 .testomoials-carousel__slide{
@@ -83,11 +83,11 @@
                  <div class="carousel-inner">
                      <div class="carousel-item active">
                          <div class="d-flex justify-content-center">
-                             <img src="img/person_1.jpg" alt="" class="testomoials-carousel__image-fix">
+                             <img src="img/testimonials-profile.jpg" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
-                             <h1 class="testomoials-carousel__name pt20">Hello</h1>
-                             <p class="testomoials-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                             <h1 class="testomoials-carousel__name pt20">Jhon Wick, New York</h1>
+                             <p class="testomoials-carousel__description">Writing paragraphs takes practice, but what should students write about? Good paragraph writing prompts allow students to write about what they know and like, so their focus can be on the writing process and using the four essential elements.</p>
                          </div>
                      </div>
                      <div class="carousel-item">
@@ -95,8 +95,8 @@
                              <img src="img/person_1.jpg" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
-                             <h1 class="testomoials-carousel__name pt20">Hello</h1>
-                             <p class="testomoials-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                             <h1 class="testomoials-carousel__name pt20">Jhon Wick, New York</h1>
+                             <p class="testomoials-carousel__description">Writing paragraphs takes practice, but what should students write about? Good paragraph writing prompts allow students to write about what they know and like, so their focus can be on the writing process and using the four essential elements.</p>
                          </div>
                      </div>
                      <div class="carousel-item">
@@ -104,8 +104,8 @@
                              <img src="img/person_1.jpg" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
-                             <h1 class="testomoials-carousel__name pt20">Hello</h1>
-                             <p class="testomoials-carousel__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur earum nulla ab cum. Ea aut ipsam quas animi odit perferendis dolores ab, tenetur et nostrum blanditiis iste facilis ratione eius?</p>
+                             <h1 class="testomoials-carousel__name pt20">Jhon Wick, New York</h1>
+                             <p class="testomoials-carousel__description">Writing paragraphs takes practice, but what should students write about? Good paragraph writing prompts allow students to write about what they know and like, so their focus can be on the writing process and using the four essential elements.</p>
                          </div>
                      </div>
                  </div>

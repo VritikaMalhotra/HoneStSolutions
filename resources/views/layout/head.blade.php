@@ -171,6 +171,39 @@ a:hover, a:focus, a:active {
   color: #ffffff;
   border: 1px solid #FDBE34;
 }
+.btn.btn-orange {
+  border: 1px solid #F46632;
+  background: #F46632;
+  color: #ffffff;
+}
+
+.btn.btn-orange:hover, .btn.btn-orange:active, .btn.btn-orange:focus {
+  background: #FF9031;
+  color: #ffffff;
+  border: 1px solid #FF9031;
+}
+
+.btn.btn-orange:focus, .btn.btn-orange:active {
+  outline: none;
+  border: 1px solid #FF9031;
+}
+
+.btn.btn-secondary {
+  border: 1px solid #F78819;
+  background: #F78819;
+  color: #ffffff;
+}
+
+.btn.btn-secondary:hover, .btn.btn-secondary:active, .btn.btn-secondary:focus {
+  background: #000000;
+  color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.btn.btn-secondary:focus, .btn.btn-secondary:active {
+  outline: none;
+  border: 1px solid #000000;
+}
 
 .mb10 {
   margin-bottom: 10px;
@@ -380,16 +413,29 @@ a:hover, a:focus, a:active {
       line-height: 30px;
       text-align: justify;
 }
-
+.home-st-logo-fix{
+    width: 100px;
+}
+@media(max-width: 1440px) {
+    .home-st-logo-fix{
+        width: 80px;
+    }
+}
+@media(max-width: 768px) {
+    .home-st-logo-fix{
+        width: 100px;
+    }
+}
 .logo {
-      line-height: 60px;
-      position: fixed;
+      line-height: 0px;
+      /* position: fixed; */
       float: left;
       margin-left: 16px;
       color: #fff;
       font-weight: bold;
       font-size: 20px;
       letter-spacing: 2px;
+      padding: 10px 0px;
 }
 
 nav {
@@ -457,7 +503,7 @@ nav.black ul {
       .logo {
             /* position: fixed; */
             top: 0;
-            margin-top: 16px;
+            margin-top: -74px;
       }
 
       nav ul {

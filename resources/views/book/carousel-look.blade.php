@@ -9,36 +9,36 @@
           text-align:center;
         }
         .carousel-look__carousel-inner{
-          padding: 10rem 20rem;
+            padding:0rem 20rem 5rem 20rem;
           /* background-color:black; */
         }
         @media screen and (max-width: 1420px) {
           .carousel-look__carousel-inner{
-          padding: 10rem 5rem;
+            padding:0rem 5rem 5rem 5rem;
+            /* padding: 10rem 5rem; */
           }
         }
         @media screen and (max-width: 778px) {
           .carousel-look__carousel-inner{
-          padding: 10rem 1rem;
+            padding:0rem 1rem 5rem 1rem;
+            /* padding: 10rem 1rem; */
           }
         }
     </style>
     </head>
     <body>
-      <div class="carousel-look">
+      <div class="carousel-look pt50">
+        <h1 class="carousel-look__title">Look Inside</h1>
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-look__carousel-inner carousel-inner">
             <div class="carousel-item active">
-              <h1 class="carousel-look__title">Look Inside</h1>
               <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
             </div>
             <div class="carousel-item">
-              <h1 class="carousel-look__title">Look Inside</h1>
               <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
             </div>
             <div class="carousel-item">
-              <h1 class="carousel-look__title">Look Inside</h1>
-              <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>  
+              <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
             </div>
           </div>
           <div class="d-flex justify-content-center">
@@ -52,7 +52,7 @@
             </a>
           </div>
         </div>
-      </div>        
+      </div>
     </body>
 </html>
 

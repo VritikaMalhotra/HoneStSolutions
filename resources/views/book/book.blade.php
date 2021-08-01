@@ -14,7 +14,7 @@
         }
         .book__link-icon{
             border:1px solid gray;
-            color:gray;    
+            color:gray;
         }
         .book__link-icon:hover{
             color:gray;
@@ -23,7 +23,7 @@
     </head>
     <body>
         <div class="page-book py-5">
-            
+
             <!-- <p class="page-book__subtitle col-12">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p> -->
             <div class="container">
                 <div class="page-book__cards justify-content-center row m-0">
@@ -45,7 +45,7 @@
                         </div>
                     </a>
 
-                    
+
                 </div>
             </div>
             <div class="page-book__wrapper d-flex justify-content-center">

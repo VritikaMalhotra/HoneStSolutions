@@ -3,8 +3,8 @@
         <div class="menu-icon">
             <i class="fa fa-bars fa-2x"></i>
         </div>
-        <div class="logo">
-            CHARITY
+        <div class="home-st-logo logo">
+            <img src="img/Hone-ST-Logo.png" alt="" class="home-st-logo-fix">
         </div>
         <div class="menu">
             <!-- <div class="navbar__wrap"> -->

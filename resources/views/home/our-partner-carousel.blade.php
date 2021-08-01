@@ -42,6 +42,11 @@
                max-width:100% !important;
                margin: auto;
            }
+           .owl-carousel .owl-stage {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
 
         </style>
     </head>
@@ -56,20 +61,20 @@
             {{-- <h1 class="our-partner-carousel__title mb0">Our Partners</h1>
             <h1 class="our-partner-carousel__title--shadow mb0">Our Partners</h1> --}}
             <div class="owl-carousel our-partner-owl-carousel">
-                <div class="our-partner-carousel__item d-flex align-items-center">
-                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img1.jpg" alt="" class="our-partner-carousel__image-fix">
-                    {{-- </div> --}}
+                    </div>
                 </div>
-                <div class="our-partner-carousel__item d-flex align-items-center">
-                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img2.jpg" alt="" class="our-partner-carousel__image-fix">
-                    {{-- </div> --}}
+                    </div>
                 </div>
-                <div class="our-partner-carousel__item d-flex align-items-center">
-                    {{-- <div class="our-partner-carousel__image d-flex align-items-center justify-content-center"> --}}
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img3.jpg" alt="" class="our-partner-carousel__image-fix">
-                    {{-- </div> --}}
+                    </div>
                 </div>
             </div>
         </div>

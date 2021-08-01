@@ -30,7 +30,7 @@
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
         }
         .our-servies__logo-fix{
-            width:150px;
+            width:auto;
         }
         @media only screen and (max-width: 1023px) {
             .our-servies__logo-fix{
@@ -57,61 +57,61 @@
                 <img src="img/our-service-title.png" alt="" class="our-service-title-fix">
             </div>
             <div class="our-servies__cards justify-content-center row m-0">
-                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
-                    <div class="our-servies__card">
+                <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
+                    <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="our-servies__logo-fix">
+                            <img src="img/our-service-img1.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">-Steve Jobs</h4>
-                            <p class="our-servies__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
+                            <h4 class="our-servies__name mb-0">Business Consultation</h4>
+                            <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-secondary">Learn More</button>
                             </div>
                         </div>
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
-                    <div class="our-servies__card">
+                <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
+                    <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_2.jpg" alt="" class="our-servies__logo-fix">
+                            <img src="img/our-service-img2.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">-Steve Jobs</h4>
-                            <p class="our-servies__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
+                            <h4 class="our-servies__name mb-0">Bhagvad Gita Chanting</h4>
+                            <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-secondary">Learn More</button>
                             </div>
                         </div>
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
-                    <div class="our-servies__card">
+                <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
+                    <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_3.jpg" alt="" class="our-servies__logo-fix">
+                            <img src="img/our-service-img3.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">-Steve Jobs</h4>
-                            <p class="our-servies__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
+                            <h4 class="our-servies__name mb-0">Corporate Training</h4>
+                            <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-secondary">Learn More</button>
                             </div>
                         </div>
                     </div>
                 </a>
 
-                <a href="#" class="our-servies col-xl-3 col-md-4 col-sm-6 pt-5">
-                    <div class="our-servies__card">
+                <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
+                    <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_4.jpg" alt="" class="our-servies__logo-fix">
+                            <img src="img/our-service-img4.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">-Steve Jobs</h4>
-                            <p class="our-servies__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
+                            <h4 class="our-servies__name mb-0">Digital  Marketing</h4>
+                            <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-secondary">Learn More</button>
                             </div>
                         </div>
                     </div>

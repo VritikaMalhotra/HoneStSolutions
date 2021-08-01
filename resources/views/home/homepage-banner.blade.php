@@ -7,7 +7,7 @@
     <title>Document</title>
     <style>
         .homepage-banner{
-            background-color: #ff9800;
+            background-color: #FF9031;
         }
         .homepage-banner__wrapper{
             background-color: white;
@@ -41,14 +41,14 @@
                 <div class="col-md-6">
                     <h1 class="homepage-banner__title mb0">Hone St</h1>
                     <h2 class="homepage-banner__subtitle mb30">Solutions</h2>
-                    <p class="homepage-banner__description mb30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque reiciendis mollitia corporis ab sequi omnis corrupti, architecto est dicta.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="#" class="btn btn-primary">Register Hone</a>
-                    </div>
+                    <p class="homepage-banner__description mb30">Learn how design thinking, user research, business vision and marketing, and finally designing and creating real digital products for real users.</p>
+                    {{-- <div class="d-flex justify-content-center"> --}}
+                        <a href="#" class="btn btn-orange">Explore Now</a>
+                    {{-- </div> --}}
                 </div>
                 <div class="col-md-6">
                     <div class="d-flex justify-content-center">
-                        <img src="img/person_4.jpg" alt="" class="homepage-banner__image-fix">
+                        <img src="img/hone-st-banner.jpg" alt="" class="homepage-banner__image-fix">
                     </div>
                 </div>
             </div>
