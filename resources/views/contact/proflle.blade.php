@@ -9,6 +9,10 @@
         .profile-main{
             background-color:white;
             /* margin-bottom: 15rem; */
+            background-image: url(img/bacground-our-mission.png);
+            background-repeat: no-repeat;
+            background-position: bottom left;
+            background-size: 200px;
         }
         .profile-card{
             margin-top:-120px;
@@ -19,7 +23,7 @@
             border-radius: 50%;
             border: 20px solid #ffffff;
             outline: orange;
-        }        
+        }
         .profile-card__description{
             text-align:center;
             color: gray;
@@ -27,7 +31,7 @@
         .profile-card__name{
             text-align:center;
             color: #000000;
-            
+
         }
         .profile-card__position{
             text-align:center;
@@ -40,7 +44,7 @@
             /* padding-top:5rem; */
         }
 
-        
+
     </style>
 </head>
 <body>
@@ -73,7 +77,7 @@
                         </div>
                     </div>
                 </a>
-            </div>            
+            </div>
         </div>
     </div>
 </body>

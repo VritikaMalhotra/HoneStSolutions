@@ -1,6 +1,12 @@
 <html>
     <head>
     <style>
+        .page-book-review-que{
+            background-image: url(img/background-ship.png),url(img/bacground-om.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,150px;
+        }
        .book-review-que__title{
             font-weight:bold;
        }
@@ -76,7 +82,7 @@
                         <div class="panel">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
-                   
+
                     </div>
                 </div>
             </div>
@@ -93,7 +99,7 @@
             panel.style.maxHeight = null;
             } else {
             panel.style.maxHeight = panel.scrollHeight + "px";
-            } 
+            }
         });
         }
         </script>

@@ -1,6 +1,14 @@
 <html>
     <head>
         <style>
+            .about_details{
+            /* background-color: #d6d6d6; */
+            background-image: url(img/background-flower3.png),url(img/background-flower4.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,200px;
+            /* padding: 180px 0 80px 0; */
+            }
             .about_details__image-fix{
                 width:100%;
             }
@@ -12,19 +20,19 @@
             }
             @media screen and (max-width: 767px) {
                 .about_details__content{
-                    padding:15px;        
+                    padding:15px;
                 }
             }
-            
+
         </style>
-           
+
     </head>
     <body>
         <section class="about_details">
             <div class="container">
                 <div class="row mt40 mb40 about_details__reverse">
                     <div class="col-md-6 col-md-pull-6 about_details__content">
-                        <h2>Our Story</h2>
+                            <h2>Our Story</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur sunt excepturi dicta ex, placeat ab esse, iure harum eaque fuga asperiores distinctio amet temporibus enim illum molestiae neque ad similique possimus repellendus velit! Quaerat nihil nemo, aliquam consectetur debitis illum. Excepturi cum, quaerat minus odit dolorem recusandae, debitis reprehenderit voluptate?</p>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum suscipit placeat amet vel esse soluta dolorum nesciunt dolores, possimus sint.</p>
                     </div>
@@ -43,6 +51,6 @@
                     </div>
                 </div>
             </div>
-        </section>        
+        </section>
     </body>
 </html>

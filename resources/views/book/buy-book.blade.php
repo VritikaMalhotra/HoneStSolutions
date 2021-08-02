@@ -1,6 +1,12 @@
 <html>
     <head>
     <style>
+        .buy-book{
+            background-image: url(img/bacground-our-mission.png);
+            background-repeat: no-repeat;
+            background-position: bottom left;
+            background-size: 200px;
+        }
         .buy-book__button{
             border:1px solid gray;
             border-radius:30px;
@@ -21,7 +27,7 @@
                 margin-top:10px;
             }
         }
-      
+
     </style>
     </head>
     <body>
@@ -41,10 +47,10 @@
                             <img src="img/bookbanner.jpg" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
-                
+
                 </div>
             </div>
-            
+
         </div>
     </body>
 </html>

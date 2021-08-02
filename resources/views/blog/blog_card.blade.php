@@ -1,9 +1,15 @@
 <html>
     <head>
     <style>
+        .page-blog{
+            background-image: url(img/background-flower3.png),url(img/background-flower4.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,200px;
+        }
         .blog-card__image-fix{
             width:100%;
-        }        
+        }
         .blog-card__tag-image{
             width:15px;
             height:15px;

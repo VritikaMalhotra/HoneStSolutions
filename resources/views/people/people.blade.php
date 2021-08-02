@@ -1,11 +1,17 @@
 <html>
     <head>
     <style>
+        .page-people{
+            background-image: url(img/background-flower3.png),url(img/background-flower4.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,200px;
+        }
         .people-card__logo-fix{
             width:50px;
             height:50px;
             border-radius: 50%;
-        }        
+        }
         .people-card__description{
             text-align:center;
             color: gray;
@@ -113,7 +119,7 @@
                         </div>
                     </a>
 
-                    
+
 
 
                 </div>

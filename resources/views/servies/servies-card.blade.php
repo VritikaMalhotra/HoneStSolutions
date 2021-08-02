@@ -8,6 +8,10 @@
     <style>
         .page__servies{
             background-color: #d6d6d6;
+            background-image: url(img/background-ship.png),url(img/bacground-om.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,150px;
         }
         .servies__card{
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -106,7 +110,7 @@
                         </div>
                     </div>
                 </a>
-               
+
                 <a href="#" class="servies col-md-4 col-sm-6 pt-5">
                     <div class="servies__card px-5 py-5">
                         <div class="servies__logo d-flex justify-content-center px-0 mb-4">

@@ -1,6 +1,12 @@
 <html>
     <head>
     <style>
+        .page-book{
+                background-image: url(img/background-lotus.png);
+                background-repeat: no-repeat;
+                background-position: center right;
+                background-size: 250px;
+        }
         .page-book__title{
             text-align:center;
             color:gray;

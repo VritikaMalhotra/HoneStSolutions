@@ -1,22 +1,31 @@
 @extends('app')
-
+<style>
+    .conatct-us__background{
+        background-image: url(img/background-ship.png),url(img/bacground-om.png);
+        background-repeat: no-repeat;
+        background-position: top left,bottom right;
+        background-size: 200px,150px;
+    }
+</style>
 @section('curosal-title',('CONTACT US'))
 @section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')
         @include('about/curosel')
         @include('contact/simple-banner')
         @include('contact/proflle')
-        <div class="container">
-            <div class="row py-5">
-                <div class="col-lg-5">
-                    @include('contact/contact-form')
-                </div>
-                <div class="col-lg-6 offset-lg-1">
-                    @include('contact/contact')
+        <div class="conatct-us__background">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-lg-5">
+                        @include('contact/contact-form')
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                        @include('contact/contact')
+                    </div>
                 </div>
             </div>
         </div>
-        
+
         @include('about/succes_story')
     @endsection
 
