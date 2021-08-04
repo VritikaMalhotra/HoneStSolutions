@@ -10,7 +10,7 @@
                 background-image: url(img/background-lotus.png);
                 background-repeat: no-repeat;
                 background-position: center right;
-                /* background-size: 200px; */
+                background-size: 350px;
             }
             .events__title-fix{
                 max-width: 100%;

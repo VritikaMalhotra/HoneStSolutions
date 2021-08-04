@@ -30,7 +30,8 @@
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
         }
         .our-servies__logo-fix{
-            width:auto;
+            min-height: 110px;
+            max-width: 90px;
         }
         @media only screen and (max-width: 1023px) {
             .our-servies__logo-fix{
