@@ -1,9 +1,9 @@
 @extends('app')
 
-@section('curosal-title',('SERVIES'))
+@section('curosal-title',('SERVICE'))
 @section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')
         @include('about/curosel')
-        @include('servies/servies-card') 
+        @include('service/service-card')
         @include('about/succes_story')
     @endsection

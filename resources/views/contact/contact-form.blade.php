@@ -2,11 +2,11 @@
     <form>
         <div class="form-group">
             <label for="your_name">Full Name</label>
-            <input type="text" class="form-control" id="your_name" placeholder="Enter name">
+            <input type="text" class="form-control" id="your_name" placeholder="Enter name" required>
         </div>
         <div class="form-group">
             <label for="your_email">Email</label>
-            <input type="email" class="form-control" id="your_email" aria-describedby="emailHelp" placeholder="Enter email">
+            <input type="email" class="form-control" id="your_email" aria-describedby="emailHelp" placeholder="Enter email" required>
         </div>
         <div class="form-group">
             <label for="your_subject">Subject</label>
