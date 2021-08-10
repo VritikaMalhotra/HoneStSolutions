@@ -7,7 +7,7 @@
     <title>Document</title>
     <style>
         .homepage__banner-fix{
-            padding: 180px 0 80px 0;
+            padding: 80px 0 80px 0;
         }
         .page__our-servies{
             /* background-color: #d6d6d6; */
@@ -16,6 +16,7 @@
             background-position: top left,bottom right;
             background-size: 200px,200px;
             /* padding: 180px 0 80px 0; */
+
         }
         .our-service-title-fix{
             max-width: 100%;
@@ -27,7 +28,8 @@
             padding: 10px 10px;
         }
         .our-servies__card:hover{
-            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
+            transform: translateY(-10px);
         }
         .our-servies__logo-fix{
             min-height: 110px;

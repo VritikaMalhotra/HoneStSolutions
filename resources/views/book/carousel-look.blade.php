@@ -29,7 +29,8 @@
     <body>
       <div class="carousel-look pt50">
         <h1 class="carousel-look__title">Look Inside</h1>
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
+        {{-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-look__carousel-inner carousel-inner">
             <div class="carousel-item active">
               <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
@@ -50,7 +51,7 @@
               <span class="p-3" style="border:1px solid gray;border-bottom-right-radius: 20px;border-top-right-radius: 20px;"><i class="fa fa-arrow-right" style="color:gray;" aria-hidden="true"></i></span>
               <span class="sr-only">Next</span>
             </a>
-          </div>
+          </div> --}}
         </div>
       </div>
     </body>
