@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('curosal-title',('SERVIES'))
+@section('curosal-title',('SERVCIES'))
 @section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')
         @include('about/curosel')
