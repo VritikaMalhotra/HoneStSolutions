@@ -35,6 +35,7 @@
     @section('main-content')
         <div class="main-content">
             @include('home/homepage-banner')
+            @include('home/homepage-banner-second')
             {{-- <div class="container"> --}}
                 @include('home/our-service')
                 <div class="background-our-mission">

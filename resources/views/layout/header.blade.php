@@ -28,7 +28,11 @@
                     <a href="/our-journey" class="navbar__item">Our journey</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
+<<<<<<< HEAD
                     <a href="/servies" class="navbar__item">Services</a>
+=======
+                    <a href="/service" class="navbar__item">Service</a>
+>>>>>>> 80c1bd0884eb67bc95daf54a8d8d4f128c1d57f7
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/about" class="navbar__item">About Us</a>

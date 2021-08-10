@@ -31,7 +31,7 @@
     </style>
     </head>
     <body>
-        <div class="buy-book py-5">
+        <div class="buy-book pt100 pb100">
             <div class="container">
                 <div class="row m-0">
                     <div class="col-md-6">

@@ -8,11 +8,19 @@
     <style>
         .homepage-banner{
             background-color: #FF9031;
+            background-image: url(img/home-banner-left-background.png),url(img/home-banner-left-background.png);
+            background-repeat: no-repeat;
+            background-position: bottom left,bottom right;
+            background-size: 190px,190px;
         }
         .homepage-banner__wrapper{
             background-color: white;
+            background-image: url(img/homepage-banner-background.png);
+            background-repeat: no-repeat;
+            background-position: top left;
+            background-size: 250px;
             border-radius: 10px;
-            padding: 40px 20px;
+            padding: 50px 50px;
             margin-bottom: -230px;
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         }
@@ -28,9 +36,12 @@
             line-height: 1.8;
         }
         .homepage-banner__image-fix{
-            width: 100%;
-            max-height: 300px;
-            border-radius: 15px;
+            width: 60%;
+        }
+        @media only screen and (max-width: 1023px) {
+            .homepage-banner__image-fix{
+                width:100%;
+            }
         }
     </style>
 </head>
@@ -48,7 +59,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="d-flex justify-content-center">
-                        <img src="img/hone-st-banner.jpg" alt="" class="homepage-banner__image-fix">
+                        <img src="img/homepage-banner.jpg" alt="" class="homepage-banner__image-fix">
                     </div>
                 </div>
             </div>

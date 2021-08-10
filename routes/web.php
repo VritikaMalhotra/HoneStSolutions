@@ -43,8 +43,8 @@ Route::get('/contact', function () {
 Route::get('/books', function () {
     return view('books');
 });
-Route::get('/servies', function () {
-    return view('servies');
+Route::get('/service', function () {
+    return view('service');
 });
 Route::get('/our-journey', function () {
     return view('our-journey');
