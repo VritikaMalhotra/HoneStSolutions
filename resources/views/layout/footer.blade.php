@@ -1,7 +1,7 @@
 <!-- Footer -->
-<footer class="page-footer font-small unique-color-dark">
+<footer class="page-footer font-small unique-color-dark" style="backgorund-color: #000000">
 
-    <div style="background-color: #6351ce;">
+    {{-- <div style="background-color: #6351ce;">
       <div class="container">
 
         <!-- Grid row-->
@@ -44,7 +44,7 @@
         <!-- Grid row-->
 
       </div>
-    </div>
+    </div> --}}
 
     <!-- Footer Links -->
     <div class="container text-center text-md-left mt-5">
