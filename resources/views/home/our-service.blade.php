@@ -25,15 +25,15 @@
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             transition: 0.3s;
             background-color: white;
-            padding: 10px 10px;
+            padding: 30px 20px;
         }
         .our-servies__card:hover{
             /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
             transform: translateY(-10px);
         }
         .our-servies__logo-fix{
-            min-height: 110px;
-            max-width: 90px;
+            min-height: 90px;
+            max-width: 70px;
         }
         @media only screen and (max-width: 1023px) {
             .our-servies__logo-fix{
