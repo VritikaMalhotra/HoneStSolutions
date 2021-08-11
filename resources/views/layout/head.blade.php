@@ -401,7 +401,7 @@ a:hover, a:focus, a:active {
  header {
       width: 100%;
       /* height: 100vh; */
-	  background: cornflowerblue;
+	  background: black;
       /* background: url('img/img_sm_1.jpg') no-repeat 50% 50%;
       background-size: cover; */
 }
@@ -458,7 +458,7 @@ nav ul {
 }
 
 nav.black ul {
-      background: cornflowerblue;
+      background: black;
 }
 
 /* nav ul li {
@@ -472,7 +472,7 @@ nav.black ul {
       text-decoration: none;
       color: #fff;
       font-size: 16px;
-      border-bottom: 2px solid cornflowerblue;
+      border-bottom: 2px solid black;
 }
 @media(max-width: 1440px) {
     .navbar__item {
@@ -489,7 +489,7 @@ nav.black ul {
 .menu-icon {
       line-height: 60px;
       width: 100%;
-      background: cornflowerblue;
+      background: black;
       text-align: right;
       box-sizing: border-box;
       padding: 15px 24px;
@@ -508,7 +508,7 @@ nav.black ul {
 
       nav ul {
             max-height: 0px;
-            background: cornflowerblue;
+            background: black;
       }
 
       /* nav.black ul {

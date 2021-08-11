@@ -7,10 +7,11 @@
     <title>Document</title>
     <style>
             .events__background{
-                background-image: url(img/background_krishna-bhagavad.png),url(img/background-lotus.png);
+                /* background-image: url(img/background_krishna-bhagavad.png),url(img/background-lotus.png); */
+                background-image: url(img/background-lotus.png);
                 background-repeat: no-repeat;
-                background-position: top left, center right;
-                background-size: 150px,350px;
+                background-position: center right;
+                background-size: 350px;
             }
             .events__title-fix{
                 max-width: 100%;

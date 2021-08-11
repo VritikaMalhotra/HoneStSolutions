@@ -45,7 +45,7 @@
                             <h4 class="service__name mb-0">-Steve Jobs</h4>
                             <p class="service__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             <h4 class="service__name mb-0">-Steve Jobs</h4>
                             <p class="service__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                             <h4 class="service__name mb-0">-Steve Jobs</h4>
                             <p class="service__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                             <h4 class="service__name mb-0">-Steve Jobs</h4>
                             <p class="service__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae.</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-primary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
