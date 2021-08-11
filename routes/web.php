@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SendEmailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -49,3 +50,6 @@ Route::get('/service', function () {
 Route::get('/our-journey', function () {
     return view('our-journey');
 });
+
+Route::get('/sendemail',[SendEmailController::class, 'index']);
+Route::post('/sendemail/send',[SendEmailController::class, 'send']);
