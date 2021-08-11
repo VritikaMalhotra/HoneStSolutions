@@ -16,6 +16,6 @@
             <label for="your_message">Message</label>
             <textarea name="" id="your_massage" cols="30" rows="10" class="form-control"></textarea>
         </div>
-        <button type="submit" class="btn btn-primary">Send Message</button>
+        <button type="submit" class="btn btn-orange">Send Message</button>
     </form>
 </div>

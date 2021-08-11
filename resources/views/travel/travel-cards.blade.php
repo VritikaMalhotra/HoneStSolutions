@@ -3,7 +3,7 @@
     <style>
         .travel-card__image-fix{
             width:100%;
-        }        
+        }
         .travel-card__content{
             border:1px solid black;
         }
@@ -22,8 +22,8 @@
         .travel-card__range{
             width:100%;
         }
- 
- 
+
+
 
     </style>
     </head>
@@ -45,9 +45,9 @@
                                 {{-- <i class="fa fa-calendar" style="color:gray"></i> --}}
                                 <p class="travel-card__days pl-2 mb-0">Lorem ipsum dolor sit amet consectetur</p>
                             </div>
-                            <a href="#" class="btn btn-primary mt-2">Read more</a>
+                            <a href="#" class="btn btn-orange mt-2">Read more</a>
                         </div>
-                    </a>   
+                    </a>
                     </div>
                 </div>
             </div>

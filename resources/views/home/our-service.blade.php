@@ -69,7 +69,7 @@
                             <h4 class="our-servies__name mb-0">Business Consultation</h4>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                             <h4 class="our-servies__name mb-0">Bhagvad Gita Chanting</h4>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                             <h4 class="our-servies__name mb-0">Corporate Training</h4>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                             <h4 class="our-servies__name mb-0">Digital  Marketing</h4>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
