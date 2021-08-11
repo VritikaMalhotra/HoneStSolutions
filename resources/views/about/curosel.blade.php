@@ -46,6 +46,7 @@
                 }
             }
             .carousel__title{
+                font-family: 'Samarkan', sans-serif;
                 font-size:50px !important;
                 font-weight:bold;
                 color:white;
@@ -58,6 +59,7 @@
             }
             @media screen and (max-width: 1023px) {
                 .carousel__subtitle{
+
                 margin:0;
                 }
             }
@@ -72,14 +74,14 @@
             </ul>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="img/img_sm_1.jpg" alt="Los Angeles" width="100%" height="60%">
+                <img src="img/temple.jpg" alt="Los Angeles" width="100%" height="60%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>
                 </div>   
                 </div>
                 <div class="carousel-item">
-                <img src="img/img_sm_1.jpg" alt="Chicago" width="100%" height="60%">
+                <img src="img/temple.jpg" alt="Chicago" width="100%" height="60%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>

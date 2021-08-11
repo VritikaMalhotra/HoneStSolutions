@@ -29,6 +29,7 @@
             line-height: normal;
         }
         .homepage-banner__subtitle{
+            font-family: 'Samarkan', sans-serif;
             color: lightgray;
             line-height: normal;
         }
@@ -50,7 +51,7 @@
         <div class="container">
             <div class="row homepage-banner__wrapper">
                 <div class="col-md-6">
-                    <h1 class="homepage-banner__title mb0">Hone St</h1>
+                    <h1 class="homepage-banner__title mb0">Hone ST</h1>
                     <h2 class="homepage-banner__subtitle mb30">Solutions</h2>
                     <p class="homepage-banner__description mb30">Learn how design thinking, user research, business vision and marketing, and finally designing and creating real digital products for real users.</p>
                     {{-- <div class="d-flex justify-content-center"> --}}
