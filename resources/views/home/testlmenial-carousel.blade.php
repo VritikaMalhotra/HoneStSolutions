@@ -107,7 +107,7 @@
                  <div class="carousel-inner">
                      <div class="carousel-item active">
                          <div class="d-flex justify-content-center">
-                             <img src="img/testimonials-profile.jpg" alt="" class="testomoials-carousel__image-fix">
+                             <img src="img/testimonial1.png" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
                              <h1 class="testomoials-carousel__name pt20">Varsha Adhikari, Managing Director, Tinctura Colour</h1>
@@ -116,7 +116,7 @@
                      </div>
                      <div class="carousel-item">
                          <div class="d-flex justify-content-center">
-                             <img src="img/person_1.jpg" alt="" class="testomoials-carousel__image-fix">
+                             <img src="img/testimonial2.png" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
                              <h1 class="testomoials-carousel__name pt20">Khushal Lalwani, Entrepreneur</h1>
@@ -126,7 +126,7 @@
                      </div>
                      <div class="carousel-item">
                          <div class="d-flex justify-content-center">
-                             <img src="img/person_1.jpg" alt="" class="testomoials-carousel__image-fix">
+                             <img src="img/testimonial3.png" alt="" class="testomoials-carousel__image-fix">
                          </div>
                          <div class="testomoials-carousel__content">
                              <h1 class="testomoials-carousel__name pt20">Mr. Amit Gulati, CEO, My Car My Ride</h1>

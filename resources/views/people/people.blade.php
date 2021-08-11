@@ -33,7 +33,7 @@
                 <div class="page-people__cards justify-content-center row m-0">
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People1.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"I discovered the path from which I can discover the Arjuna in me. It is still a long journey, but this training got me started "</p>
@@ -44,7 +44,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_2.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"Yes, Got to know my strengths and areas of improvement"</p>
@@ -55,7 +55,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_3.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People3.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"Yes, was successful in discovering Arjuna & Shri Krishna chants. It will improve my knowledge and experience"</p>
@@ -66,7 +66,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_1.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People4.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"Yes, training is too good to judge my current position in life and area of improvement"</p>
@@ -77,7 +77,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_2.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People5.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"This training helped discover the Arjuna in me. I have to do the right things ethically and not panic in the worst situations in life."</p>
@@ -88,7 +88,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_3.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People6.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"With the help of this training I discovered the Arjuna in me. I need to focus on Gyan and Dhruti"</p>
@@ -99,7 +99,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_2.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People7.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"After this training I believe Bhagavad Gita will really work in my life at every stage"</p>
@@ -110,7 +110,7 @@
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/person_3.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/People8.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"I discovered the Arjuna in me which will help me – 1. As a leader in an organization 2. As a person 3. Tide through difficult times/exams in life                                "</p>
