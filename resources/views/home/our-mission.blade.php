@@ -54,7 +54,7 @@
             <p class="our-mission__description mb0">Today, given the economic and labor market conditions, the best and least risky way to invest is to invest in personal assets and skills. </p>
             <p class="our-mission__description mb0">UI / UX Product Design Course covers all aspects of product design from product thinking and design to user-centric re</p>
             <div class="d-flex justify-content-center pt30">
-                <a href="#" class="btn btn-secondary">Read more</a>
+                <a href="#" class="btn btn-orange">Read more</a>
             </div>
         </div>
     </div>

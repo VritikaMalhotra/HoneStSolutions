@@ -3,9 +3,9 @@
     <style>
         .travel-details__image-fix{
             width:100%;
-        }        
- 
- 
+        }
+
+
 
     </style>
     </head>
@@ -23,7 +23,7 @@
                     <a href="#" class="travel-details__image col-sm-6 pt-3">
                         <img src="img/person_2.jpg" alt="" class="travel-details__image-fix">
                     </a>
-                    
+
                 </div>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
@@ -35,11 +35,11 @@
                     <a href="#" class="travel-details__image col-sm-6 pt-3">
                         <img src="img/person_2.jpg" alt="" class="travel-details__image-fix">
                     </a>
-                    
+
                 </div>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
                 <p class="travel-details__description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis hic dolorum facere, autem cupiditate harum placeat quibusdam molestias! Nemo eos explicabo id sit possimus ad! Blanditiis dolore eius voluptate perferendis.</p>
-                <a href="#" class="btn btn-primary">Comment Now</a>
+                <a href="#" class="btn btn-orange">Comment Now</a>
             </div>
         </div>
     </body>

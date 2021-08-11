@@ -25,15 +25,15 @@
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             transition: 0.3s;
             background-color: white;
-            padding: 10px 10px;
+            padding: 30px 20px;
         }
         .our-servies__card:hover{
             /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
             transform: translateY(-10px);
         }
         .our-servies__logo-fix{
-            min-height: 110px;
-            max-width: 90px;
+            min-height: 90px;
+            max-width: 70px;
         }
         @media only screen and (max-width: 1023px) {
             .our-servies__logo-fix{
@@ -66,10 +66,10 @@
                             <img src="img/our-service-img1.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">Business Consultation</h4>
+                            <h5 class="our-servies__name mb-0">Business Consultation</h5>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -81,10 +81,10 @@
                             <img src="img/our-service-img2.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">Bhagvad Gita Chanting</h4>
+                            <h5 class="our-servies__name mb-0">Bhagvad Gita Chanting</h5>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -96,10 +96,10 @@
                             <img src="img/our-service-img3.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">Corporate Training</h4>
+                            <h5 class="our-servies__name mb-0">Corporate Training</h5>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>
@@ -111,10 +111,10 @@
                             <img src="img/our-service-img4.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h4 class="our-servies__name mb-0">Digital  Marketing</h4>
+                            <h5 class="our-servies__name mb-0">Digital  Marketing</h5>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
-                                <button class="btn btn-secondary">Learn More</button>
+                                <button class="btn btn-orange">Learn More</button>
                             </div>
                         </div>
                     </div>

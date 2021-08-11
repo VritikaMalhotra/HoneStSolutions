@@ -48,6 +48,9 @@
                    <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">
                </div>
            </div>
+           <div class="d-flex justify-content-center mt30">
+                <a href="#" class="btn btn-orange">See All</a>
+            </div>
        </div>
    </div>
 

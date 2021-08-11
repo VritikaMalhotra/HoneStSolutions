@@ -60,7 +60,7 @@
                         <p class="profile-card__description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae. Ultricies aliquet fringilla tortor sed consectetur maecenas. Vestibulum ridiculus egestas et sapien nec vitae mollis. Vitae elementum lacinia in non pretium in. Quam."</p>
                         <!-- <a href="#" class="btn btn-primary">Know More</a> -->
                         <div class="d-flex justify-content-center">
-                            <button class=" btn btn-primary">Know More</button>
+                            <button class=" btn btn-orange">Know More</button>
                         </div>
                     </div>
                 </a>
@@ -73,7 +73,7 @@
                         <p class="profile-card__description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae. Ultricies aliquet fringilla tortor sed consectetur maecenas. Vestibulum ridiculus egestas et sapien nec vitae mollis. Vitae elementum lacinia in non pretium in. Quam."</p>
                         <!-- <a href="#" class="btn btn-primary">Know More</a> -->
                         <div class="d-flex justify-content-center">
-                            <button class=" btn btn-primary">Know More</button>
+                            <button class=" btn btn-orange">Know More</button>
                         </div>
                     </div>
                 </a>
