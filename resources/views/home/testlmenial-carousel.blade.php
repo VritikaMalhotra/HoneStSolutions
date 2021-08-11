@@ -50,6 +50,30 @@
                border-left: 10px solid #F78819;
                border-right: 10px solid #F78819;
            }
+           .testomoials-carousel__dots{
+               bottom: -30px !important;
+           }
+           .testomoials-carousel__dots li {
+                /* display: inline-block; */
+                width: 10px!important;
+                height: 10px !important;
+                /* margin: 10px; */
+                /* text-indent: 0; */
+                /* cursor: pointer;
+                border: none; */
+                border-radius: 100%;
+                background-color: #707070 !important;
+                /* box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5); */
+                /* list-style-type: square; */
+            }
+
+
+            .carousel-indicators .active {
+                width: 10px !important;
+                height: 10px !important;
+                /* margin: 10px; */
+                background-color: #F78819 !important;
+            }
            @media screen and (max-width: 1023px) {
                 .testomoials-carousel__slide{
                     padding: 0px 50px;
@@ -75,7 +99,7 @@
                 {{-- <h1 class="testomoials-carousel__title mb0">testomoials</h1>
                 <h1 class="testomoials-carousel__title--shadow mb0">testomoials</h1> --}}
                 <div id="testomoials-carousel" class="carousel slide testomoials-carousel__slide" data-ride="carousel">
-                 <ul class="carousel-indicators">
+                 <ul class="carousel-indicators testomoials-carousel__dots">
                      <li data-target="#testomoials-carousel" data-slide-to="0" class="active"></li>
                      <li data-target="#testomoials-carousel" data-slide-to="1"></li>
                      <li data-target="#testomoials-carousel" data-slide-to="2"></li>
