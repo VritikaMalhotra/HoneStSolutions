@@ -50,7 +50,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="buy-book__image">
-                            <img src="img/book-demo2.PNG" alt="" class="buy-book__image-fix">
+                            <img src="img/book-demo3.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 
