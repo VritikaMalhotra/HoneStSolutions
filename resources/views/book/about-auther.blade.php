@@ -5,6 +5,7 @@
             background-color:lightblue;
         }
         .auther__title{
+            font-family: 'Samarkan', sans-serif;
             text-align:center;
             color:black;
             font-weight:bold;

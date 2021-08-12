@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="buy-book__image">
-                            <img src="img/bookbanner.jpg" alt="" class="buy-book__image-fix">
+                            <img src="img/book.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 

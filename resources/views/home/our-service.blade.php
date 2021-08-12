@@ -60,7 +60,7 @@
                 <img src="img/our-service-title.png" alt="" class="our-service-title-fix">
             </div>
             <div class="our-servies__cards justify-content-center row m-0">
-                <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
+                <a href="/service" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/our-service-img1.jpg" alt="" class="our-servies__logo-fix">

@@ -15,6 +15,7 @@
             height:15px;
         }
         .blog-card__title{
+            font-family: 'Samarkan', sans-serif;
             color:#19a5ac;
         }
         .blog-card__subtitle-date{
