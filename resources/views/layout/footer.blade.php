@@ -1,9 +1,5 @@
 <!-- Footer -->
-<<<<<<< HEAD
 <footer class="page-footer font-small unique-color-dark" style="background-color: black;">
-=======
-<footer class="page-footer font-small unique-color-dark" style="backgorund-color: #000000">
->>>>>>> a9b24de8e5cc4d992d7c9ce28daaa9d02211ee7d
 
     {{-- <div style="background-color: #6351ce;">
       <div class="container">
@@ -73,19 +69,19 @@
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
           <!-- Links -->
-          <h6 class="text-uppercase font-weight-bold">Products</h6>
+          <h6 class="text-uppercase font-weight-bold">Visit</h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="#!">MDBootstrap</a>
+            <a href="#!">Our Mission</a>
           </p>
           <p>
-            <a href="#!">MDWordPress</a>
+            <a href="#!">Our Services</a>
           </p>
           <p>
-            <a href="#!">BrandFlow</a>
+            <a href="#!">Our Partners</a>
           </p>
           <p>
-            <a href="#!">Bootstrap Angular</a>
+            <a href="#!">Blogs</a>
           </p>
 
         </div>
@@ -98,16 +94,16 @@
           <h6 class="text-uppercase font-weight-bold">Useful links</h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="#!">Your Account</a>
+            <a href="#!">About Us</a>
           </p>
           <p>
-            <a href="#!">Become an Affiliate</a>
+            <a href="#!">Contact Us</a>
           </p>
           <p>
-            <a href="#!">Shipping Rates</a>
+            <a href="#!">Our Journey</a>
           </p>
           <p>
-            <a href="#!">Help</a>
+            <a href="#!">Services</a>
           </p>
 
         </div>
