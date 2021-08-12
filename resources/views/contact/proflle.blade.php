@@ -56,7 +56,7 @@
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
-                        <h3 class="profile-card__name mb-0">Prasun <span class="">Kundu</span></h3>
+                        <h3 class="profile-card__name mb-0" style="font-family: 'Samarkan', sans-serif;">Prasun <span class="">Kundu</span></h3>
                         <p class="profile-card__description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae. Ultricies aliquet fringilla tortor sed consectetur maecenas. Vestibulum ridiculus egestas et sapien nec vitae mollis. Vitae elementum lacinia in non pretium in. Quam."</p>
                         <!-- <a href="#" class="btn btn-primary">Know More</a> -->
                         <div class="d-flex justify-content-center">
@@ -69,7 +69,7 @@
                         <img src="img/person_1.jpg" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
-                        <h3 class="profile-card__name mb-0">Sandhya <span class="">Kundu</span></h3>
+                        <h3 class="profile-card__name mb-0" style="font-family: 'Samarkan', sans-serif;">Sandhya <span class="">Kundu</span></h3>
                         <p class="profile-card__description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur consequat, amet dictumst faucibus at tristique vitae. Ultricies aliquet fringilla tortor sed consectetur maecenas. Vestibulum ridiculus egestas et sapien nec vitae mollis. Vitae elementum lacinia in non pretium in. Quam."</p>
                         <!-- <a href="#" class="btn btn-primary">Know More</a> -->
                         <div class="d-flex justify-content-center">

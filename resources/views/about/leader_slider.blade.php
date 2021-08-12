@@ -32,25 +32,25 @@
 
        <div class="container">
 
-           <h1 class="leader_slider__title">Events</h1>
-           <p class="leader_slider__subtitle">together we can make a difference</p>
+           <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
+          
            <div class="owl-carousel owl-theme">
                <div class="leader_slider__item">
-                   <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">
+                   <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
                </div>
                <div class="leader_slider__item">
-                   <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">
+                   <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
                </div>
                <div class="leader_slider__item">
-                   <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">
+                   <img src="img/our-partner-img2.jpg" alt="" class="leader_slider__image-fix">
                </div>
                <div class="leader_slider__item">
-                   <img src="img/person_1.jpg" alt="" class="leader_slider__image-fix">
+                   <img src="img/our-partner-img3.jpg" alt="" class="leader_slider__image-fix">
                </div>
            </div>
-           <div class="d-flex justify-content-center mt30">
+           {{-- <div class="d-flex justify-content-center mt30">
                 <a href="#" class="btn btn-orange">See All</a>
-            </div>
+            </div> --}}
        </div>
    </div>
 
