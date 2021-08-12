@@ -47,10 +47,10 @@
     </div> --}}
 
     <!-- Footer Links -->
-    <div class="container text-center text-md-left mt-5">
+    <div class="container text-center text-md-left pt-5">
 
       <!-- Grid row -->
-      <div class="row mt-3">
+      <div class="row pt-3">
 
         <!-- Grid column -->
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
@@ -116,13 +116,13 @@
           <h6 class="text-uppercase font-weight-bold">Contact</h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
+            <i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
           <p>
-            <i class="fas fa-envelope mr-3"></i> info@example.com</p>
+            <i class="fa fa-envelope mr-3"></i> info@example.com</p>
           <p>
-            <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
+            <i class="fa fa-phone mr-3"></i> + 01 234 567 88</p>
           <p>
-            <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+            <i class="fa fa-print mr-3"></i> + 01 234 567 89</p>
 
         </div>
         <!-- Grid column -->
