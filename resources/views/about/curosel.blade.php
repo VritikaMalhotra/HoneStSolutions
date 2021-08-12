@@ -63,10 +63,36 @@
                 margin:0;
                 }
             }
+            .simple-banner{
+                background-color: #ff9800;
+                padding: 200px 0px;
+            }
+            @media screen and (max-width: 1600px) {
+                .simple-banner{
+                    padding: 100px 0px;
+                }
+            }
+            .simple-banner__title{
+                font-family: 'Samarkan', sans-serif;
+                font-size:50px !important;
+                font-weight:bold;
+                color:white;
+            }
+            .simple-banner__subtitle{
+                font-family: 'Samarkan', sans-serif;
+                font-weight:bold;
+                color:white;
+            }
         </style>
     </head>
     <body>
-        <div id="demo" class="carousel slide" data-ride="carousel">
+        <div class="simple-banner">
+            <div class="container">
+                <h1 class="simple-banner__title mb-0">@yield('curosal-title')</h1>
+                <p class="simple-banner__subtitle mb-0">@yield('curosal-subtitle')</p>
+            </div>
+        </div>
+        {{-- <div id="demo" class="carousel slide" data-ride="carousel">
             <ul class="carousel-indicators">
                 <li data-target="#demo" data-slide-to="0" class="active"></li>
                 <li data-target="#demo" data-slide-to="1"></li>
@@ -95,7 +121,7 @@
                 </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
     </body>
 </html>
