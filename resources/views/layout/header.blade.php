@@ -16,13 +16,13 @@
                     <a href="/gallery" class="navbar__item">Gallery</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/books" class="navbar__item">Books</a>
+                    <a href="/books" class="navbar__item">Bhagavad Gita</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/blogs" class="navbar__item">Blogs</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/people" class="navbar__item">People</a>
+                    <a href="/people" class="navbar__item">Testimonials</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/our-journey" class="navbar__item">Our journey</a>

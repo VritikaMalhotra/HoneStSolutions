@@ -114,7 +114,7 @@
                 </div>
                 </div>
                 <div class="carousel-item">
-                <img src="img/temple.jpg" alt="New York" width="100%" height="100%">
+                <img src="img/arjun.jpg" alt="New York" width="100%" height="100%">
                 <div class="carousel-content">
                     <h1 class="carousel__title mb-0">@yield('curosal-title')</h1>
                     <p class="carousel__subtitle mb-0">@yield('curosal-subtitle')</p>
