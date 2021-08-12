@@ -14,7 +14,8 @@
             padding:1rem;
         }
         .buy-book__image-fix{
-            width:100%;
+            width: 100%;
+            height: 600px;
         }
         @media screen and (min-width: 768px) {
             .buy-book__image{
@@ -44,7 +45,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="buy-book__image">
-                            <img src="img/book.PNG" alt="" class="buy-book__image-fix">
+                            <img src="img/book-demo.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 
