@@ -81,7 +81,7 @@
                             <img src="img/our-service-img2.jpg" alt="" class="our-servies__logo-fix">
                         </div>
                         <div class="our-servies__content px-0">
-                            <h5 class="our-servies__name mb-0">Bhagvad Gita Chanting</h5>
+                            <h5 class="our-servies__name mb-0">Bhagavad Gita</h5>
                             <p class="our-servies__description">All i want to have client setisfaction & this is my aim</p>
                             <div class="d-flex justify-content-center">
                                 <button class="btn btn-orange">Learn More</button>
