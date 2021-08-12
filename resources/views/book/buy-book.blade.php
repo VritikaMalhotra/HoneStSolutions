@@ -12,6 +12,11 @@
             border-radius:30px;
             color:black;
             padding:1rem;
+            background-color: white;
+        }
+        .buy-book__button:hover{
+            color:white;
+            background-color: black;
         }
         .buy-book__image-fix{
             width: 100%;
@@ -45,7 +50,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="buy-book__image">
-                            <img src="img/book-demo.PNG" alt="" class="buy-book__image-fix">
+                            <img src="img/book-demo2.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 
