@@ -26,9 +26,16 @@
             .succes_story__title{
                     color: #ffffff;
                     font-weight:bold;
+                    line-height: normal;
+            }
+            @media screen and (max-width: 1023px) {
+                .succes_story__title{
+                    margin-bottom: 15px;
+            }
             }
             .succes_story__subtitle{
                 color: #ffffff;
+                line-height: normal;
             }
 
         </style>
@@ -38,7 +45,7 @@
         <section class="succes_story">
             <div class="container-fuild">
                 <div class="row mx-0">
-                    <div class="col-lg-4 col-md-6 succes_story__image p-0">
+                    <div class="col-lg-4 col-md-6 succes_story__image p-0 d-flex align-items-center">
                         <img src="img/arjun.jpg" alt="Free Bootstrap Template by uicookies.com" class="succes_story__image-fix">
                     </div>
                     <div class="col-lg-8 col-md-6 col-md-pull-6 succes_story__content my-auto">

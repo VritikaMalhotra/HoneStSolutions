@@ -48,9 +48,9 @@
                             <a href="#" class="buy-book__button mr-2 mt-2">BUY E-BOOK <i class="fa fa-shopping-cart pl-2" aria-hidden="true"></i></a>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 d-flex justify-content-center">
                         <div class="buy-book__image">
-                            <img src="img/book-demo3.PNG" alt="" class="buy-book__image-fix">
+                            <img src="img/book-demo4.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 
