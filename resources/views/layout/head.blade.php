@@ -558,6 +558,9 @@ nav.black ul {
 .page-footer a{
     color:#f3ae48;
 }
+.page-footer h4{
+    color:white;
+}
     </style>
 </head>
 <body>

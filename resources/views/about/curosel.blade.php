@@ -67,7 +67,7 @@
                 background-color: #ff9800;
                 padding: 250px 0px;
                 /* background-image: url('img/temple.jpg'); */
-                background-image: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)),url('img/@yield('curosal-background')');
+                background-image: linear-gradient(to right, #ff9800, rgba(255, 255, 255, 0.5)),url('img/@yield('curosal-background')');
                 /* background-image: url('@yield('curosal-background')'); */
                 background-repeat: no-repeat;
                 background-size: cover;
