@@ -66,7 +66,9 @@
             .simple-banner{
                 /* background-color: #ff9800; */
                 padding: 250px 0px;
-                background-image: url('img/temple.jpg');
+                /* background-image: url('img/temple.jpg'); */
+                background-image: url('img/@yield('curosal-background')');
+                /* background-image: url('@yield('curosal-background')'); */
                 background-repeat: no-repeat;
                 background-size: cover;
             }

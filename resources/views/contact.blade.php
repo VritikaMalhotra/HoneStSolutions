@@ -7,6 +7,7 @@
         background-size: 200px,150px;
     }
 </style>
+@section('curosal-background',('temple.jpg'))
 @section('curosal-title',('CONTACT US'))
 @section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')

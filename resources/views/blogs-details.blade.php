@@ -1,5 +1,6 @@
 @extends('app')
 
+@section('curosal-background',('temple.jpg'))
 @section('curosal-title',('TRAVEL DETAILS'))
 @section('curosal-subtitle',('together we can make a difference'))
     @section('main-content')
@@ -14,7 +15,7 @@
                 </div>
             </div>
         </div>
-        
+
         @include('blog/team')
         @include('about/succes_story')
     @endsection
