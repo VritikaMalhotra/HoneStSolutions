@@ -33,19 +33,27 @@
        <div class="container">
 
            <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
-          
+
            <div class="owl-carousel owl-theme">
-               <div class="leader_slider__item">
-                   <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
+               <div class="leader_slider__item d-flex align-items-center justify-content-center">
+                   <div class="leader-slider__image d-flex align-items-center justify-content-center">
+                        <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
+                   </div>
                </div>
-               <div class="leader_slider__item">
-                   <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
+               <div class="leader_slider__item d-flex align-items-center justify-content-center">
+                   <div class="leader-slider__image d-flex align-items-center justify-content-center">
+                        <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
+                   </div>
                </div>
-               <div class="leader_slider__item">
-                   <img src="img/our-partner-img2.jpg" alt="" class="leader_slider__image-fix">
+               <div class="leader_slider__item d-flex align-items-center justify-content-center">
+                   <div class="leader-slider__image d-flex align-items-center justify-content-center">
+                        <img src="img/our-partner-img2.jpg" alt="" class="leader_slider__image-fix">
+                   </div>
                </div>
-               <div class="leader_slider__item">
-                   <img src="img/our-partner-img3.jpg" alt="" class="leader_slider__image-fix">
+               <div class="leader_slider__item d-flex align-items-center justify-content-center">
+                   <div class="leader-slider__image d-flex align-items-center justify-content-center">
+                        <img src="img/our-partner-img3.jpg" alt="" class="leader_slider__image-fix">
+                   </div>
                </div>
            </div>
            {{-- <div class="d-flex justify-content-center mt30">
