@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('curosal-background',('temple.jpg'))
+{{-- @section('curosal-background',('temple.jpg')) --}}
 @section('curosal-title',('Bhagavad Gita'))
 @section('curosal-subtitle',(''))
 
