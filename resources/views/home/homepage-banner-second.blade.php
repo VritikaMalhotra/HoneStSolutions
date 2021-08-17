@@ -7,7 +7,7 @@
     <title>Document</title>
     <style>
         .homepage-banner-second{
-            padding: 180px 0 80px 0;
+            padding: 180px 0 0px 0;
         }
         .homepage-banner-second__image-fix{
             width: 70%;

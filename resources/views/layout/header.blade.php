@@ -25,7 +25,7 @@
                     <a href="/people" class="navbar__item">Testimonials</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/our-journey" class="navbar__item">Our journey</a>
+                    {{-- <a href="/our-journey" class="navbar__item">Our journey</a> --}}
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/service" class="navbar__item">Service</a>
