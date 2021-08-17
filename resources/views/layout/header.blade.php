@@ -16,7 +16,7 @@
                     <a href="/gallery" class="navbar__item">Gallery</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/books" class="navbar__item">Bhagavad Gita</a>
+                    <a href="/books" class="navbar__item">Our Book</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/blogs" class="navbar__item">Blogs</a>
@@ -25,7 +25,7 @@
                     <a href="/people" class="navbar__item">Testimonials</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/our-journey" class="navbar__item">Our journey</a>
+                    {{-- <a href="/our-journey" class="navbar__item">Our journey</a> --}}
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/service" class="navbar__item">Service</a>

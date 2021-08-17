@@ -89,13 +89,12 @@
                 }
             }
             .simple-banner__title{
-                font-family: 'Samarkan', sans-serif;
                 font-size:50px !important;
                 font-weight:bold;
                 color:white;
             }
             .simple-banner__subtitle{
-                font-family: 'Samarkan', sans-serif;
+                font-family:  sans-serif;
                 font-weight:bold;
                 color:white;
             }

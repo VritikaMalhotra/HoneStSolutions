@@ -44,17 +44,17 @@
                 <div class="owl-carousel book-owl-carousel">
                     <div class="book-carousel__item d-flex align-items-center justify-content-center">
                         <div class="book-carousel__image d-flex align-items-center justify-content-center">
-                            <img src="img/person_1.jpg" alt="" class="book-carousel__image-fix">
+                            <img src="img/look_inside_1.jpg" alt="" class="book-carousel__image-fix">
                         </div>
                     </div>
                     <div class="book-carousel__item d-flex align-items-center justify-content-center">
                         <div class="book-carousel__image d-flex align-items-center justify-content-center">
-                            <img src="img/person_2.jpg" alt="" class="book-carousel__image-fix">
+                            <img src="img/look_inside_2.jpg" alt="" class="book-carousel__image-fix">
                         </div>
                     </div>
                     <div class="book-carousel__item d-flex align-items-center justify-content-center">
                         <div class="book-carousel__image d-flex align-items-center justify-content-center">
-                            <img src="img/person_3.jpg" alt="" class="book-carousel__image-fix">
+                            <img src="img/look_inside_3.jpg" alt="" class="book-carousel__image-fix">
                         </div>
                     </div>
                 </div>

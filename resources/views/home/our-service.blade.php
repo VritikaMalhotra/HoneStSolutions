@@ -18,6 +18,9 @@
             /* padding: 180px 0 80px 0; */
 
         }
+        .our-service-title{
+            background-color: #e7e7e7;
+        }
         .our-service-title-fix{
             max-width: 100%;
         }
