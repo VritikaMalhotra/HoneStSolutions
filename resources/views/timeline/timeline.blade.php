@@ -219,14 +219,14 @@
             </div>
 			<div class="timeline-item" data-text="Adani Solar & Power">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Adani25-07-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25,26-06-2019</h2>
                     <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Calorx Public School">
                 <div class="timeline__content">
-                    <img src="img/Adani25-07-2019.png" alt="" class="timeline__img">
+                    <img src="img/calorx26-06-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>26-06-2019</h2>
                     <p class="timeline__content-desc">Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagvad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
                 </div>
@@ -261,7 +261,7 @@
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-09-2019</h2>
                     <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Leadership, Motivation and Time Management. Highly interactive session appreciated by all participants</p>
                 </div>
@@ -275,7 +275,7 @@
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-09-2019</h2>
                     <p class="timeline__content-desc">Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
@@ -324,123 +324,139 @@
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/online1.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>8-25th May'20</h2>
                     <p class="timeline__content-desc">First batch (online). Duration of the program was 28 hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Amity University">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/amity14-05-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>14-05-2020</h2>
                     <p class="timeline__content-desc">Highly interactive session with first year management students of Amity University, Ahmedabad</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="OLX Cash My Car">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/olx15-05-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-05-2020</h2>
                     <p class="timeline__content-desc">Highly interactive session with Olx Cash My Car employees. Using Bhagavad Gita as a guide to establish how individual productivity can be enhanced.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/online1.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>1-16th Jun'20</h2>
                     <p class="timeline__content-desc">Second Batch (online). The duration of program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Kalorex Foundation">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/kalorex03-06-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>03-06-2020</h2>
                     <p class="timeline__content-desc">Highly interactive Facebook Live session with Kalorex Foundation on how to deal with Lock down by adhering to the preachings of Bhagavad Gita</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/online2.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>22Jun - 6th Jul'20</h2>
                     <p class="timeline__content-desc">Third Batch (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Amity University">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/amity05-08-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>05-08-2020</h2>
                     <p class="timeline__content-desc">Highly interactive session with management students ( freshers - new admission) of Amity University, Ahmedabad</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Volansys">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/volansys.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2020</h2>
                     <p class="timeline__content-desc">Highly Interactive session on Lockdown learnings from Bhagavad Gita with middle management of Volansys</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>11 Jul - 16 Aug'20</h2>
                     <p class="timeline__content-desc">Fourth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>22 Aug - 27Sep'20</h2>
                     <p class="timeline__content-desc">Fifth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/online2.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>5Dec'20 - 03Jan'21</h2>
                     <p class="timeline__content-desc">Sixth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
+            <div class="timeline-item" data-text="MICA">
+                <div class="timeline__content">
+                    <img src="img/mica25-02-2021.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>07-08-2021</h2>
+                    <p class="timeline__content-desc">Sales and Distribution Management with students of final year</p>
+                </div>
+            </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-27th Feb'21 & 12, 19th Mar'21</h2>
                     <p class="timeline__content-desc">Sales Management Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-13-19th Apr'21</h2>
                     <p class="timeline__content-desc">Retail and Wholesale and Sales Promotion Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama07-05-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-05-2021</h2>
                     <p class="timeline__content-desc">Talk on concept "What is NOT Sales". Organizations focus on what is sales but the need to understand what is NOT helps team focussed leading to incremental productivity. Highly interactive session appreciated by all.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>13-14th May 2021</h2>
                     <p class="timeline__content-desc">Enhancing Sales Management for Senior Management. Highly appreciated by participants on account of real life examples and case study to help build right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>27th July &4th Aug'21</h2>
                     <p class="timeline__content-desc">Sales Management for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
+            <div class="timeline-item" data-text="NL Dalmia Institute of Management Studies and Research">
+                <div class="timeline__content">
+                    <img src="img/nldalmia29-07-2021.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>07-08-2021</h2>
+                    <p class="timeline__content-desc">Leadership lessons from Bhagavad Gita for the freshers getting inducted to the institute</p>
+                </div>
+            </div>
 			<div class="timeline-item" data-text="Visamo Kids Foundation">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/visamo07-08-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2021</h2>
                     <p class="timeline__content-desc">Thanksgiving of schools by Visamo Kids Foundation. Addressed an elite gathering comprising Mr. Rajendra Khemani, Mr. VC of Gujarat VidyaPeeth, Mr. Amit Thakkar - Philanthropist, Mr. Parth Oza - Actor, Singer and Brand Ambassador (Visamo Kids)</p>
                 </div>
             </div>
+            
+          
 			
         </div>
     </div>
