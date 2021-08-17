@@ -27,6 +27,7 @@
         @media only screen and (max-width: 1023px) {
             .homepage-banner__wrapper{
                 padding: 50px 50px 50px 50px;
+
             }
         }
         .homepage-banner__title{
