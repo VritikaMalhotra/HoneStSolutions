@@ -165,14 +165,14 @@
         <div class="timeline">
             <div class="timeline-item" data-text="Apple Inc.">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Apple21-10-2018.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>21-10,18-12-2018</h2>
                     <p class="timeline__content-desc">Our two sessions of "Discover the Arjuna in You" were held with the employees of Apple, West India Zone comprising employees from Gujarat, Maharastra and MP .</p>
                 </div>
             </div>
             <div class="timeline-item" data-text="Book Launch, 'The Corporate Bhagavad Gita - Discover The Arjuna in You'">
                 <div class="timeline__content">
-                    <img src="img/doctors-3.jpg" alt="" class="timeline__img">
+                    <img src="img/booklaunch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>06-01-2019</h2>
                     <p class="timeline__content-desc">The first book of Prasun Kundu - "The Corporate Bhagavad Gita - Discover the Arjuna in You" was unveiled in The World Book Fair, Pragati Maidan, New Delhi on 6th January 2019. The book is widely accepted by all sections of people in India and across the world. The book is available on:
 					Amazon -  <a href="https://lnkd.in/fZBSMcf">https://lnkd.in/fZBSMcf</a>
@@ -181,7 +181,7 @@
             </div>
             <div class="timeline-item" data-text="Book Launch, 'The Corporate Bhagavad Gita - Discover The Arjuna in You'">
                 <div class="timeline__content">
-                    <img src="img/doctors-4.jpg" alt="" class="timeline__img">
+                    <img src="img/booklaunch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>06-01-2019</h2>
                     <p class="timeline__content-desc">The first book of Prasun Kundu - "The Corporate Bhagavad Gita - Discover the Arjuna in You" was unveiled at The Ahmedabad Management Association (AMA), Ahmedabad on 24th May 2019. The book is widely accepted by all sections of people in India and across the world. The book is available on:
 					Amazon -  <a href="https://lnkd.in/fZBSMcf">https://lnkd.in/fZBSMcf</a>
@@ -190,28 +190,28 @@
             </div>
 			<div class="timeline-item" data-text="Mythopia">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/mythiopia17-02-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>17-02-2019</h2>
                     <p class="timeline__content-desc">A talk based on the book " The Corporate Bhagvad Gita - Discover the Arjuna in You" was held in Mumbai in association with Mythopia, an organisation promoting ancient wisdom/ mythology. It was an informative audience and many of the participants took signed copies of the book .</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Reliance Retail">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Reliance8-03-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>08-03-2019</h2>
                     <p class="timeline__content-desc">A two hours Session  at the Ahmedabad office of Reliance Retail on the occasion of International Women's day. The title of the session was "Discover the Arjuna in you" which was aimed at enhancing the Organisational productivity by increasing productivity of people through powerful teachings of the Bhagavad Gita. We engaged the audience. We addressed a group of 40 people, which included 10 women. It was an interactive session . At the end of the session many of the participants took signed copies of the book " The Corporate Bhagvad Gita - Discover the Arjuna in You".</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Books & Bliss Club">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/booksclubandbliss23-04-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>23-04-2019</h2>
                     <p class="timeline__content-desc">Books and Bliss club in collaboration with "Atrangi Community" and American Corner Library held an author meetup with Prasun Kundu, Author of The Corporate Bhagavad Gita. We engaged the audience with a brief about the book and how Bhagavad Gita can help us lead a life full of happiness. At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You"</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama24-05-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>24-05-2019</h2>
                     <p class="timeline__content-desc">Discover the Arjuna in You was held at the Seminar hall of the Ahmedabad Management Association (AMA). More than 200 people attended the session which ended with an interactive Q & A session. Many of the participants bought signed copies of the book " The Corporate Bhagvad Gita - Discover the Arjuna in You".Check out the full talk @ the below link. 
 	<a href="https://youtu.be/68fLyFiaDoM">https://youtu.be/68fLyFiaDoM</a></p>
@@ -226,35 +226,35 @@
             </div>
 			<div class="timeline-item" data-text="Calorx Public School">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Adani25-07-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>26-06-2019</h2>
                     <p class="timeline__content-desc">Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagvad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Indian Institute of Materials Management (IIMM)">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/iimm10-08-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>10-08-2019</h2>
                     <p class="timeline__content-desc">Session with members of IIMM which was highly interactive and appreciated by everyone. </p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Adani Solar">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Adani21-08-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>20-21 August 2019</h2>
                     <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>05-09-2019</h2>
                     <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Time Management. Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="GLS University">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/gls06-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>06-09-2019</h2>
                     <p class="timeline__content-desc">Talk on Leadership & Team Building based on our book, "The Corporate Bhagavad Gita - Discover The Arjuna in You" for second year students</p>
                 </div>
@@ -268,7 +268,7 @@
 			</div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Ama12-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>13-09-2019</h2>
                     <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Managing Teams. Highly interactive session appreciated by all participants</p>
                 </div>
@@ -282,42 +282,42 @@
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama19-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>19-09-2019</h2>
                     <p class="timeline__content-desc">One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>20-09-2019</h2>
                     <p class="timeline__content-desc">Second batch of Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Reliance Retail">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Reliance25-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25-09-2019</h2>
                     <p class="timeline__content-desc">Four hours session conducted with the middle and senior management of Reliance Retail on the importance of focus in leadership from Bhagavad Gita. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Adani Solar">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/Adani15-11-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-16 November 2019</h2>
                     <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" .</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>23-24th Nov'19</h2>
                     <p class="timeline__content-desc">Third batch of training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Ahmedabad Management Association">
                 <div class="timeline__content">
-                    <img src="img/doctors-2.jpg" alt="" class="timeline__img">
+                    <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>16-17-18-19th Mar'20</h2>
                     <p class="timeline__content-desc">Enhancing Sales and Service Marketing Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
