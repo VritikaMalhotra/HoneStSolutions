@@ -25,7 +25,7 @@
         @media screen and (min-width: 768px) {
             .buy-book__image{
             position: absolute;
-            bottom: 0px;
+            bottom: 100px;
             }
         }
         @media screen and (max-width: 768px) {

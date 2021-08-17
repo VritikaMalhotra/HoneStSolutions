@@ -65,11 +65,27 @@
             }
             .simple-banner{
                 background-color: #ff9800;
-                padding: 200px 0px;
+                padding: 250px 0px;
+                /* background-image: url('img/temple.jpg'); */
+                background-image: linear-gradient(to right, #ff9800, rgba(255, 255, 255, 0.5)),url('img/@yield('curosal-background')');
+                /* background-image: url('@yield('curosal-background')'); */
+                background-repeat: no-repeat;
+                background-size: cover;
+                /* background-position: bottom; */
             }
-            @media screen and (max-width: 1600px) {
+            @media screen and (max-width: 1400px) {
+                .simple-banner{
+                    padding: 200px 0px;
+                }
+            }
+            @media screen and (max-width: 767px) {
                 .simple-banner{
                     padding: 100px 0px;
+                }
+            }
+            @media screen and (max-width: 520px) {
+                .simple-banner{
+                    padding: 70px 0px;
                 }
             }
             .simple-banner__title{
