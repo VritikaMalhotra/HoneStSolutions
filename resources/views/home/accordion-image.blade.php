@@ -29,35 +29,35 @@
         }
 
         .accordion-image__item-1 {
-        background-image: url(img/prasun_sir_profile1.png);
+        background-image: url(img/Picture9.png);
         }
 
         .accordion-image__item-2 {
-        background-image: url(img/Picture2.jpg);
-        }
-
-        .accordion-image__item-3 {
-        background-image: url(img/Picture4.png);
-        }
-
-        .accordion-image__item-4 {
-        background-image: url(img/Picture5.png);
-        }
-
-        .accordion-image__item-5 {
         background-image: url(img/Picture6.png);
         }
 
+        .accordion-image__item-3 {
+        background-image: url(img/Picture2.png);
+        }
+
+        .accordion-image__item-4 {
+        background-image: url(img/Picture3.png);
+        }
+
+        .accordion-image__item-5 {
+        background-image: url(img/Picture4.png);
+        }
+
         .accordion-image__item-6 {
-        background-image: url(img/Picture7.png);
+        background-image: url(img/Picture5.png);
         }
 
         .accordion-image__item-7 {
-        background-image: url(img/Picture3.jpg);
+        background-image: url(img/Picture7.png);
         }
 
         .accordion-image__item-8 {
-        background-image: url('https://images.unsplash.com/photo-1503631285924-e1544dce8b28?auto=format&fit=crop&w=1234&q=80');
+        background-image: url(img/Picture8.png);
         }
 
     </style>
