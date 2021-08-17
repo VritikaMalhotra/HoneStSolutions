@@ -27,6 +27,13 @@
                 top: -75px;
                 opacity: 0.12;
             }
+
+            @media only screen and (max-width: 1023px) {
+                .events__profile{
+                    justify-content: center;
+                }
+            }
+
             .events__profile-fix{
                 width: 50%;
                 padding-right: 10px;
@@ -55,7 +62,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">First session</h3>
-                        <div class="d-flex">
+                        <div class="events__profile d-flex">
                             <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
@@ -86,7 +93,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Second session</h3>
-                        <div class="d-flex">
+                        <div class="events__profile d-flex">
                             <img src="img/event-profile2.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
@@ -117,7 +124,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Third session</h3>
-                        <div class="d-flex">
+                        <div class="events__profile d-flex">
                             <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
@@ -148,7 +155,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Fourth session</h3>
-                        <div class="d-flex">
+                        <div class="events__profile d-flex">
                             <img src="img/event-profile3.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
@@ -179,7 +186,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Fifth session</h3>
-                        <div class="d-flex">
+                        <div class="events__profile d-flex">
                             <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
                             <img src="img/event-profile4.jpg" alt="" class="events__profile-fix">
                         </div>
