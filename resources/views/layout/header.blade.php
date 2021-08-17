@@ -16,7 +16,7 @@
                     <a href="/gallery" class="navbar__item">Gallery</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/books" class="navbar__item">Bhagavad Gita</a>
+                    <a href="/books" class="navbar__item">Our Book</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/blogs" class="navbar__item">Blogs</a>

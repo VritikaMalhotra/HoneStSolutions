@@ -29,7 +29,7 @@
     <body>
       <div class="carousel-look pt50">
         <h1 class="carousel-look__title">Look Inside</h1>
-        <p class="carousel-look__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
+        <p class="carousel-look__subtitle">This book has been designed with very unique fascinating inputs from Shrimad Bhagavad Gita, and experiences of life. The reader shall be gaining insights, which will become the guiding force to emerge victorious.</p>
         {{-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-look__carousel-inner carousel-inner">
             <div class="carousel-item active">

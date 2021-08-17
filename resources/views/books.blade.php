@@ -1,8 +1,8 @@
 @extends('app')
 
 {{-- @section('curosal-background',('temple.jpg')) --}}
-@section('curosal-title',('Bhagavad Gita'))
-@section('curosal-subtitle',(''))
+@section('curosal-title',('Book'))
+@section('curosal-subtitle',('The Corporate Bhagavad Gita'))
 
 @section('main-content')
     @include('about/curosel')

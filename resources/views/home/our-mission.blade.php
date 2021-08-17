@@ -51,8 +51,8 @@
             <div class="our-mission__banner d-flex justify-content-center mb20">
                 <img src="img/our-mission-banner.jpg" alt="" class="our-mission__banner-fix">
             </div>
-            <p class="our-mission__description mb0">Today, given the economic and labor market conditions, the best and least risky way to invest is to invest in personal assets and skills. </p>
-            <p class="our-mission__description mb0">UI / UX Product Design Course covers all aspects of product design from product thinking and design to user-centric re</p>
+            <p class="our-mission__description mb0">Share learnings with maximum people to increase happiness quotient. </p>
+            <p class="our-mission__description mb0"></p>
             <div class="d-flex justify-content-center pt30">
                 <a href="#" class="btn btn-orange">Read more</a>
             </div>

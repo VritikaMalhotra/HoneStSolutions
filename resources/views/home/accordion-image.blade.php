@@ -29,31 +29,31 @@
         }
 
         .accordion-image__item-1 {
-        background-image: url('https://images.unsplash.com/photo-1499198116522-4a6235013d63?auto=format&fit=crop&w=1233&q=80');
+        background-image: url(img/prasun_sir_profile1.png);
         }
 
         .accordion-image__item-2 {
-        background-image: url('https://images.unsplash.com/photo-1492760864391-753aaae87234?auto=format&fit=crop&w=1336&q=80');
+        background-image: url(img/Picture2.jpg);
         }
 
         .accordion-image__item-3 {
-        background-image: url('https://images.unsplash.com/photo-1503631285924-e1544dce8b28?auto=format&fit=crop&w=1234&q=80');
+        background-image: url(img/Picture4.png);
         }
 
         .accordion-image__item-4 {
-        background-image: url('https://images.unsplash.com/photo-1510425463958-dcced28da480?auto=format&fit=crop&w=1352&q=80');
+        background-image: url(img/Picture5.png);
         }
 
         .accordion-image__item-5 {
-        background-image: url('https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=1234&q=80');
+        background-image: url(img/Picture6.png);
         }
 
         .accordion-image__item-6 {
-        background-image: url('https://images.unsplash.com/photo-1499198116522-4a6235013d63?auto=format&fit=crop&w=1233&q=80');
+        background-image: url(img/Picture7.png);
         }
 
         .accordion-image__item-7 {
-        background-image: url('https://images.unsplash.com/photo-1492760864391-753aaae87234?auto=format&fit=crop&w=1336&q=80');
+        background-image: url(img/Picture3.jpg);
         }
 
         .accordion-image__item-8 {
