@@ -63,9 +63,60 @@
             <div class="owl-carousel our-partner-owl-carousel px-4">
                 <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/olx_cash_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/gls_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/kalorex_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/amity_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/relaince_retail_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img1.jpg" alt="" class="our-partner-carousel__image-fix">
                     </div>
                 </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/icici_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/volansys.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/mica25-02-2021.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/iimm10-08-2019.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/booksclubandbliss23-04-2019.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                
                 <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img2.jpg" alt="" class="our-partner-carousel__image-fix">
