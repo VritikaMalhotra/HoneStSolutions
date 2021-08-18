@@ -52,7 +52,7 @@ Therefore, if someone reads or understands this chapter, he/she will be able to 
                     </div>
                     <div class="col-md-6 d-flex justify-content-center">
                         <div class="buy-book__image">
-                            <img src="img/book-demo4.PNG" alt="" class="buy-book__image-fix">
+                            <img src="img/book.PNG" alt="" class="buy-book__image-fix">
                         </div>
                     </div>
 
