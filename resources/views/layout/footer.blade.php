@@ -115,14 +115,28 @@
           <!-- Links -->
           <h4 class="text-uppercase font-weight-bold">Contact</h4>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>
+          {{-- <p>
             <i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
           <p>
             <i class="fa fa-envelope mr-3"></i> info@example.com</p>
           <p>
             <i class="fa fa-phone mr-3"></i> + 01 234 567 88</p>
           <p>
-            <i class="fa fa-print mr-3"></i> + 01 234 567 89</p>
+            <i class="fa fa-print mr-3"></i> + 01 234 567 89</p> --}}
+        <div class="d-flex contact__socail-icons align-items-center">
+            <a href="#">
+                <i class="fa fa-home pr-3" style="color:white"></i>
+            </a>
+            <a href="mailto:info@example.com">
+                <i class="fa fa-envelope pr-3" style="color:white"></i>
+            </a>
+            <a href="tel:+ 01 234 567 88">
+                <i class="fa fa-phone pr-3" style="color:white"></i>
+            </a>
+            <a href="fax: + 01 234 567 89">
+                <i class="fa fa-print pr-3" style="color:white"></i>
+            </a>
+        </div>
 
         </div>
         <!-- Grid column -->

@@ -24,6 +24,11 @@
            .leader_slider__image-fix{
                width:100%
            }
+           .leader_slider-owl-carousel .owl-stage {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
 
         </style>
     </head>
@@ -34,7 +39,7 @@
 
            <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
 
-           <div class="owl-carousel owl-theme">
+           <div class="owl-carousel owl-theme leader_slider-owl-carousel">
                <div class="leader_slider__item d-flex align-items-center justify-content-center">
                    <div class="leader-slider__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
@@ -69,10 +74,10 @@
 <!-- custom JS code after importing jquery and owl -->
 <script type="text/javascript">
     $(document).ready(function () {
-        $(".owl-carousel").owlCarousel();
+        $(".leader_slider-owl-carousel").owlCarousel();
     });
 
-    $('.owl-carousel').owlCarousel({
+    $('.leader_slider-owl-carousel').owlCarousel({
         loop: true,
         margin: 20,
         nav: true,

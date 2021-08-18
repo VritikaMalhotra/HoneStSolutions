@@ -58,12 +58,12 @@
         <div class="page-book-review-que py-5">
             <div class="container">
                 <div class="row m-0">
-                    <div class="book-review-que__wrapper col-sm-6">
+                    {{-- <div class="book-review-que__wrapper col-sm-6">
                         <h2 class="book-review-que__title">Book Reviews</h2>
                         <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
                         <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
-                    </div>
-                    <div class="book-review-que__wrapper col-sm-6">
+                    </div> --}}
+                    <div class="book-review-que__wrapper col-sm-12">
                         <h2 class="book-review-que__title">Frequently Asked Question</h2>
                         <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
                         <button class="accordion">How does Asana's pricing work?</button>

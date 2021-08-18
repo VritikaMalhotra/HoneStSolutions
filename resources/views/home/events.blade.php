@@ -33,6 +33,11 @@
                     justify-content: center;
                 }
             }
+            /* @media only screen and (max-width: 767px) {
+                .events__media-wrap{
+                    justify-content: center;
+                }
+            } */
 
             .events__profile-fix{
                 width: 50%;
@@ -68,19 +73,19 @@
                     </div>
                     <div class="col-md-9">
                         <div class="row mb30">
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Date: November 5</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
@@ -99,19 +104,19 @@
                     </div>
                     <div class="col-md-9">
                         <div class="row mb30">
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Date: November 5</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
@@ -130,19 +135,19 @@
                     </div>
                     <div class="col-md-9">
                         <div class="row mb30">
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Date: November 5</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
@@ -161,19 +166,19 @@
                     </div>
                     <div class="col-md-9">
                         <div class="row mb30">
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Date: November 5</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
@@ -193,19 +198,19 @@
                     </div>
                     <div class="col-md-9">
                         <div class="row mb30">
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
                                 <h4 class="events__types mb0 pl-1">Date: November 5</h4>
                             </div>
-                            <div class="d-flex col-sm-4 col-6">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>

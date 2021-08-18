@@ -28,8 +28,10 @@
     </head>
     <body>
       <div class="carousel-look pt50">
-        <h1 class="carousel-look__title">Look Inside</h1>
-        <p class="carousel-look__subtitle">This book has been designed with very unique fascinating inputs from Shrimad Bhagavad Gita, and experiences of life. The reader shall be gaining insights, which will become the guiding force to emerge victorious.</p>
+          <div class="container">
+              <h1 class="carousel-look__title">Look Inside</h1>
+              <p class="carousel-look__subtitle">This book has been designed with very unique fascinating inputs from Shrimad Bhagavad Gita, and experiences of life. The reader shall be gaining insights, which will become the guiding force to emerge victorious.</p>
+          </div>
         {{-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-look__carousel-inner carousel-inner">
             <div class="carousel-item active">

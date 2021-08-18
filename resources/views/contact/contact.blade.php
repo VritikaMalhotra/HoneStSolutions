@@ -40,7 +40,21 @@
         </div>
         <div class="contact__wrap pb-3">
             <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Social Media</h4>
-            <div class="d-flex align-items-center mb-3">
+            <div class="d-flex contact__socail-icons align-items-center">
+                <a href="#">
+                    <i class="fa fa-instagram pr-3" style="color:gray"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-facebook pr-3" style="color:gray"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-linkedin pr-3" style="color:gray"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-twitter pr-3" style="color:gray"></i>
+                </a>
+            </div>
+            {{-- <div class="d-flex align-items-center mb-3">
                 <i class="fa fa-instagram" style="color:gray"></i>
                 <p class="contact__address pl-2 mb-0">198 West 21th Street, Suite 721 New York NY 10016</p>
             </div>
@@ -55,7 +69,7 @@
             <div class="d-flex align-items-center mb-3">
                 <i class="fa fa-twitter" style="color:gray"></i>
                 <p class="contact__call pl-2 mb-0">+123 456 7890</p>
-            </div>
+            </div> --}}
         </div>
     </div>
 </body>
