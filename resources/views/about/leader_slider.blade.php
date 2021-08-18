@@ -40,16 +40,37 @@
            <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
 
            <div class="owl-carousel owl-theme leader_slider-owl-carousel">
+               <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/olx_cash_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/gls_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/kalorex_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/amity_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/relaince_retail_logo.jpg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
                <div class="leader_slider__item d-flex align-items-center justify-content-center">
                    <div class="leader-slider__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
                    </div>
                </div>
-               <div class="leader_slider__item d-flex align-items-center justify-content-center">
-                   <div class="leader-slider__image d-flex align-items-center justify-content-center">
-                        <img src="img/our-partner-img1.jpg" alt="" class="leader_slider__image-fix">
-                   </div>
-               </div>
+
                <div class="leader_slider__item d-flex align-items-center justify-content-center">
                    <div class="leader-slider__image d-flex align-items-center justify-content-center">
                         <img src="img/our-partner-img2.jpg" alt="" class="leader_slider__image-fix">
