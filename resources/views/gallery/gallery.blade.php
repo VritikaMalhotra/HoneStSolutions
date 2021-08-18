@@ -26,8 +26,9 @@
 
 .gallery-card__image-fix {
     width: 100%;
-    height: 200px;
+    /* height: 200px; */
     border-radius:5px;
+    margin-bottom: 15px;
     object-fit:cover;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -66,124 +67,159 @@
     </head>
     <body>
 
+<!-- Gallery -->
         <div class="page-gallery py-5">
             <div class="container">
+                <div class="page-gallery__cards justify-content-center row m-0">
+                    <div class="col-lg-3 col-sm-6">
+                        <a href="img/gal11.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal11.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal15.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal15.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal19.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal19.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal4.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal4.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <a href="img/gal12.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal12.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal16.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal16.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal1.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal1.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal5.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal5.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <a href="img/gal13.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal13.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/ama24-05-2019.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/ama24-05-2019.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal2.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal2.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/ama19-09-2019.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/ama19-09-2019.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <a href="img/gal14.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal14.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal18.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal18.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal3.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal3.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/Adani25-07-2019.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/Adani25-07-2019.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                    </div>
+                </div>
                 <div class="">
-                    <div class="page-gallery__cards justify-content-center row m-0">
+                    <h1 class="mb-4">second gallery</h1>
+                    <div class="page-gallery__cards justify-content-center align-items-center row m-0">
                         <a href="img/gal11.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal11.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal12.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal12.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal13.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal13.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal14.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal14.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal15.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal15.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal16.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal16.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/ama24-05-2019.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/ama24-05-2019.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal18.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal18.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
                         <a href="img/gal19.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal19.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal1.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal1.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal2.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal2.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal3.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal3.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal4.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal4.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/gal5.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/gal5.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/ama19-09-2019.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/ama19-09-2019.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/Adani25-07-2019.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/Adani25-07-2019.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
 
                         <a href="img/online1.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/online1.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
                         <a href="img/online2.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/online2.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
                         <a href="img/onlineweekendbatch.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/onlineweekendbatch.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
                         <a href="img/visamo07-08-2021.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            {{-- <div class="gallery-card__image col-md-12 px-0"> --}}
                                 <img src="img/visamo07-08-2021.png" alt="" class="gallery-card__image-fix img-fluid">
-                            {{-- </div> --}}
                         </a>
                     </div>
                 </div>

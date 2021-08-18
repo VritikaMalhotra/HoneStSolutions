@@ -46,10 +46,10 @@
         <section class="succes_story">
             <div class="container-fuild">
                 <div class="row mx-0">
-                    <div class="col-xl-2 col-lg-4 col-sm-6 succes_story__image p-0 d-flex align-items-center">
+                    <div class="col-xl-3 col-lg-4 col-sm-6 succes_story__image p-0 d-flex align-items-center">
                         <img src="img/@yield('succes_story__image')" alt="Free Bootstrap Template by uicookies.com" class="succes_story__image-fix">
                     </div>
-                    <div class="col-xl-10 col-lg-8 col-sm-6 col-md-pull-6 succes_story__content my-auto">
+                    <div class="col-xl-9 col-lg-8 col-sm-6 col-md-pull-6 succes_story__content my-auto">
                         <h3 class="succes_story__title">@yield('succes_story__title')</h3>
                         <h4 class="succes_story__title-second">@yield('succes_story__title-second')</h4>
                         <p class="succes_story__subtitle">@yield('succes_story__subtitle')</p>
