@@ -48,9 +48,9 @@
             <div class="Our-mission__title d-flex justify-content-center">
                 <img src="img/Our-mission-title.png" alt="" class="Our-mission__title-fix">
             </div>
-            <div class="our-mission__banner d-flex justify-content-center mb20">
+            {{-- <div class="our-mission__banner d-flex justify-content-center mb20">
                 <img src="img/our-mission-banner.jpg" alt="" class="our-mission__banner-fix">
-            </div>
+            </div> --}}
             <h1 class="testomoials-carousel__name pt20">Share learnings with maximum people to increase happiness quotient.</h1>
             <p class="our-mission__description mb0"> </p>
             <p class="our-mission__description mb0"></p>
