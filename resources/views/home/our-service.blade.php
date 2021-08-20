@@ -57,7 +57,7 @@
 </head>
 <body>
     <div class="homepage__banner-fix">
-    <div class="page__our-servies">
+    <div class="page__our-servies" id="our_services">
         <div class="container">
             <div class="our-service-title d-flex justify-content-center">
                 <img src="img/our-service-title.png" alt="" class="our-service-title-fix">
