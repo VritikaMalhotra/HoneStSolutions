@@ -31,17 +31,7 @@
         <div class="page-people py-5">
             <div class="container">
                 <div class="page-people__cards justify-content-center row m-0">
-                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
-                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/People1.jpg" alt="" class="people-card__logo-fix">
-                        </div>
-                        <div class="people-card__content px-0">
-                            <p class="people-card__description">"I discovered the path from which I can discover the Arjuna in me. It is still a long journey, but this training got me started "</p>
-                            <h6 class="people-card__name mb-0">-Mr Harsh Soni</h6>
-                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
-                        </div>
-                    </a>
-
+                    
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
@@ -152,6 +142,18 @@
                             <h6 class="people-card__position mb-0">Engineer, Adani Solar</h6>
                         </div>
                     </a>
+
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/People1.jpg" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"I discovered the path from which I can discover the Arjuna in me. It is still a long journey, but this training got me started "</p>
+                            <h6 class="people-card__name mb-0">-Mr Harsh Soni</h6>
+                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                        </div>
+                    </a>
+
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
