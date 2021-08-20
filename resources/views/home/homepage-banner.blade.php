@@ -55,6 +55,15 @@
                 padding-top: 30px;
             }
         }
+        .testomoials-carousel__name{
+               text-align: left;
+           }
+           @media screen and (max-width: 767px) {
+                .testomoials-carousel__name{
+                    font-size: 30px;
+                    line-height: normal;
+                }
+            }
     </style>
 </head>
 <body>
@@ -64,7 +73,7 @@
                 <div class="col-md-6">
                     <h1 class="homepage-banner__title mb0">Hone ST</h1>
                     <h2 class="homepage-banner__subtitle mb30">Solutions</h2>
-                    <p class="homepage-banner__description mb30">Help Bhagvad Gita touch life of every Individual</p>
+                    <h1 class="testomoials-carousel__name pt20">Let's Help Bhagvad Gita touch life of every Individual</h1>
                     {{-- <div class="d-flex justify-content-center"> --}}
                         <a href="#" class="btn btn-orange">Explore Now</a>
                     {{-- </div> --}}
