@@ -51,7 +51,8 @@
             <div class="our-mission__banner d-flex justify-content-center mb20">
                 <img src="img/our-mission-banner.jpg" alt="" class="our-mission__banner-fix">
             </div>
-            <p class="our-mission__description mb0">Share learnings with maximum people to increase happiness quotient. </p>
+            <h1 class="testomoials-carousel__name pt20">Share learnings with maximum people to increase happiness quotient.</h1>
+            <p class="our-mission__description mb0"> </p>
             <p class="our-mission__description mb0"></p>
             <div class="d-flex justify-content-center pt30">
                 <a href="#" class="btn btn-orange">Read more</a>
