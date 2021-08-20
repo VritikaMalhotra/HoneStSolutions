@@ -143,8 +143,8 @@
                         </a>
                     </div>
                 </div>
-                <div class="">
-                    <h1 class="mb-4">second gallery</h1>
+                {{-- <div class="">
+                    <h1 class="mb-4">Second gallery</h1>
                     <div class="page-gallery__cards justify-content-center align-items-center row m-0">
                         <a href="img/gal11.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                                 <img src="img/gal11.png" alt="" class="gallery-card__image-fix img-fluid">
@@ -222,7 +222,7 @@
                                 <img src="img/visamo07-08-2021.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
         <script>

@@ -29,35 +29,31 @@
         }
 
         .accordion-image__item-1 {
-        background-image: url(img/Picture9.png);
-        }
-
-        .accordion-image__item-2 {
-        background-image: url(img/Picture6.png);
-        }
-
-        .accordion-image__item-3 {
-        background-image: url(img/Picture2.png);
-        }
-
-        .accordion-image__item-4 {
-        background-image: url(img/Picture3.png);
-        }
-
-        .accordion-image__item-5 {
-        background-image: url(img/Picture4.png);
-        }
-
-        .accordion-image__item-6 {
         background-image: url(img/Picture5.png);
         }
 
-        .accordion-image__item-7 {
+        .accordion-image__item-2 {
+        background-image: url(img/Picture2.png);
+        }
+
+        .accordion-image__item-3 {
+        background-image: url(img/Picture4.png);
+        }
+
+        .accordion-image__item-4 {
         background-image: url(img/Picture7.png);
         }
 
-        .accordion-image__item-8 {
-        background-image: url(img/Picture8.png);
+        .accordion-image__item-5 {
+        background-image: url(img/Picture6.png);
+        }
+
+        .accordion-image__item-6 {
+        background-image: url(img/collage.png);
+        }
+
+        .accordion-image__item-7 {
+        background-image: url(img/Picture9.png);
         }
 
     </style>
@@ -73,7 +69,6 @@
               <div class="accordion-image__item accordion-image__item-5"></div>
               <div class="accordion-image__item accordion-image__item-6"></div>
               <div class="accordion-image__item accordion-image__item-7"></div>
-              <div class="accordion-image__item accordion-image__item-8"></div>
             </div>
         </div>
     </div>
