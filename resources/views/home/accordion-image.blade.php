@@ -53,7 +53,11 @@
         }
 
         .accordion-image__item-7 {
-        background-image: url(img/Picture9.png);
+        background-image: url(img/Picture3.png);
+        }
+
+        .accordion-image__item-8 {
+        background-image: url(img/group8.png);
         }
 
     </style>
@@ -69,6 +73,7 @@
               <div class="accordion-image__item accordion-image__item-5"></div>
               <div class="accordion-image__item accordion-image__item-6"></div>
               <div class="accordion-image__item accordion-image__item-7"></div>
+              <div class="accordion-image__item accordion-image__item-8"></div>
             </div>
         </div>
     </div>

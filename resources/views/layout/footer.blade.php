@@ -51,12 +51,15 @@
 
       <!-- Grid row -->
       <div class="row pt-3">
-
         <!-- Grid column -->
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
           <!-- Content -->
-          <h4 class="text-uppercase font-weight-bold">Company name</h4>
+       
+          <div class="home-st-logo logo">
+            <img src="img/Hone-ST-Logo.png" alt="" class="home-st-logo-fix">
+        </div>
+        <br><br>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
             consectetur
