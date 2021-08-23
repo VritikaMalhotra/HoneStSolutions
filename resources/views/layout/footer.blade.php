@@ -55,9 +55,9 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
           <!-- Content -->
-       
-          <div class="home-st-logo logo">
-            <img src="img/Hone-ST-Logo.png" alt="" class="home-st-logo-fix">
+
+          <div class="footer__logo">
+            <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
         <br><br>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">

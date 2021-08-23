@@ -22,14 +22,19 @@
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
         }
         .service__logo-fix{
-            width:150px;
+            width:120px;
+            height: 120px;
         }
         .service__name{
             text-align:center;
+            font-weight: bold;
+            color: black;
         }
         .service__description{
             text-align:center;
+            color: black;
         }
+
     </style>
 </head>
 <body>

@@ -72,6 +72,8 @@
                 background-repeat: no-repeat;
                 background-size: cover;
                 /* background-position: bottom; */
+                /* banner height fixxing   */
+                /* background-size: 100% 100%; */
             }
             @media screen and (max-width: 1400px) {
                 .simple-banner{

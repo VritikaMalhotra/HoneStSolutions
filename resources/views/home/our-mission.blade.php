@@ -10,7 +10,13 @@
             background-color: white;
             box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
             padding: 0 121px;
+            background-image: url(img/wave_orange.png);
+            background-repeat: no-repeat;
+            background-position: left bottom;
+            background-size: 650px;
+            /* background-size: 200px,150px; */
         }
+
         @media only screen and (max-width: 768px) {
             .page__our-mission{
                 padding: 0 15px;
