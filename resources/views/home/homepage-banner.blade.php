@@ -8,9 +8,9 @@
     <style>
         .homepage-banner{
             background-color: #FF9031;
-            background-image: url(img/beige-aged-background.jpg);
+            background-image: url(img/ved10.jpg);
             background-repeat: no-repeat;
-            background-size: 1535px,331px;
+            background-size: 1535px,800px;
         }
         .homepage-banner__wrapper{
             background-color: white;
