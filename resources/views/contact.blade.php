@@ -4,10 +4,10 @@
         background-image: url(img/background-ship.png),url(img/bacground-om.png);
         background-repeat: no-repeat;
         background-position: top left,bottom right;
-        background-size: 200px,150px;
+        background-size: 200px,200px;
     }
 </style>
-{{-- @section('curosal-background',('temple.jpg')) --}}
+@section('curosal-background',('ved16.jpg'))
 @section('curosal-title',('CONTACT US'))
 @section('curosal-subtitle',('together we can make a difference'))
 

@@ -8,9 +8,9 @@
     <style>
         .homepage-banner{
             background-color: #FF9031;
-            background-image: url(img/ethnic.png);
+            background-image: url(img/ved10.jpg);
             background-repeat: no-repeat;
-            background-size: 100% 100%;
+            background-size: 1535px,800px;
         }
         .homepage-banner__wrapper{
             background-color: white;

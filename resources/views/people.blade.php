@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('curosal-background',('banner-image1.jpg'))
+@section('curosal-background',('ved5.jpg'))
 @section('curosal-title',('PEOPLE LOVES US'))
 @section('curosal-subtitle',('together we can make a difference'))
 
