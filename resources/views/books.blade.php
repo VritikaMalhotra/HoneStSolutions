@@ -1,6 +1,6 @@
 @extends('app')
 
-{{-- @section('curosal-background',('temple.jpg')) --}}
+@section('curosal-background',('bhagavad-gita-banner.jpg'))
 @section('curosal-title',('Book'))
 @section('curosal-subtitle',('The Corporate Bhagavad Gita'))
 @section('succes_story__image',('arjun.jpg'))
