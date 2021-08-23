@@ -75,16 +75,16 @@
           <h4 class="text-uppercase font-weight-bold">Visit</h4>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="#!">Our Mission</a>
+            <a href="/about">Our Story</a>
           </p>
           <p>
-            <a href="#!">Our Services</a>
+            <a href="/service">Our Services</a>
           </p>
           <p>
-            <a href="#!">Our Partners</a>
+            <a href="/about">Our Partners</a>
           </p>
           <p>
-            <a href="#!">Blogs</a>
+            <a href="/blogs">Blogs</a>
           </p>
 
         </div>
@@ -97,16 +97,16 @@
           <h4 class="text-uppercase font-weight-bold">Useful links</h4>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="#!">About Us</a>
+            <a href="/about">About Us</a>
           </p>
           <p>
-            <a href="#!">Contact Us</a>
+            <a href="/contact">Contact Us</a>
           </p>
           <p>
-            <a href="#!">Our Journey</a>
+            <a href="/our-journey">Our Journey</a>
           </p>
           <p>
-            <a href="#!">Services</a>
+            <a href="/people">Testimonials</a>
           </p>
 
         </div>
