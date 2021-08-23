@@ -506,7 +506,7 @@ nav.black ul {
       .logo {
             /* position: fixed; */
             top: 0;
-            margin-top: -74px;
+            margin-top: -64px;
       }
 
       nav ul {
@@ -563,6 +563,11 @@ nav.black ul {
 }
 .footer__logo-fix{
     width: 100%;
+}
+@media(max-width: 767px) {
+    .contact__socail-icons{
+        justify-content: center;
+    }
 }
     </style>
 </head>
