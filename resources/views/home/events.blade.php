@@ -66,9 +66,9 @@
             <div class="events__cards">
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name"></h3>
-                        <div class="events__profile d-flex">
-                            <img src="img/YT_1.jpg" alt="" class="events__profile-fix">
+                        <h3 class="events__name">In conversation with Ummeed!</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">
+                            <img src="img/YT_1.jpg"   alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -77,29 +77,30 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">In conversation with Ummeed!</h4>
+                                <h4 class="events__types mb0 pl-1">Duration: 1hr 11min</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Date: November 5</h4>
+                                <h4 class="events__types mb0 pl-1">Date: May 25 2021</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">View video</h4>
+                                <h4 class="events__types mb0 pl-1" > <a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">View video</a></h4>
                             </div>
                         </div>
-                        <p class="events__description mb0">In the first session, we will consider design thinking and its understanding as well as different models of design thinking and the design process, and we will better remember this process with various examples. We will also discuss problem solving techniq</p>
+                        <p class="events__description mb0" >Great Conversation with Mr. Jayesh Kaushik and Mr. Vikash Jha, Founders of Ummeed, on how an individual can remain focussed in these challenging times and come out with flying colours. More importantly, how Bhagavad Gita can help swim through these high tides!!!
+Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our charioteer we can remain focussed in righteous action.</p>
                     </div>
                 </div>
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name">Second session</h3>
-                        <div class="events__profile d-flex">
-                            <img src="img/yt_2.jpg" alt="" class="events__profile-fix">
+                        <h3 class="events__name">Lockdown Learnings - Part XI</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=yznQB5DH6r4">
+                            <img src="img/yt_2.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -108,29 +109,31 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
+                                <h4 class="events__types mb0 pl-1">Duration: 9 Mins</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Date: November 5</h4>
+                                <h4 class="events__types mb0 pl-1">Date: June 10 2020</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">View video</h4>
+                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=yznQB5DH6r4">View video</a></h4>
                             </div>
                         </div>
-                        <p class="events__description mb0">In the second session, we will discuss service design, first discussing “What is a service?” Then we practice how to create the right conditions for them in the long run to stay loyal to our product based on the actual needs of our audience and to create s</p>
+                        <p class="events__description mb0">Concept of DAVIPS - Karma (Action/Activity)
+Prasun Kundu has experience of over 23 years in the corporate world of which more than 18 years in leadership position. Decided to pursue his passion to give back to the corporate world and to the society at large.
+Corporate experience includes 12 years with Nestle India Limited, 3 Years with Reliance Retail, Close to 8 years with Idea Cellular Limited and 11 months with McCormick.</p>
                     </div>
                 </div>
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name">Third session</h3>
-                        <div class="events__profile d-flex">
-                            <img src="img/yt_3.jpg" alt="" class="events__profile-fix">
+                        <h3 class="events__name">Interview with Dr. Avani Desai</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=3Y4bKdBum7o">
+                            <img src="img/yt_3.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -139,29 +142,29 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
+                                <h4 class="events__types mb0 pl-1">Duration: 8 Mins</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Date: November 5</h4>
+                                <h4 class="events__types mb0 pl-1">Date: Aug 31 2019</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">View video</h4>
+                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=3Y4bKdBum7o">View video</a></h4>
                             </div>
                         </div>
-                        <p class="events__description mb0">In the third session we will discuss the most important design phase, which is the initial research and review process. We will explore user experience research and user research methods. At the end of the session we will be able to build user personas as </p>
+                        <p class="events__description mb0">In this session The author is talking about the book Corporate Bhagavad Gita along with Dr. Avani Desai  </p>
                     </div>
                 </div>
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name">Fourth session</h3>
-                        <div class="events__profile d-flex">
-                            <img src="img/yt_4.jpg" alt="" class="events__profile-fix">
+                        <h3 class="events__name">Interview by Dr. Sameer Savaliya</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=qgJaBg53A50">
+                            <img src="img/yt_4.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -170,29 +173,29 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
+                                <h4 class="events__types mb0 pl-1">Duration: 30 Mins</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Date: November 5</h4>
+                                <h4 class="events__types mb0 pl-1">Date: May 2 2019</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">View video</h4>
+                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=qgJaBg53A50">View video</a></h4>
                             </div>
                         </div>
-                        <p class="events__description mb0">Building experience is one of the key points in product management and design. But how does this experience come about? The experience is made by creating a unique feeling in the mind. In the fourth session, we will learn how to identify users’ behavior an</p>
+                        <p class="events__description mb0">This interview was done at Book n Bliss where author dicussed The Corporate Bhagavad Gita - Discover The Arjuna In You...</p>
                     </div>
                 </div>
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name">Fifth session</h3>
-                        <div class="events__profile d-flex">
-                            <img src="img/yt_5.jpg" alt="" class="events__profile-fix">
+                        <h3 class="events__name">Mr Prasun Kundu</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=68fLyFiaDoM">
+                            <img src="img/yt_5.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -201,22 +204,22 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
+                                <h4 class="events__types mb0 pl-1">Duration: 1 hr 15 min</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Date: November 5</h4>
+                                <h4 class="events__types mb0 pl-1">Date: July 16 2019</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">View video</h4>
+                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=68fLyFiaDoM">View video</a></h4>
                             </div>
                         </div>
-                        <p class="events__description mb0">It’s time to get started.The fifth session is intended to capture the audiences’ minds and create a new experience for them, like a humorist, sculptor or painter.But with one big difference - and the difference is that we will solve their problems at the s</p>
+                        <p class="events__description mb0">Ahmedabad Management Association</p>
                     </div>
                 </div>
             </div>
