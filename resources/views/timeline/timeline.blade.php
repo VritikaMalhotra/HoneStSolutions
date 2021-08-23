@@ -160,7 +160,7 @@
     <div class="timeline-container" id="timeline-1">
         <div class="timeline-header">
             <h2 class="timeline-header__title">Our Journey</h2>
-            <h3 class="timeline-header__subtitle">From 2018 - till today</h3>
+            <h3 class="timeline-header__subtitle"></h3>
         </div>
         <div class="timeline">
             <div class="timeline-item" data-text="Apple Inc.">
@@ -219,7 +219,7 @@
             </div>
 			<div class="timeline-item" data-text="Adani Solar & Power">
                 <div class="timeline__content">
-                    <img src="img/Adani25-07-2019.png" alt="" class="timeline__img">
+                    <img src="img/Adani26-07-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25,26-06-2019</h2>
                     <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>

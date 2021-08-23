@@ -133,9 +133,9 @@
                         <img src="img/amity_logo.png" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
-                    <div class="gallery-card pt-3">
+                    {{-- <div class="gallery-card pt-3">
                         <img src="img/our-partner-img3.jpg" alt="" class="gallery-card__image-fix img-fluid">
-                    </div>
+                    </div> --}}
 
                 </div>
             </div>

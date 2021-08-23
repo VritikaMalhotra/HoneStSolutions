@@ -24,7 +24,7 @@
 
 
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-    <title>Head</title>
+    <title>HoneST Solutions</title>
     <style>
     @import url('http://fonts.cdnfonts.com/css/samarkan');
              @font-face {
