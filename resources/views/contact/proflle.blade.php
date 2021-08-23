@@ -72,7 +72,7 @@ Consulting and research for Roasty Tasty, Boss Leathers, Mobile Anti-Radiation C
                         <img src="img/sandhya_mam_profile.png" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
-                        <h3 class="profile-card__name mb-0">Sandhya <span class="" style="font-family: 'Samarkan', sans-serif;">Kundu</span></h3>
+                        <h3 class="profile-card__name mb-0">Sandhya Prasun <span class="" style="font-family: 'Samarkan', sans-serif;">Kundu</span></h3>
                         <p class="profile-card__description">Experience of over 15 years with Tulip Software (P) Ltd., Ask Me Information Services, Samtech Engineering Ltd. Multiple Zones India, Applied Biosystems and Life Technologies.
 Currently running own manpower consultancy under the aegis of Hone ST Solutions – Clients are ICICI Direct, HDFC Bank
 Corporate Trainings through Bhagavad Gita. Some of the clients – Apple, Reliance Retail, Adani Solar & Power. 

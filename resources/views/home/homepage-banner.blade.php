@@ -10,6 +10,7 @@
             background-color: #FF9031;
             background-image: url(img/beige-aged-background.jpg);
             background-repeat: no-repeat;
+            background-size: 1535px,331px;
         }
         .homepage-banner__wrapper{
             background-color: white;
