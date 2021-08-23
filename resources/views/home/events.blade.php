@@ -59,16 +59,16 @@
     <div class="events events__background">
         <div class="container">
             <div class="events__title d-flex justify-content-center">
-                <img src="img/events-title.png" alt="" class="events__title-fix">
+                <img src="img/videos.png" alt="" class="events__title-fix">
             </div>
             {{-- <h1 class="events__title mb0">Events</h1>
             <h1 class="events__title--shadow mb0">Events</h1> --}}
             <div class="events__cards">
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
-                        <h3 class="events__name">First session</h3>
+                        <h3 class="events__name"></h3>
                         <div class="events__profile d-flex">
-                            <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
+                            <img src="img/YT_1.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -77,7 +77,7 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1">Duration: 6 hour</h4>
+                                <h4 class="events__types mb0 pl-1">In conversation with Ummeed!</h4>
                             </div>
                             <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
                                 <div class="d-flex align-items-center">
@@ -99,7 +99,7 @@
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Second session</h3>
                         <div class="events__profile d-flex">
-                            <img src="img/event-profile2.jpg" alt="" class="events__profile-fix">
+                            <img src="img/yt_2.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -130,7 +130,7 @@
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Third session</h3>
                         <div class="events__profile d-flex">
-                            <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
+                            <img src="img/yt_3.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -161,7 +161,7 @@
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Fourth session</h3>
                         <div class="events__profile d-flex">
-                            <img src="img/event-profile3.jpg" alt="" class="events__profile-fix">
+                            <img src="img/yt_4.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -192,8 +192,7 @@
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Fifth session</h3>
                         <div class="events__profile d-flex">
-                            <img src="img/event-profile1.jpg" alt="" class="events__profile-fix">
-                            <img src="img/event-profile4.jpg" alt="" class="events__profile-fix">
+                            <img src="img/yt_5.jpg" alt="" class="events__profile-fix">
                         </div>
                     </div>
                     <div class="col-md-9">
