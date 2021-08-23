@@ -40,7 +40,7 @@
             } */
 
             .events__profile-fix{
-                width: 50%;
+                width: 60%;
                 padding-right: 10px;
             }
             .events__description{
@@ -52,6 +52,17 @@
             .events__name{
                 border-left: 10px solid gray;
                 margin-left: -10px;
+            }
+            .events__types{
+                color: black;
+                font-size: 22px;
+            }
+            .events__types-link{
+                color: black;
+                font-size: 22px;
+            }
+            .events__types-link:hover{
+                color: orange;
             }
     </style>
 </head>
@@ -89,7 +100,7 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1" > <a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">View video</a></h4>
+                                <a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0" >Great Conversation with Mr. Jayesh Kaushik and Mr. Vikash Jha, Founders of Ummeed, on how an individual can remain focussed in these challenging times and come out with flying colours. More importantly, how Bhagavad Gita can help swim through these high tides!!!
@@ -121,7 +132,7 @@ Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our c
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=yznQB5DH6r4">View video</a></h4>
+                                <a href="https://www.youtube.com/watch?v=yznQB5DH6r4" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">Concept of DAVIPS - Karma (Action/Activity)
@@ -154,7 +165,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=3Y4bKdBum7o">View video</a></h4>
+                                <a href="https://www.youtube.com/watch?v=3Y4bKdBum7o" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">In this session The author is talking about the book Corporate Bhagavad Gita along with Dr. Avani Desai  </p>
@@ -185,7 +196,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=qgJaBg53A50">View video</a></h4>
+                                <a href="https://www.youtube.com/watch?v=qgJaBg53A50" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">This interview was done at Book n Bliss where author dicussed The Corporate Bhagavad Gita - Discover The Arjuna In You...</p>
@@ -216,7 +227,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <h4 class="events__types mb0 pl-1"><a href="https://www.youtube.com/watch?v=68fLyFiaDoM">View video</a></h4>
+                                <a href="https://www.youtube.com/watch?v=68fLyFiaDoM" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">Ahmedabad Management Association</p>

@@ -29,6 +29,15 @@
                 align-items: center;
                 justify-content: center;
             }
+            .gallery-card__image-fix {
+                width: 100%;
+                /* height: 200px; */
+                border-radius:5px;
+                margin-bottom: 15px;
+                object-fit:cover;
+            }
+
+
 
         </style>
     </head>
@@ -39,7 +48,7 @@
 
            <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
 
-           <div class="owl-carousel owl-theme leader_slider-owl-carousel">
+           {{-- <div class="owl-carousel owl-theme leader_slider-owl-carousel">
                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/olx_cash_logo.jpg" alt="" class="our-partner-carousel__image-fix">
@@ -81,10 +90,55 @@
                         <img src="img/our-partner-img3.jpg" alt="" class="leader_slider__image-fix">
                    </div>
                </div>
-           </div>
+           </div> --}}
+
            {{-- <div class="d-flex justify-content-center mt30">
                 <a href="#" class="btn btn-orange">See All</a>
             </div> --}}
+
+            <div class="page-gallery__cards justify-content-center row m-0">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gallery-card pt-3">
+                        <img src="img/olx_cash_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                    <div class="gallery-card pt-3">
+                        <img src="img/relaince_retail_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gallery-card pt-3">
+                        <img src="img/gls_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                    <div class="gallery-card pt-3">
+                        <img src="img/our-partner-img1.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gallery-card pt-3">
+                        <img src="img/kalorex_logo.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                    <div class="gallery-card pt-3">
+                        <img src="img/our-partner-img2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gallery-card pt-3">
+                        <img src="img/amity_logo.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                    <div class="gallery-card pt-3">
+                        <img src="img/our-partner-img3.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                </div>
+            </div>
        </div>
    </div>
 
@@ -117,6 +171,23 @@
             }
         }
     })
+</script>
+<script>
+    $(document).ready(function(){
+        $(".gallery-card").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+
+            $(".gallery-card__image-fix").hover(function(){
+
+                $(this).addClass('transition');
+            }, function(){
+
+                $(this).removeClass('transition');
+            });
+        });
+
 </script>
 
     </body>
