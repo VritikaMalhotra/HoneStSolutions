@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
+    <style>
+        .contact__logo-fix{
+            width: 150px;
+        }
+    </style>
 </head>
 <body>
     <div class="">
@@ -70,6 +75,11 @@
                 <i class="fa fa-twitter" style="color:gray"></i>
                 <p class="contact__call pl-2 mb-0">+123 456 7890</p>
             </div> --}}
+        </div>
+        <div class="contact__wrap pb-3">
+            <div class="contact__logo">
+                <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
+            </div>
         </div>
     </div>
 </body>

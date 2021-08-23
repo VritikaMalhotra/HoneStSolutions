@@ -82,13 +82,13 @@
 
                 </div> --}}
             </div>
-            <div class="page-book__wrapper d-flex justify-content-center">
+            <!-- <div class="page-book__wrapper d-flex justify-content-center">
                 <a href="#" class="book_link"><i class="fa fa-facebook p-2 m-2 book__link-icon"></i></a>
                 <a href="#" class="book_link"><i class="fa fa-twitter p-2 m-2 book__link-icon"></i></a>
                 <a href="#" class="book_link"><i class="fa fa-linkedin p-2 m-2 book__link-icon"></i></a>
                 <a href="#" class="book_link"><i class="fa fa-google-plus p-2 m-2 book__link-icon"></i></a>
-            </div>
-            <h6 class="page-book__title col-12 mb-0">Share this book</h6>
+            </div> -->
+            <!-- <h6 class="page-book__title col-12 mb-0">Share this book</h6> -->
         </div>
        <!--Jquery -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>

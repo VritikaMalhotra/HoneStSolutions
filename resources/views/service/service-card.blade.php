@@ -85,7 +85,7 @@ In addition, our Founders experience in sales and marketing and also as a coach,
                         </div>
                         <div class="service__content px-0">
                             <h4 class="service__name mb-0">Digital Marketing</h4>
-                            <p class="service__description">Digital marketing is the component of marketing that utilizes internet and online based digital technologies to promote products and services.Rebuild your personal or corporate image on the web. Give your company name the reputation it deserves. We'll rebuild your name and promote the Positive!
+                            <p class="service__description">Digital marketing is the component of marketing that utilizes internet and online based digital technologies to promote products and services.Rebuild your personal or corporate image on the web. We'll rebuild your name and promote the Positive!
 
 
 using Web, Social Media and other platforms.</p>

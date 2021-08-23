@@ -65,7 +65,7 @@
             }
             .simple-banner{
                 background-color: #ff9800;
-                padding: 200px 0px;
+                padding: 250px 0px;
                 /* background-image: url('img/temple.jpg'); */
                 background-image: linear-gradient(to right, #ff9800, rgba(255, 255, 255, 0.5)),url('img/@yield('curosal-background')');
                 /* background-image: url('@yield('curosal-background')'); */
@@ -73,7 +73,7 @@
                 background-size: cover;
                 /* background-position: bottom; */
                 /* banner height fixxing   */
-                /* background-size: 100% 100%; */
+                 background-size: 100% 100%; 
             }
             @media screen and (max-width: 1400px) {
                 .simple-banner{

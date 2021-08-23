@@ -22,10 +22,10 @@
                     <a href="/blogs" class="navbar__item">Blogs</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    {{-- <a href="/people" class="navbar__item">Testimonials</a> --}}
+                    <a href="/people" class="navbar__item">Testimonials</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    {{-- <a href="/our-journey" class="navbar__item">Our journey</a> --}}
+                    <a href="/our-journey" class="navbar__item">Our journey</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/service" class="navbar__item">Service</a>
