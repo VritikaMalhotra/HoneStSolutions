@@ -416,16 +416,16 @@ a:hover, a:focus, a:active {
       line-height: 30px;
       text-align: justify;
 }
-.home-st-logo-fix{
-    width: 100px;
+nav .home-st-logo-fix{
+    width: 150px;
 }
 @media(max-width: 1440px) {
-    .home-st-logo-fix{
+    nav .home-st-logo-fix{
         width: 80px;
     }
 }
 @media(max-width: 768px) {
-    .home-st-logo-fix{
+    nav .home-st-logo-fix{
         width: 100px;
     }
 }
@@ -471,7 +471,7 @@ nav.black ul {
 
 .navbar__item {
       display: inline-block;
-      padding: 16px 20px;;
+      padding: 26px 20px;;
       text-decoration: none;
       color: #fff;
       font-size: 16px;
@@ -560,6 +560,9 @@ nav.black ul {
 }
 .page-footer h4{
     color:white;
+}
+.footer__logo-fix{
+    width: 100%;
 }
     </style>
 </head>
