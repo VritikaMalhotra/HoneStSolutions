@@ -9,7 +9,7 @@
             crossorigin="anonymous" />
         <style>
              .leader_slider{
-                background-image: url(img/bacground-our-mission.png);
+                background-image: url("");
                 background-repeat: no-repeat;
                 background-position: bottom left;
                 background-size: 200px;

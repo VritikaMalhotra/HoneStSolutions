@@ -61,9 +61,7 @@
         </div>
         <br><br>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-            consectetur
-            adipisicing elit.</p>
+          <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. We believe what separates a good business from a great one is the PEOPLE, which form the basis of our extensive training and talent management programmes. Our team, which has professionals with 20+ years experience, will take care of all your needs.</p>
 
         </div>
         <!-- Grid column -->
@@ -127,18 +125,18 @@
           <p>
             <i class="fa fa-print mr-3"></i> + 01 234 567 89</p> --}}
         <div class="d-flex contact__socail-icons align-items-center">
-            <a href="#">
-                <i class="fa fa-home pr-3" style="color:white"></i>
-            </a>
-            <a href="mailto:info@example.com">
-                <i class="fa fa-envelope pr-3" style="color:white"></i>
-            </a>
-            <a href="tel:+ 01 234 567 88">
-                <i class="fa fa-phone pr-3" style="color:white"></i>
-            </a>
-            <a href="fax: + 01 234 567 89">
-                <i class="fa fa-print pr-3" style="color:white"></i>
-            </a>
+        <a href="#">
+                    <i class="fa fa-instagram pr-3" style="color:white"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-facebook pr-3" style="color:white"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-linkedin pr-3" style="color:white"></i>
+                </a>
+                <a href="#">
+                    <i class="fa fa-twitter pr-3" style="color:white"></i>
+                </a>
         </div>
 
         </div>
@@ -152,7 +150,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
-      <a href="https://mdbootstrap.com/"> HoneST solution</a>
+      <a href="https://honestsol.com/"> HoneST solution</a>
     </div>
     <!-- Copyright -->
 
