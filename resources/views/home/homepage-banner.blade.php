@@ -8,10 +8,8 @@
     <style>
         .homepage-banner{
             background-color: #FF9031;
-            background-image: url(img/home-banner-left-background.png),url(img/home-banner-left-background.png);
+            background-image: url(img/beige-aged-background.jpg);
             background-repeat: no-repeat;
-            background-position: bottom left,bottom right;
-            background-size: 190px,190px;
         }
         .homepage-banner__wrapper{
             background-color: white;
@@ -36,7 +34,7 @@
         }
         .homepage-banner__subtitle{
             font-family: 'Samarkan', sans-serif;
-            color: lightgray;
+            color: gray;
             line-height: normal;
         }
         .homepage-banner__description{
@@ -73,7 +71,7 @@
                 <div class="col-md-6">
                     <h1 class="homepage-banner__title mb0">Hone ST</h1>
                     <h2 class="homepage-banner__subtitle mb30">Solutions</h2>
-                    <h1 class="homepage-banner__title sb0">Let's Help Bhagvad Gita touch life of every Individual.</h1>
+                    <h1 class="homepage-banner__title sb0">Help Bhagvad Gita Touch Life of Every Individual.</h1>
                     {{-- <div class="d-flex justify-content-center"> --}}
                         <a href="#our_services" class="btn btn-orange">Explore Now</a>
                     {{-- </div> --}}
