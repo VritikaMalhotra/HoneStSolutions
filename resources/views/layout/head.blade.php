@@ -533,17 +533,22 @@ nav.black ul {
       .menu-icon {
             display: block;
       }
-	  .navbar__item:hover {
-      border-bottom:2px solid orange;
-      background-color:white;
-      color:orange;
+      .navbar__item_active{
+        border-bottom:2px solid orange;
+        background-color:white;
+        color:orange;
+      }
+	  .navbar__item:hover{
+        /* border-bottom:2px solid orange;
+        background-color:white;
+        color:orange; */
 		}
 		.navbar__wrap:hover .navbar__item{
 
 		}
 
 }
-.navbar__item:hover {
+.navbar__item:hover,.navbar__item_active {
 	border-bottom:2px solid orange;
 	background-color:white;
 	color:orange;

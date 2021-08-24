@@ -36,7 +36,7 @@
                 <div class="page-blog__cards row m-0">
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="/blog1">
+                        <a href="/blogs-details">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/blog1.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -57,7 +57,7 @@
                     </div>
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
-                        <a href="/blog2">
+                        <a href="/blogs-details2">
                         <div class="blog-card__image col-md-12 px-0">
                             <img src="img/blog2.jpg" alt="" class="blog-card__image-fix">
                         </div>
@@ -74,7 +74,7 @@
                         </a>
                     </div>
 
-                   
+
 
                 </div>
             </div>

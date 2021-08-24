@@ -16,7 +16,7 @@
                     @include('travel/travel-cards')
                 </div>
                 <div class="col-md-8">
-                    @include('travel/blog1')
+                    @include('travel/blog2')
                 </div>
             </div>
         </div>

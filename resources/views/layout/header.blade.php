@@ -10,7 +10,7 @@
             <!-- <div class="navbar__wrap"> -->
             <ul>
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/" class="navbar__item">Home</a>
+                    <a href="/" class="navbar__item navbar__item_active">Home</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/gallery" class="navbar__item">Gallery</a>
@@ -59,4 +59,21 @@
              $('nav').removeClass('black');
         }
     })
+    $('.menu > ul a').click(function(e) {
+    $('.menu a.navbar__item_active').removeClass('navbar__item_active');
+    var $this = $(this);
+    if (!$this.hasClass('navbar__item_active')) {
+        $this.addClass('navbar__item_active');
+    }
+    // e.preventDefault();
+    // const currentLocation =location.href;
+    // const menuItem = document.querySelectorAll('a');
+    // const menuLength =menuItem.length
+    // for (let index = 0; index < menuLength; index++) {
+    //     if (menuItem[index].href === url) {
+    //         menuItem[index].className = "active";
+    //     }
+    // }
+
+});
 </script>

@@ -30,6 +30,10 @@ Route::get('/blogs-details', function () {
     return view('blogs-details');
 });
 
+Route::get('/blogs-details2', function () {
+    return view('blogs-details2');
+});
+
 Route::get('/gallery', function () {
     return view('gallery');
 });
