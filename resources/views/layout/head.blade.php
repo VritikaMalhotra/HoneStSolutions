@@ -567,7 +567,7 @@ nav.black ul {
     color:white;
 }
 .footer__logo-fix{
-    width: 100%;
+    width: 65%;
 }
 @media(max-width: 767px) {
     .contact__socail-icons{
