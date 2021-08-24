@@ -7,8 +7,15 @@
             background-position: top left,bottom right;
             background-size: 200px,150px;
         }
+        .book-review-que__title{
+            font-weight: bold;
+            text-align: center;
+        }
        .book-review-que__title{
             font-weight:bold;
+       }
+       .carousel-review__subtitle{
+            text-align: center;
        }
        .book-review-que__subtitle{
 
@@ -57,12 +64,34 @@
     <body>
         <div class="page-book-review-que py-5">
             <div class="container">
-                <div class="row m-0">
-                    {{-- <div class="book-review-que__wrapper col-sm-6">
-                        <h2 class="book-review-que__title">Book Reviews</h2>
-                        <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
-                        <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
-                    </div> --}}
+                <div class="col-md-12">
+                    <h2 class="book-review-que__title">Book Reviews</h2>
+                </div>
+                <div id="carouselReview" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-review__carousel-inner carousel-inner">
+                        <div class="carousel-item active">
+                        <p class="carousel-review__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
+                        </div>
+                        <div class="carousel-item">
+                        <p class="carousel-review__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
+                        </div>
+                        <div class="carousel-item">
+                        <p class="carousel-review__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti distinctio, ipsum modi aliquam maiores perferendis ipsa iste quas accusantium atque? Ut consectetur quibusdam sit neque aliquam veniam voluptates perspiciatis earum?</p>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <a class="p-1" href="#carouselReview" role="button" data-slide="prev">
+                        <span class="p-3" style="border:1px solid gray;border-bottom-left-radius: 20px;border-top-left-radius: 20px;"><i class="fa fa-arrow-left" style="color:gray;" aria-hidden="true"></i></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="p-1" href="#carouselReview" role="button" data-slide="next">
+                        <span class="p-3" style="border:1px solid gray;border-bottom-right-radius: 20px;border-top-right-radius: 20px;"><i class="fa fa-arrow-right" style="color:gray;" aria-hidden="true"></i></span>
+                        <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+                {{-- <div class="row m-0">
+
                     <div class="book-review-que__wrapper col-sm-12">
                         <h2 class="book-review-que__title">Frequently Asked Question</h2>
                         <p class="book-review-que__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
@@ -84,7 +113,7 @@
                         </div>
 
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
         <script>
