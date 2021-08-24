@@ -1,8 +1,8 @@
 @extends('app')
 
 @section('curosal-background',('ved5.jpg'))
-@section('curosal-title',('PEOPLE LOVES US'))
-@section('curosal-subtitle',('together we can make a difference'))
+@section('curosal-title',('PEOPLE LOVE US'))
+@section('curosal-subtitle',('Together We Can Make a Difference'))
 
 @section('succes_story__image',('arjun.jpg'))
 @section('succes_story__title',('Discover The Arjuna in You'))

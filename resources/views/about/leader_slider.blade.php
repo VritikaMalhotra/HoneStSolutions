@@ -9,7 +9,7 @@
             crossorigin="anonymous" />
         <style>
              .leader_slider{
-                background-image: url("");
+                background-image: url(img/bacground-our-mission.png);
                 background-repeat: no-repeat;
                 background-position: bottom left;
                 background-size: 200px;
@@ -44,9 +44,9 @@
     <body>
    <div class="leader_slider pt50 pb50">
 
-       <div class="container">
+       <div class="container" id="our_partners">
 
-           <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Proud Clients</h1>
+           <h1 class="leader_slider__title" style="font-family: 'Samarkan', sans-serif;">Our Clients</h1>
 
            {{-- <div class="owl-carousel owl-theme leader_slider-owl-carousel">
                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">

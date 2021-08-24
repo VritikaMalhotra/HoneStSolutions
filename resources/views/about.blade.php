@@ -3,7 +3,7 @@
 
 @section('curosal-background',('ved14.jpg'))
 @section('curosal-title',('ABOUT US'))
-@section('curosal-subtitle',('togetter we can make a difference'))
+@section('curosal-subtitle',('Together We Can Make a Difference'))
 
 @section('succes_story__image',('Adani26-07-2019.png'))
 @section('succes_story__title',('Discover The Arjuna in You'))

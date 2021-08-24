@@ -28,7 +28,7 @@
                     <a href="/our-journey" class="navbar__item">Our journey</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/service" class="navbar__item">Service</a>
+                    <a href="/service" class="navbar__item">Our Services</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/about" class="navbar__item">About Us</a>

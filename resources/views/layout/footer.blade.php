@@ -60,8 +60,8 @@
             <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
         <br><br>
-          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 20px;">
-          <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team, which has professionals with 20+ years experience, will take care of all your needs.</p>
+          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team with collective experience of 50+ years, will take care of all your needs.</p>
 
         </div>
         <!-- Grid column -->
