@@ -88,8 +88,19 @@
                             <img src="img/gal4.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
 
-                        <a href="img/gal12.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                        <a href="img/apple1.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/apple1.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                         <a href="img/calorx2.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/calorx2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/assign1.jpeg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign1.jpeg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign5.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign5.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
 
                     </div>
@@ -110,6 +121,19 @@
                         <a href="img/gal5.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/gal5.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        
+                        <a href="img/apple2.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/apple2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/calorx3.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/calorx3.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign2.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign6.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign6.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
@@ -128,6 +152,18 @@
                         <a href="img/ama19-09-2019.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/ama19-09-2019.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        <a href="img/apple3.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/apple3.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/calorx4.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/calorx4.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign3.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign3.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign7.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign7.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
@@ -145,6 +181,15 @@
 
                         <a href="img/Adani25-07-2019.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/Adani25-07-2019.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/apple4.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/apple4.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign4.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign4.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/assign8.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/assign8.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
                     </div>
                 </div>
