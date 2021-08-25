@@ -46,8 +46,8 @@ This in–depth research on the eighteenth chapter of Shrimad Bhagavad Gita shal
                         <p class="buy-book__description">The eighteenth chapter of Shrimad Bhagavad Gita is a summary of the first seventeen chapters. This chapter not only summarizes but elaborates some points which were hinted at earlier.
 Therefore, if someone reads or understands this chapter, he/she will be able to understand Shrimad Bhagavad Gita in totality.</p>
                         <div class="row">
-                            <a href="https://www.amazon.in/The-Corporate-Bhagavad-Gita/dp/B07M88T48N" class="buy-book__button mr-2 mt-2">BUY PAPERBACK <i class="fa fa-shopping-cart pl-2" aria-hidden="true"></i></a>
-                            <a href="https://www.amazon.in/The-Corporate-Bhagavad-Gita/dp/B07M88T48N" class="buy-book__button mr-2 mt-2">BUY E-BOOK <i class="fa fa-shopping-cart pl-2" aria-hidden="true"></i></a>
+                            <a href="https://www.amazon.in/The-Corporate-Bhagavad-Gita/dp/B07M88T48N" target="_blank" class="buy-book__button mr-2 mt-2">BUY PAPERBACK <i class="fa fa-shopping-cart pl-2" aria-hidden="true"></i></a>
+                            <a href="https://www.ebookmela.co.in/download/the-corporate-bhagavad-gita" target="_blank" class="buy-book__button mr-2 mt-2">BUY E-BOOK <i class="fa fa-shopping-cart pl-2" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="col-md-6 d-flex justify-content-center">
