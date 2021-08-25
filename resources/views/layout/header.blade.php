@@ -5,7 +5,7 @@
         </div>
         <div class="home-st-logo logo">
             <img src="img/Hone-ST-Logo.png" alt="" class="home-st-logo-fix">
-            <p class="home-logo-title m-0">Hone ST solutions</p>
+            <p class="home-logo-title m-0">Together We Can Make a Difference</p>
         </div>
         <div class="menu">
             <!-- <div class="navbar__wrap"> -->
