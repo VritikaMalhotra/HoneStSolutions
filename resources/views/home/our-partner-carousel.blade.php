@@ -135,7 +135,7 @@
                         <img src="img/booksclubandbliss23-04-2019.png" alt="" class="our-partner-carousel__image-fix">
                     </div>
                 </div>
-            
+            </div>
             <div class="d-flex justify-content-center pt30">
                 <a href="/about" class="btn btn-orange">Read more</a>
             </div>
