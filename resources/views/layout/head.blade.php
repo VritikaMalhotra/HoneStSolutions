@@ -417,7 +417,7 @@ a:hover, a:focus, a:active {
       text-align: justify;
 }
 nav .home-st-logo-fix{
-    width: 150px;
+    width: 130px;
 }
 @media(max-width: 1440px) {
     nav .home-st-logo-fix{
@@ -468,7 +468,11 @@ nav.black ul {
       display: inline-block;
       padding: 16px 40px;;
 } */
-
+nav .home-logo-title{
+    font-size: 12px;
+    padding-top: 8px;
+    margin-bottom: 0;
+}
 .navbar__item {
       display: inline-block;
       padding: 26px 20px;;
@@ -570,7 +574,7 @@ nav.black ul {
     width: 65%;
 }
 @media(max-width: 767px) {
-    .contact__socail-icons{
+    .footer__socail-icons{
         justify-content: center;
     }
 }

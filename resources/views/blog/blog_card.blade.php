@@ -33,7 +33,7 @@
     <body>
         <div class="page-blog pb-5">
             <div class="container">
-                <div class="page-blog__cards row m-0">
+                <div class="page-blog__cards row m-0 justify-content-center">
 
                     <div class="blog-card col-lg-4 col-md-6 pt-5">
                         <a href="/blogs-details">

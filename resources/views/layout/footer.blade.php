@@ -59,8 +59,7 @@
           <div class="footer__logo">
             <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
-        <br><br>
-          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+
           <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team with collective experience of 50+ years, will take care of all your needs.</p>
 
         </div>
@@ -124,7 +123,7 @@
             <i class="fa fa-phone mr-3"></i> + 01 234 567 88</p>
           <p>
             <i class="fa fa-print mr-3"></i> + 01 234 567 89</p> --}}
-        <div class="d-flex contact__socail-icons align-items-center">
+        <div class="d-flex footer__socail-icons align-items-center">
         <a href="#">
                     <i class="fa fa-instagram pr-3" style="color:white"></i>
                 </a>

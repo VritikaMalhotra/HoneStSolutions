@@ -18,8 +18,10 @@
             /* padding: 180px 0 80px 0; */
 
         }
-        .our-service-title{
-            background-color: #e7e7e7;
+        @media only screen and (max-width: 1023px){
+            .our-service-title{
+                background-color: #e7e7e7;
+            }
         }
         .our-service-title-fix{
             max-width: 100%;
@@ -93,7 +95,7 @@
                     </div>
                 </a>
 
-               
+
                 <a href="#" class="our-servies d-flex col-xl-3 col-md-4 col-sm-6 pt-5">
                     <div class="our-servies__card flex-fill">
                         <div class="our-servies__logo d-flex justify-content-center px-0 mb-4">
