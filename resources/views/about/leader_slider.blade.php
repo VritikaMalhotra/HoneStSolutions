@@ -98,9 +98,11 @@
 
             <div class="page-gallery__cards justify-content-center row m-0">
                 <div class="col-lg-3 col-sm-6">
+                    
                     <div class="gallery-card pt-3">
-                        <img src="img/olx_cash_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        <img src="img/our-partner-img2.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
+                    
 
                     <div class="gallery-card pt-3">
                         <img src="img/relaince_retail_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
@@ -108,29 +110,51 @@
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
-                    <div class="gallery-card pt-3">
-                        <img src="img/gls_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
-                    </div>
 
+                        
                     <div class="gallery-card pt-3">
                         <img src="img/our-partner-img1.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
+                    
+                    <div class="gallery-card pt-3">
+                        <img src="img/mica.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
+                    <div class="gallery-card pt-3">
+                        <img src="img/nldalmia29-07-2021.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    <div class="gallery-card pt-3">
+                        <img src="img/icici_logo.jpeg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+
+                    
                     <div class="gallery-card pt-3">
                         <img src="img/kalorex_logo.png" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
-
                     <div class="gallery-card pt-3">
-                        <img src="img/our-partner-img2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        <img src="img/olx_cash_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
                 </div>
 
+
                 <div class="col-lg-3 col-sm-6">
                     <div class="gallery-card pt-3">
+                        <img src="img/iimm10-08-2019.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    <div class="gallery-card pt-3">
                         <img src="img/amity_logo.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    
+                    <div class="gallery-card pt-3">
+                        <img src="img/gls_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    
+                    <div class="gallery-card pt-3">
+                        <img src="img/volansys.png  " alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
                     {{-- <div class="gallery-card pt-3">
