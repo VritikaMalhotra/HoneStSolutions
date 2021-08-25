@@ -87,6 +87,11 @@
                         <a href="img/gal4.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/gal4.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+
+                        <a href="img/gal12.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/apple1.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
                     </div>
 
                     <div class="col-lg-3 col-sm-6">

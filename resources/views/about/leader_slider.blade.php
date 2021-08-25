@@ -99,13 +99,17 @@
             <div class="page-gallery__cards justify-content-center row m-0">
                 <div class="col-lg-3 col-sm-6">
                     
-                    <div class="gallery-card pt-3">
-                        <img src="img/our-partner-img2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    <div class="gallery-card pt-3 d-flex justify-content-center">
+                        <img src="img/our-partner-img2.jpg" alt="" style="max-height: 400px ; max-width :150px; " class="gallery-card__image-fix img-fluid"   >
                     </div>
                     
 
                     <div class="gallery-card pt-3">
                         <img src="img/relaince_retail_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    
+                    <div class="gallery-card pt-3">
+                        <img src="img/our-partner-img1_1.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
                 </div>
 
@@ -113,12 +117,16 @@
 
                         
                     <div class="gallery-card pt-3">
-                        <img src="img/our-partner-img1.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        <img src="img/icici_logo1.jpeg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    
+                    <div class="gallery-card pt-3">
+                        <img src="img/mica.png"  alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
                     
                     <div class="gallery-card pt-3">
-                        <img src="img/mica.png" alt="" class="gallery-card__image-fix img-fluid">
+                        <img src="img/volansys1.png  " alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
                 </div>
@@ -127,12 +135,10 @@
                     <div class="gallery-card pt-3">
                         <img src="img/nldalmia29-07-2021.png" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
-                    <div class="gallery-card pt-3">
-                        <img src="img/icici_logo.jpeg" alt="" class="gallery-card__image-fix img-fluid">
-                    </div>
+                    
 
                     
-                    <div class="gallery-card pt-3">
+                    <div class="gallery-card pt80">
                         <img src="img/kalorex_logo.png" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
                     <div class="gallery-card pt-3">
@@ -153,9 +159,6 @@
                         <img src="img/gls_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
                     
-                    <div class="gallery-card pt-3">
-                        <img src="img/volansys.png  " alt="" class="gallery-card__image-fix img-fluid">
-                    </div>
 
                     {{-- <div class="gallery-card pt-3">
                         <img src="img/our-partner-img3.jpg" alt="" class="gallery-card__image-fix img-fluid">
