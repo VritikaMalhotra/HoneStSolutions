@@ -34,7 +34,7 @@
                     <div class="travel-card col-md-12 mb-4">
                     <a href="#">
                         <div class="travel-card__image">
-                            <img src="img/person_1.jpg" alt="" class="travel-card__image-fix">
+                            <img src="img/prasun_sir_profile2.png" alt="" class="travel-card__image-fix">
                         </div>
                         <div class="travel-card__content px-4 py-4">
                             {{-- <input type="range" class="travel-card__range form-range" id="disabledRange" disabled value='99'> --}}
@@ -43,9 +43,9 @@
                             <h5 class="travel-card__plan mb-2">Prasun Kundu</h5>
                             <div class="d-flex align-items-center">
                                 {{-- <i class="fa fa-calendar" style="color:gray"></i> --}}
-                                <p class="travel-card__days pl-2 mb-0">Lorem ipsum dolor sit amet consectetur</p>
+                                <p class="travel-card__days pl-2 mb-0">Experience of over 27 years with Nestle India Ltd., Reliance Retail, Idea Cellular, McCormick in the corporate world of which more than 20 years in leadership position...</p>
                             </div>
-                            <a href="#" class="btn btn-orange mt-2">Read more</a>
+                            <a href="/contact" class="btn btn-orange mt-2">Read more</a>
                         </div>
                     </a>
                     </div>

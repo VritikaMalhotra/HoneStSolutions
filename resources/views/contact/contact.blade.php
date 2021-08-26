@@ -12,75 +12,67 @@
     </style>
 </head>
 <body>
+<<<<<<< HEAD
     <div class="">
         <div class="contact__wrap pb-3">
             <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Emails</h4>
             <div class="d-flex align-items-center mb-3">
                 <i class="fa fa-envelope" style="color:gray"></i>
                 <p class="contact__mail pl-2 mb-0">prasun@honestsol.com</p>
+=======
+    <div class="row m-0">
+        <div class="col-lg-7 col-sm-6 p-0">
+            <div class="contact__wrap pb-3">
+                <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Emails</h4>
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fa fa-envelope" style="color:gray"></i>
+                    <p class="contact__mail pl-2 mb-0">prasun@honstsol.com</p>
+                </div>
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fa fa-envelope" style="color:gray"></i>
+                    <p class="contact__mail pl-2 mb-0">sandhya@honestsol.com</p>
+                </div>
+>>>>>>> 5dd2eddd62431ce32fb60f9e862840b2fc977d7e
             </div>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-envelope" style="color:gray"></i>
-                <p class="contact__mail pl-2 mb-0">sandhya@honestsol.com</p>
+            <div class="contact__wrap pb-3">
+                <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Mobile Number</h4>
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fa fa-phone" style="color:gray"></i>
+                    <p class="contact__call pl-2 mb-0">9638570784</p>
+                </div>
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fa fa-phone" style="color:gray"></i>
+                    <p class="contact__call pl-2 mb-0">9157000784</p>
+                </div>
             </div>
-            {{-- <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-phone" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">+123 456 7890</p>
-            </div> --}}
-        </div>
-        <div class="contact__wrap pb-3">
-            <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Mobile Number</h4>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-phone" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">9638570784</p>
-            </div>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-phone" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">9157000784</p>
-            </div>
-            {{-- <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-phone" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">+123 456 7890</p>
-            </div> --}}
-        </div>
-        <div class="contact__wrap pb-3">
-            <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Social Media</h4>
-            <div class="d-flex contact__socail-icons align-items-center">
-                <a href="#">
-                    <i class="fa fa-instagram pr-3" style="color:gray"></i>
-                </a>
-                <a href="#">
-                    <i class="fa fa-facebook pr-3" style="color:gray"></i>
-                </a>
-                <a href="#">
-                    <i class="fa fa-linkedin pr-3" style="color:gray"></i>
-                </a>
-                <a href="#">
-                    <i class="fa fa-twitter pr-3" style="color:gray"></i>
-                </a>
-            </div>
-            {{-- <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-instagram" style="color:gray"></i>
-                <p class="contact__address pl-2 mb-0">198 West 21th Street, Suite 721 New York NY 10016</p>
-            </div>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-facebook" style="color:gray"></i>
-                <p class="contact__mail pl-2 mb-0">info@domain.com</p>
-            </div>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-linkedin" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">+123 456 7890</p>
-            </div>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-twitter" style="color:gray"></i>
-                <p class="contact__call pl-2 mb-0">+123 456 7890</p>
-            </div> --}}
-        </div>
-        <div class="contact__wrap pb-3">
-            <div class="contact__logo">
-                <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
+            <div class="contact__wrap pb-3">
+                <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Social Media</h4>
+                <div class="d-flex contact__socail-icons align-items-center">
+                    <a href="https://www.instagram.com/author_prasunkundu/" target="_blank">
+                        <i class="fa fa-instagram pr-3" style="color:gray"></i>
+                    </a>
+                    <a href="https://www.facebook.com/DiscovertheArjunainYou/" target="_blank">
+                        <i class="fa fa-facebook pr-3" style="color:gray"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/prasun-kundu" target="_blank">
+                        <i class="fa fa-linkedin pr-3" style="color:gray"></i>
+                    </a>
+                    <a href="https://twitter.com/sandhyaprasun?s=08" target="_blank">
+                        <i class="fa fa-twitter pr-3" style="color:gray"></i>
+                    </a>
+                </div>
             </div>
         </div>
+        <div class="col-lg-5 col-sm-6 p-0">
+            <div class="contact__wrap pb-3">
+                <div class="contact__logo">
+                    <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
+                </div>
+                <p>Together We Can Make a Difference</p>
+            </div>
+        </div>
+
+
     </div>
 </body>
 </html>
