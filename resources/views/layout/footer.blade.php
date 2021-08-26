@@ -150,7 +150,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
-      <a href="https://honestsol.com/"> HoneST solution</a>
+      <a href="https://honestsol.com/"> HoneST solutions</a>
     </div>
     <!-- Copyright -->
 

@@ -2,6 +2,7 @@
 
 @section('curosal-background',('ved18.jpg'))
 @section('curosal-title',('GALLERY'))
+@section('curosal-subtitle',('Together We Can Make a Difference'))
 @section('succes_story__image',('Ama12-09-2019.png'))
 @section('succes_story__title',('Sales and Marketing'))
 @section('succes_story__title-second',('Ahmedabad Management Association'))

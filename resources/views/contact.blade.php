@@ -9,7 +9,7 @@
 </style>
 @section('curosal-background',('ved16.jpg'))
 @section('curosal-title',('CONTACT US'))
-@section('curosal-subtitle',('together we can make a difference'))
+@section('curosal-subtitle',('Together We Can Make a Difference'))
 
 @section('succes_story__image',('ama19-09-2019.png'))
 @section('succes_story__title',('Six Virtues of Highly Successful Leaders'))

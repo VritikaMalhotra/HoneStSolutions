@@ -130,7 +130,7 @@
                          </div>
                          <div class="testomoials-carousel__content">
                              <h1 class="testomoials-carousel__name pt20">Varsha Adhikari, Managing Director, Tinctura Colour</h1>
-                             <p class="testomoials-carousel__description">Earlier , Chanting for me was to recite some selective shlokas. Though I read Geeta but never gave a real try to Geeta chanting ,may be because I  thought it's not necessary to know geeta chanting to get Geeta gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome  Geeta with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings.                            </p>
+                             <p class="testomoials-carousel__description">Earlier, Chanting for me was to recite some selective shlokas. Though I read Geeta but never gave a real try to Geeta chanting ,may be because I  thought it's not necessary to know geeta chanting to get Geeta gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome  Geeta with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings.                            </p>
                          </div>
                      </div>
                      <div class="carousel-item">
@@ -153,19 +153,20 @@
                             </p>
                          </div>
                     </div>
-                    </div>
+                    
 
                     <div class="carousel-item">
                         <div class="d-flex justify-content-center">
                             <img src="img/People1.jpg" alt="" class="testomoials-carousel__image-fix">
                         </div>
                         <div class="testomoials-carousel__content">
-                            <h1 class="testomoials-carousel__name pt20">Mr. HellpGulati, CEO, My Car My Ride</h1>
+                            <h1 class="testomoials-carousel__name pt20">Mr. Amit Gulati, CEO, My Car My Ride</h1>
                             <p class="testomoials-carousel__description">I distinctly remember going to a workshop conducted by Mr Prasun Kundu at AMA, Ahmedabad on the topic, “Discover the Arjuna in You". The workshop was nice but I was awestruck by Prasun's pronunciation of the shlokas of Bhagavad Gita. That compelled me to request Mr Prasun to help me learn, "How to read and chant Bhagavad Gita Shlokas". We started with Chapter 18 and I got stuck on the first shloka for 20 mins as I had no background of Sanskrit nor had gone through Bhagavad Gita ever. Such speed breakers came in pretty regularly for me. It was Prasun's patience and methodology of teaching that helped me learn what I could. Now for anyone reading this,  I would like to share that I go through Bhagavad Gita shlokas every day. It helps me ease down, betters my composure, solves a lot of day to day problems, and most importantly, I have now taken the first step towards the spiritual journey. Whenever I am sad or in any difficult situation, learnings from Bhagavad Gita helps me overcome delusion each and every time. Thanks to Mr Prasun Kundu for making my life easier.
                            </p>
                         </div>
                        </div>
                    </div>
+                </div>
 
                    <div class="d-flex justify-content-center pt30">
                     <a href="/people" class="btn btn-orange">Read more</a>
