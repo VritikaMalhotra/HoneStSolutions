@@ -136,7 +136,7 @@ Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our c
                             </div>
                         </div>
                         <p class="events__description mb0">Concept of DAVIPS - Karma (Action/Activity)
-Prasun Kundu has experience of over 23 years in the corporate world of which more than 18 years in leadership position. Decided to pursue his passion to give back to the corporate world and to the society at large.
+Prasun Kundu has experience of over 27 years in the corporate world of which more than 18 years in leadership position. Decided to pursue his passion to give back to the corporate world and to the society at large.
 Corporate experience includes 12 years with Nestle India Limited, 3 Years with Reliance Retail, Close to 8 years with Idea Cellular Limited and 11 months with McCormick.</p>
                     </div>
                 </div>
@@ -199,7 +199,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <a href="https://www.youtube.com/watch?v=qgJaBg53A50" class="events__types-link mb0 pl-1" >View video</a>
                             </div>
                         </div>
-                        <p class="events__description mb0">This interview was done at Book n Bliss where author dicussed The Corporate Bhagavad Gita - Discover The Arjuna In You...</p>
+                        <p class="events__description mb0">This interview was done at Books n Bliss club with Dr. Sameer Savaliya, Founder of Books n Bliss club. Interview revolced around The Corporate Bhagavad Gita - Discover The Arjuna In You...</p>
                     </div>
                 </div>
                 <div class="row events__card my-5">
