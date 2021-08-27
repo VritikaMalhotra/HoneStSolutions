@@ -179,15 +179,7 @@
 					Flipkart - <a href="https://lnkd.in/f6KqsDv">https://lnkd.in/f6KqsDv</a></p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="Book Launch, 'The Corporate Bhagavad Gita - Discover The Arjuna in You'">
-                <div class="timeline__content">
-                    <img src="img/booklaunch.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>06-01-2019</h2>
-                    <p class="timeline__content-desc">The first book of Prasun Kundu - "The Corporate Bhagavad Gita - Discover the Arjuna in You" was unveiled at The Ahmedabad Management Association (AMA), Ahmedabad on 24th May 2019. The book is widely accepted by all sections of people in India and across the world. The book is available on:
-					Amazon -  <a href="https://lnkd.in/fZBSMcf">https://lnkd.in/fZBSMcf</a>
-					Flipkart - <a href="https://lnkd.in/f6KqsDv">https://lnkd.in/f6KqsDv</a></p>
-                </div>
-            </div>
+            
 			<div class="timeline-item" data-text="Mythopia">
                 <div class="timeline__content">
                     <img src="img/mythiopia17-02-2019.png" alt="" class="timeline__img">
