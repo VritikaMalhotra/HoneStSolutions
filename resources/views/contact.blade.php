@@ -7,6 +7,8 @@
         background-size: 200px,200px;
     }
 </style>
+<?php $page= 'contact'; ?>
+
 @section('curosal-background',('ved16.jpg'))
 @section('curosal-title',('CONTACT US'))
 @section('curosal-subtitle',('Together We Can Make a Difference'))

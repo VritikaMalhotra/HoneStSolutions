@@ -1,5 +1,8 @@
 @extends('app')
 
+
+<?php $page= 'blogs'; ?>
+
 @section('curosal-background',('banner-image6.jpg'))
 @section('curosal-title',('Geeta Chanting is Enchanting'))
 @section('curosal-subtitle',(''))

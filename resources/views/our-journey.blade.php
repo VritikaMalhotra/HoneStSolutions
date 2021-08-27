@@ -1,5 +1,6 @@
 @extends('app')
 
+<?php $page= 'our-journey'; ?>
 @section('curosal-background',('temple.jpg'))
 @section('curosal-title',('OUR JOURNEY'))
 @section('curosal-subtitle',('together we can make a difference'))

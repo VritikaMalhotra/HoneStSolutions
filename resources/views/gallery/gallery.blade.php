@@ -67,6 +67,7 @@
     </head>
     <body>
 
+
 <!-- Gallery -->
         <div class="page-gallery py-5">
             <div class="container">
@@ -121,7 +122,7 @@
                         <a href="img/gal5.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/gal5.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
-                        
+
                         <a href="img/apple2.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/apple2.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
