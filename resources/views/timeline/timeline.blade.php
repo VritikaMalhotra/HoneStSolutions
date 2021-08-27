@@ -25,9 +25,9 @@
 }
  .timeline__content-desc {
 	 margin: 0;
-	 font-size: 15px;
+	 font-size: 18px;
 	 box-sizing: border-box;
-	 color: rgba(255, 255, 255, .7);
+	 color: #fff;
 	 font-weight: normal;
 	 line-height: 25px;
 }
@@ -61,8 +61,8 @@
 	 letter-spacing: 3px;
 	 width: 100%;
 	 position: absolute;
-	 color: rgba(255, 255, 255, .5);
-	 font-size: 13px;
+	 color: #fff;
+	 font-size: 20px;
 	 border-left: 2px solid rgba(255, 255, 255, .5);
 	 top: 70%;
 	 margin-top: -5px;
