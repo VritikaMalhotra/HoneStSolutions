@@ -26,8 +26,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 pt80 pb80">
-                    <h4 class="contact-banner__title mb20">Contact us for updates and quries</h4>
-                    <h6 class="contact-banner__subtitle mb60">Contact us for updates and quries</h6>
+                    <h4 class="contact-banner__title mb20">Contact us for updates and queries</h4>
+                    <h6 class="contact-banner__subtitle mb60">We are more than happy to help you in anyway we can.</h6>
                     <a href="/contact" class="btn btn-black">Contact us</a>
                 </div>
                 <div class="col-sm-6 pt80 pb80" style="background-image: url(img/contact-banner-background-img.png);    background-position: center;background-repeat: no-repeat;background-size: contain;">

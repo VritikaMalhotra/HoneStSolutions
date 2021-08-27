@@ -16,8 +16,8 @@
 }
  .timeline__content-title {
 	 font-weight: normal;
-	 font-size: 18px;
-	 margin: -10px 0 0 0;
+	 font-size: 15px;
+	 margin: -10px 0 0 0;!important
 	 transition: 0.4s;
 	 padding: 0 10px;
 	 box-sizing: border-box;
@@ -93,7 +93,7 @@
 	 opacity: 1;
 }
  .timeline-item--active .timeline__content-title {
-	 margin: -50px 0 20px 0;
+	 margin: -33px 0 15px 0;
 }
 @media only screen and (max-width: 600px) {
 	 .timeline-item {
