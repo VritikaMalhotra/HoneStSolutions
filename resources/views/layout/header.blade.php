@@ -10,7 +10,7 @@
         </div>
         <div class="menu">
             <!-- <div class="navbar__wrap"> -->
-            <ul id="myTab">
+            <ul>
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/" class="navbar__item  <?php if ($page=='home') {echo 'navbar__item_active';} ?>">Home</a>
                 <!-- </li> -->
@@ -63,30 +63,4 @@
     })
 
 
-    $('.menu > ul a').click(function(e) {
-    $('.menu a.navbar__item_active').removeClass('navbar__item_active');
-    var $this = $(this);
-    if (!$this.hasClass('navbar__item_active')) {
-        $this.addClass('navbar__item_active');
-    }
-     //e.preventDefault();
-    // const currentLocation =location.href;
-    // const menuItem = document.querySelectorAll('a');
-    // const menuLength =menuItem.length
-    // for (let index = 0; index < menuLength; index++) {
-    //     if (menuItem[index].href === url) {
-    //         menuItem[index].className = "active";
-    //     }
-    // }
-    // $(document).ready(function(){
-	// $('a[data-toggle="tab"]').on('show.bs.tab', function(e) {
-	// 	localStorage.setItem('activeTab', $(e.target).attr('href'));
-	// });
-	// var activeTab = localStorage.getItem('activeTab');
-	// if(activeTab){
-	// 	$('#myTab a[href="' + activeTab + '"]').tab('show');
-	// }
-});
-
-});
 </script>

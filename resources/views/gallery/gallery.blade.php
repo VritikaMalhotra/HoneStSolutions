@@ -73,12 +73,12 @@
             <div class="container">
                 <div class="page-gallery__cards justify-content-center row m-0">
                     <div class="col-lg-3 col-sm-6">
-                        <a href="img/gal11.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
-                            <img src="img/gal11.png" alt="" class="gallery-card__image-fix img-fluid">
-                        </a>
-
                         <a href="img/gal15.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/gal15.png" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+
+                        <a href="img/gal11.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/gal11.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
 
                         <a href="img/gal19.png" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
