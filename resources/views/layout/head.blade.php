@@ -437,8 +437,13 @@ nav .home-st-logo-fix{
       color: #fff;
       font-weight: bold;
       font-size: 20px;
-      letter-spacing: 2px;
+      /* letter-spacing: 2px; */
       padding: 10px 0px;
+}
+@media(max-width: 1024px) {
+    .logo{
+        padding: 5px 0px;
+    }
 }
 
 nav {
@@ -470,7 +475,7 @@ nav.black ul {
 } */
 nav .home-logo-title{
     font-size: 12px;
-    padding-top: 8px;
+    padding-top: 6px;
     margin-bottom: 0;
 }
 .navbar__item {
@@ -508,9 +513,9 @@ nav .home-logo-title{
 @media(max-width: 786px) {
 
       .logo {
-            /* position: fixed; */
+            position: absolute;
             top: 0;
-            margin-top: -64px;
+            /* margin-top: -64px; */
       }
 
       nav ul {

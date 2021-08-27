@@ -15,20 +15,33 @@
         }
         .auther__profile{
             width:100%;
-        }       
+        }
         .auther__name{
             font-weight:bold;
         }
         .auther__link{
             position: absolute;
-            right: 0px; 
+            right: 0px;
         }
         .auther__link-icon{
             border:1px solid gray;
-            color:gray;    
+            color:gray;
         }
         .auther__link-icon:hover{
             color:gray;
+        }
+        .auther__description_bold{
+            font-weight: bold;
+        }
+        @media only screen and (max-width: 767px) {
+            .auther__card{
+                padding-top: 0 !important;
+            }
+        }
+        @media only screen and (max-width: 767px) {
+            .auther__title{
+                margin-bottom: 30px !important;
+            }
         }
     </style>
     </head>
@@ -46,7 +59,7 @@
 
                     <div class="auther__card col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
                         <p class="auther__description">Bhagavad Gita has a solution to all the above challenges, provided one engages (works as prescribed). This book is towards unveiling and understanding the eighteenth chapter of Bhagavad Gita which happens to be a summary of the first seventeen chapters.</p>
-                        <p class="auther__description">This not only summarizes but elaborates some points, which are hinted at, in earlier chapters. Therefore, if someone reads or understands this chapter, he/she will be able to understand Bhagavad Gita in totality. The most important message that this book leaves you with is “WHAT MIND CAN CONCEIVE, MAN CAN ACHIEVE”.</p>
+                        <p class="auther__description">This not only summarizes but elaborates some points, which are hinted at, in earlier chapters. Therefore, if someone reads or understands this chapter, he/she will be able to understand Bhagavad Gita in totality. The most important message that this book leaves you with is <span class="auther__description_bold">“WHAT MIND CAN CONCEIVE, MAN CAN ACHIEVE”</span>.</p>
                     </div>
 
                     <div class="auther__card col-xl-4 col-lg-4 col-md-6 col-sm-6 pt-5">
@@ -64,7 +77,7 @@
                             <a href="#" class="auther__link"><i class="fa fa-print p-2 m-2 auther__link-icon"></i></a>
                         </div> --}}
                     </div>
-                </div>                
+                </div>
             </div>
         </div>
     </body>

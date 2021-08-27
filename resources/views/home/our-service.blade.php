@@ -43,7 +43,7 @@
         @media only screen and (max-width: 1023px) {
             .our-servies__logo-fix{
                 width:100%;
-        }
+            }
         }
         .our-servies__name{
             color: black;
