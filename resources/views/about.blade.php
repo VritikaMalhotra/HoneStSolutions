@@ -1,5 +1,6 @@
 @extends('app')
 
+<?php $page= 'about'; ?>
 
 @section('curosal-background',('ved14.jpg'))
 @section('curosal-title',('ABOUT US'))

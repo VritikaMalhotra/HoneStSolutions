@@ -1,5 +1,8 @@
 @extends('app')
 
+<?php $page= 'books'; ?>
+
+
 @section('curosal-background',('ved2.jpg'))
 @section('curosal-title',('Book'))
 @section('curosal-subtitle',('The Corporate Bhagavad Gita'))

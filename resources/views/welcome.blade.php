@@ -1,4 +1,8 @@
 @extends('app')
+ {{-- @php
+     $page= 'gallery';
+ @endphp --}}
+ <?php $page= 'home'; ?>
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -33,7 +37,8 @@
     </head>
     <body>
     @section('main-content')
-        <div class="main-content">
+    <div class="main-content">
+
             @include('home/homepage-banner')
             @include('home/homepage-banner-second')
             {{-- <div class="container"> --}}
