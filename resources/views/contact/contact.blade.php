@@ -12,14 +12,6 @@
     </style>
 </head>
 <body>
-<<<<<<< HEAD
-    <div class="">
-        <div class="contact__wrap pb-3">
-            <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Emails</h4>
-            <div class="d-flex align-items-center mb-3">
-                <i class="fa fa-envelope" style="color:gray"></i>
-                <p class="contact__mail pl-2 mb-0">prasun@honestsol.com</p>
-=======
     <div class="row m-0">
         <div class="col-lg-7 col-sm-6 p-0">
             <div class="contact__wrap pb-3">
@@ -32,7 +24,6 @@
                     <i class="fa fa-envelope" style="color:gray"></i>
                     <p class="contact__mail pl-2 mb-0">sandhya@honestsol.com</p>
                 </div>
->>>>>>> 5dd2eddd62431ce32fb60f9e862840b2fc977d7e
             </div>
             <div class="contact__wrap pb-3">
                 <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Mobile Number</h4>
