@@ -4,7 +4,7 @@
 <?php $page= 'blogs'; ?>
 
 @section('curosal-background',('banner-image6.jpg'))
-@section('curosal-title',('Geeta Chanting is Enchanting'))
+@section('curosal-title',('Gita Chanting is Enchanting'))
 @section('curosal-subtitle',(''))
 
 @section('succes_story__image',('calorx26-06-2019.png'))

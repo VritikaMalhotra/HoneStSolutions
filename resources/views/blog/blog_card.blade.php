@@ -41,7 +41,7 @@
                             <img src="img/blog1.jpg" alt="" class="blog-card__image-fix">
                         </div>
                         <div class="blog-card__body col-md-12 px-3 py-3">
-                            <h4 class="blog-card__title mb-1">Geeta Chanting is Enchanting</h4>
+                            <h4 class="blog-card__title mb-1">Gita Chanting is Enchanting</h4>
                             <p class="blog-card__subtitle-date mb-1">by Sandhya Prasun Kundu</p>
                             <div class="blog-card__travelcare d-flex pt-24 align-items-center">
                                 <!-- <img src="img/logo.png" alt="" class="blog-card__tag-image"> -->
@@ -62,7 +62,7 @@
                             <img src="img/blog2.jpg" alt="" class="blog-card__image-fix">
                         </div>
                         <div class="blog-card__body col-md-12 px-3 py-3">
-                            <h4 class="blog-card__title mb-1">Experience The Power of Bhagvad Geeta</h4>
+                            <h4 class="blog-card__title mb-1">Experience The Power of Bhagvad Gita</h4>
                             <p class="blog-card__subtitle-date mb-1">by Prasun Kundu</p>
                             <div class="blog-card__travelcare d-flex pt-24 align-items-center">
                                 <!-- <img src="img/logo.png" alt="" class="blog-card__tag-image">

@@ -11,7 +11,7 @@
 <body>
     <div class="page-travel-details py-5">
         <div class="container">
-            <h1 class="travel-details__title">Geeta Chanting is Enchanting</h1>
+            <h1 class="travel-details__title">Gita Chanting is Enchanting</h1>
             <p class="travel-details__description">तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |<br>
                 उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: || 34||<br><br>
 
@@ -42,7 +42,7 @@
                 </a> -->
 
             </div>
-            <p class="travel-details__description">"Geeta chanting is enchanting." Truly so. Our Geeta Chanting course came to an end after six months and we were awarded certificates on the Guru Purnima day, by Swami Avyanandji, the head of the local Chinmaya Mission.
+            <p class="travel-details__description">"Gita chanting is enchanting." Truly so. Our Gita Chanting course came to an end after six months and we were awarded certificates on the Guru Purnima day, by Swami Avyanandji, the head of the local Chinmaya Mission.
 We are making a humble effort to share our learning with people who want to explore the power of "Gita Chanting"...</p>
             <p class="travel-details__description">Please feel free to contact us as - Gita Chanting is Enchanting<br>
 Sandhya Prasun Kundu</p>
