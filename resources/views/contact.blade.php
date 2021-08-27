@@ -17,7 +17,7 @@
 @section('succes_story__subtitle',('One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"'))
     @section('main-content')
         @include('about/curosel')
-        @include('contact/simple-banner')
+        {{-- @include('contact/simple-banner') --}}
         @include('contact/proflle')
         <div class="conatct-us__background">
             <div class="container">
