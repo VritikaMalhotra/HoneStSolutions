@@ -192,14 +192,14 @@
                 <div class="timeline__content">
                     <img src="img/mythiopia17-02-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>17-02-2019</h2>
-                    <p class="timeline__content-desc">A talk based on the book " The Corporate Bhagvad Gita - Discover the Arjuna in You" was held in Mumbai in association with Mythopia, an organisation promoting ancient wisdom/ mythology. It was an informative audience and many of the participants took signed copies of the book .</p>
+                    <p class="timeline__content-desc">A talk based on the book " The Corporate Bhagavad Gita - Discover the Arjuna in You" was held in Mumbai in association with Mythopia, an organisation promoting ancient wisdom/ mythology. It was an informative audience and many of the participants took signed copies of the book .</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Reliance Retail">
                 <div class="timeline__content">
                     <img src="img/Reliance8-03-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>08-03-2019</h2>
-                    <p class="timeline__content-desc">A two hours Session  at the Ahmedabad office of Reliance Retail on the occasion of International Women's day. The title of the session was "Discover the Arjuna in you" which was aimed at enhancing the Organisational productivity by increasing productivity of people through powerful teachings of the Bhagavad Gita. We engaged the audience. We addressed a group of 40 people, which included 10 women. It was an interactive session . At the end of the session many of the participants took signed copies of the book " The Corporate Bhagvad Gita - Discover the Arjuna in You".</p>
+                    <p class="timeline__content-desc">A two hours Session  at the Ahmedabad office of Reliance Retail on the occasion of International Women's day. The title of the session was "Discover the Arjuna in you" which was aimed at enhancing the Organisational productivity by increasing productivity of people through powerful teachings of the Bhagavad Gita. We engaged the audience. We addressed a group of 40 people, which included 10 women. It was an interactive session . At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You".</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Books & Bliss Club">
@@ -228,7 +228,7 @@
                 <div class="timeline__content">
                     <img src="img/calorx26-06-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>26-06-2019</h2>
-                    <p class="timeline__content-desc">Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagvad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
+                    <p class="timeline__content-desc">Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagavad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="Indian Institute of Materials Management (IIMM)">

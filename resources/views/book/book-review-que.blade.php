@@ -113,10 +113,10 @@
                             Must read for all age group’s.</p>
                     </div>
                     <div class="carousel-item">
-                        <p class="carousel-review__subtitle">I read the book recently and as a beginner in the corporate world, the book has been a great guide. It has taken the lessons from the Bhagwat Gita and very simply stated how to the best version of ourselves. The author has simplified the complex work into layman terms to help all. Every one should have this book as a part of their library.</p>
+                        <p class="carousel-review__subtitle">I read the book recently and as a beginner in the corporate world, the book has been a great guide. It has taken the lessons from the Bhagavad Gita and very simply stated how to the best version of ourselves. The author has simplified the complex work into layman terms to help all. Every one should have this book as a part of their library.</p>
                     </div>
                     <div class="carousel-item">
-                        <p class="carousel-review__subtitle">My Mom and her mother have been an avid followers of Bhagwat Gita and have been referring lots of examples from it whenever she or anyone faces any crisis of situation or thoughts and GITA always have its answers ready and satisfying. With this book my faith in GITA and its further utility in my career gets further endorsed.</p>
+                        <p class="carousel-review__subtitle">My Mom and her mother have been an avid followers of Bhagavad Gita and have been referring lots of examples from it whenever she or anyone faces any crisis of situation or thoughts and GITA always have its answers ready and satisfying. With this book my faith in GITA and its further utility in my career gets further endorsed.</p>
                     </div>
                     <div class="carousel-item">
                         <p class="carousel-review__subtitle">What a thought of taking insight from Gita & incorporating them in the corporate life.

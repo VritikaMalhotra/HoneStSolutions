@@ -72,7 +72,7 @@
                 <div class="col-md-6">
                     <h1 class="homepage-banner__title mb0">Hone ST</h1>
                     <h2 class="homepage-banner__subtitle mb30">Solutions</h2>
-                    <h1 class="homepage-banner__title sb0">Help Bhagvad Gita Touch Life of Every Individual.</h1>
+                    <h1 class="homepage-banner__title sb0">Help Bhagavad Gita Touch Life of Every Individual.</h1>
                     {{-- <div class="d-flex justify-content-center"> --}}
                         <a href="#our_services" class="btn btn-orange">Explore Now</a>
                     {{-- </div> --}}

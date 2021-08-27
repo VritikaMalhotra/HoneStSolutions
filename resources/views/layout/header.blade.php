@@ -60,13 +60,15 @@
              $('nav').removeClass('black');
         }
     })
+
+    
     $('.menu > ul a').click(function(e) {
     $('.menu a.navbar__item_active').removeClass('navbar__item_active');
     var $this = $(this);
     if (!$this.hasClass('navbar__item_active')) {
         $this.addClass('navbar__item_active');
     }
-    // e.preventDefault();
+     //e.preventDefault();
     // const currentLocation =location.href;
     // const menuItem = document.querySelectorAll('a');
     // const menuLength =menuItem.length
