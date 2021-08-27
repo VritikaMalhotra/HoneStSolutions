@@ -63,7 +63,7 @@
                         </div>
                         <div class="blog-card__body col-md-12 px-3 py-3">
                             <h4 class="blog-card__title mb-1">Experience The Power of Bhagvad Geeta</h4>
-                            <p class="blog-card__subtitle-date mb-1">by Sandhya Prasun Kundu</p>
+                            <p class="blog-card__subtitle-date mb-1">by Prasun Kundu</p>
                             <div class="blog-card__travelcare d-flex pt-24 align-items-center">
                                 <!-- <img src="img/logo.png" alt="" class="blog-card__tag-image">
                                 <i class="fa fa-tag" aria-hidden="true" style="color:gray;"></i>

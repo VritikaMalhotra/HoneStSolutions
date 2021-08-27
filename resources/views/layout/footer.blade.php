@@ -59,6 +59,7 @@
         <div class="footer__logo">
           <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
+        <p>Together We Can Make a Difference</p>
 
         <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team with collective experience of 50+ years, will take care of all your needs.</p>
 
@@ -144,13 +145,6 @@
     </div>
     <!-- Grid row -->
 
-<<<<<<< HEAD
-    <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2021 Copyright:
-      <a href="https://honestsol.com/"> HoneST solutions</a>
-    </div>
-    <!-- Copyright -->
-=======
   </div>
   <!-- Footer Links -->
 
@@ -159,7 +153,6 @@
     <a href="https://honestsol.com/"> HoneST solution</a>
   </div>
   <!-- Copyright -->
->>>>>>> 5dd2eddd62431ce32fb60f9e862840b2fc977d7e
 
 </footer>
 <!-- Footer -->
