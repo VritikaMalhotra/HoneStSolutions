@@ -137,7 +137,7 @@
                             </div>
                             <div class="testomoials-carousel__content">
                                 <h1 class="testomoials-carousel__name pt20">Varsha Adhikari, Managing Director, Tinctura Colour</h1>
-                                <p class="testomoials-carousel__description">Earlier , Chanting for me was to recite some selective shlokas. Though I read Geeta but never gave a real try to Geeta chanting ,may be because I thought it's not necessary to know geeta chanting to get Geeta gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome Geeta with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings. </p>
+                                <p class="testomoials-carousel__description">Earlier , Chanting for me was to recite some selective shlokas. Though I read gita but never gave a real try to gita chanting ,may be because I thought it's not necessary to know gita chanting to get gita gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome gita with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings. </p>
                             </div>
                         </div>
                         <div class="carousel-item">
@@ -210,7 +210,7 @@
                             <div class="testomoials-carousel__content">
                                 <h1 class="testomoials-carousel__name pt20">Deepak Merchant, Business Partner at MeraMsg
                                 </h1>
-                                <p class="testomoials-carousel__description">Geeta chanting experience with Prasun Sir is Inner soul purifying activity for me.. I recommend because it helps me a lot to understand my Mind . Heart, Body and soul and overcome from its weaknesses. My personal experience from Geeta Chanting is like going forward to divinity and ultimate Bliss.</p>
+                                <p class="testomoials-carousel__description">Gita chanting experience with Prasun Sir is Inner soul purifying activity for me.. I recommend because it helps me a lot to understand my Mind . Heart, Body and soul and overcome from its weaknesses. My personal experience from Gita Chanting is like going forward to divinity and ultimate Bliss.</p>
                             </div>
                         </div>
 

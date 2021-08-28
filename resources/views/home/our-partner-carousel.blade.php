@@ -96,6 +96,25 @@
                         <img src="img/icici_logo.jpeg" alt="" class="our-partner-carousel__image-fix">
                     </div>
                 </div>
+
+                
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/next_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/ama_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/sora_logo.jpeg" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
                 <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/kalorex_logo.png" alt="" class="our-partner-carousel__image-fix">
@@ -113,6 +132,11 @@
                     </div>
                 </div>
 
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/visamo_logo.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
                 <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/olx_cash_logo.jpg" alt="" class="our-partner-carousel__image-fix">
@@ -133,6 +157,12 @@
                 <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
                     <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
                         <img src="img/booksclubandbliss23-04-2019.png" alt="" class="our-partner-carousel__image-fix">
+                    </div>
+                </div>
+
+                <div class="our-partner-carousel__item d-flex align-items-center justify-content-center">
+                    <div class="our-partner-carousel__image d-flex align-items-center justify-content-center">
+                        <img src="img/mythopia.png" alt="" class="our-partner-carousel__image-fix">
                     </div>
                 </div>
             </div>

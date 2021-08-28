@@ -477,6 +477,7 @@ nav .home-logo-title{
     font-size: 12px;
     padding-top: 6px;
     margin-bottom: 0;
+    text-align: center;
 }
 .navbar__item {
       display: inline-block;

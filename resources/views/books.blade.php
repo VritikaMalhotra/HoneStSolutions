@@ -4,7 +4,7 @@
 
 
 @section('curosal-background',('ved2.jpg'))
-@section('curosal-title',('Book'))
+@section('curosal-title',('Our Book'))
 @section('curosal-subtitle',('The Corporate Bhagavad Gita'))
 @section('succes_story__image',('Apple21-10-2018.png'))
 @section('succes_story__title',('Discover The Arjuna in You'))

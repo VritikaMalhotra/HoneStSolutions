@@ -31,25 +31,105 @@
         <div class="page-people py-5">
             <div class="container">
                 <div class="page-people__cards justify-content-center row m-0">
-                
-                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/bigtest1.jpg" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
-                            <p class="people-card__description">"Yes, Got to know my strengths and areas of improvement"</p>
-                            <h6 class="people-card__name mb-0">-Mr Neter Singh</h6>
-                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                            <p class="people-card__description">Gita chanting is eternally enchanting. For the first time in my life, I attempted to do Gita chanting by joining the Gita chanting session. There were two distinct takeaways for me. First, Gita chanting is not as difficult as I thought always before joining the class. And Prasun made it simpler and easier for me to learn the nuances of chanting. Second, I never thought Gita chanting would be as blissful as I personally experienced the same. I always fall short of words to explain the bliss and peace of doing Gita chanting on daily basis. </p>
+                            <h6 class="people-card__name mb-0">-Mr Biswajit Adhikari</h6>
+                            <h6 class="people-card__position mb-0">AVP, VIVRO Financial Services Private Limited</h6>
+                        </div>
+                    </a>
+                    
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/bigtest7.jpeg" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">“When Doubts haunt and disappointment stare at my face and I don’t see a ray of hope, I turn to Bhagavad Gita and find a verse to comfort me and I start to smile in the midst of overwhelming sorrow” – Mahatma GandhiAfter joining Mr. Prasun Kundu’s “Gita Chanting Is Enchanting” batch, I came to know the true meaning of Bhagavad Gita. In his sessions, he says, this powerful scripture can be used at all times to overcome the ethical and moral struggles towards righteous conduct.Chanting of Bhagavad Gita shlokas by Mr. Prasun Kundu is a blissful experience. His explanation on how to pronounce every word, symbol and meaning of every shloka is commendable. Thankyou Mr. Kundu for sharing such goodness with us.Finally we know, Bhagavad Gita’s call for selfless action inspired leaders like Mahatma Gandhi, Bal Gangadhar Tilak, Acharya Vinoba Bhave to name a few. </p>
+                            <h6 class="people-card__name mb-0">Shrabani Ghorai</h6>
+                            <h6 class="people-card__position mb-0">Teacher</h6>
                         </div>
                     </a>
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
-                            <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
+                            <img src="img/testimonial2.png" alt="" class="people-card__logo-fix">
                         </div>
                         <div class="people-card__content px-0">
-                            <p class="people-card__description">"Yes, Got to know my strengths and areas of improvement"</p>
-                            <h6 class="people-card__name mb-0">-Mr Neter Singh</h6>
-                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                            <p class="people-card__description">Blessed to be apart of enchanting and enticing Shri Bhagavad Gita chanting with Prasun. With every Shloka - I felt much decluttered and many confusions were cleared and even beyond that there is something so liberating that I am not able to express in words. One has to experience it to understand it. Every chanting session prepared us for more learning and understanding of modern world day to day  challenges. Other than the relevance of Bhagvad Gita in today’s corporate world explained by Prasun, what also makes me a big fan is it’s importance in making us more equipoised in any situation. Thank you Prasun for such a blissful experience.</p>
+                            <h6 class="people-card__name mb-0">-Khushal Lalwani</h6>
+                            <h6 class="people-card__position mb-0">Entrepreneur</h6>
+                        </div>
+                    </a>
+                   
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/bigtest2.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">The Bhagavad Gita is an incredible scripture that teaches one and all, from all echelons of society and of any lineage, caste and creed, how to live life, how to break the cycle of rebirth and death, the duality of existence of soul and physical body, and how in progressing in spiritual life, it's not really denouncing and giving up actions, but actually how to do the action with full devotion and single minded focus, without the attraction and expectation of results, and neither a fear of failure. It teaches us that all we see or experience- the happiness, joy, sorrow are all transient and are direct result of our expectations. Pursuit of these only takes us more and more towards the center of the cyclone (turmoils of life), from where it becomes more and more difficult to come out and look for the eternal truth, which is just one.While reading the verses and reflecting on the same is great, chanting in a group elevates the entire experience. During the group chanting, different individual's thoughts become one and merges into one rhythm. This convergence or the synching of thoughts into one, creates a huge positive energy that empowers, enlivens and awakens us. It's an incredibly uplifting experience.
+</p>
+                            <h6 class="people-card__name mb-0">-Amit Bose</h6>
+                            <h6 class="people-card__position mb-0">Business Director, DSM B2C BusinessMANDI (Making a Nutritional Difference to India)
+</h6>
+                        </div>
+                    </a>
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/bigtest3.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">I am Geetanjali, a person connected with Bhagavad Gita since childhood. Learnt few chapters of Gita in Sanskrit by heart. Heard Gita chantings endless times from very intellectual, well read scholars/ saints. When my husband asked me to join classes of Gita chanting, I was dubious on 2 fronts: who is teaching and secondly would I be able to make time for it? I reluctantly joined the class for the first time and there was no turning back since then and made sure that I attend all the classes no matter what. Prasun’s pronunciation/chanting of shlokas - never ever heard before - made a powerful impact on me and actually took me to vedic times. It was so authentic and melodic that all attendees use to get mesmerised.  I learnt the rules of chanting from him, its nitty-gritties and try to practice them. If still in doubt, Prasun is always there to help. Bhagavad Gita was always part of me and will always  remain part of me, but now I know how to chant it properly. </p>
+                            <h6 class="people-card__name mb-0">-Geet Anjali</h6>
+                            <h6 class="people-card__position mb-0">Associate Project Manager/ Philanthropist at Infostretch</h6>
+                        </div>
+                    </a>
+                   
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/testimonial3.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">I distinctly remember going to a workshop conducted by Mr Prasun Kundu at AMA, Ahmedabad on the topic, “Discover the Arjuna in You". The workshop was nice but I was awestruck by Prasun's pronunciation of the shlokas of Bhagavad Gita. That compelled me to request Mr Prasun to help me learn, "How to read and chant Bhagavad Gita Shlokas". We started with Chapter 18 and I got stuck on the first shloka for 20 mins as I had no background of Sanskrit nor had gone through Bhagavad Gita ever. Such speed breakers came in pretty regularly for me. It was Prasun's patience and methodology of teaching that helped me learn what I could. Now for anyone reading this,  I would like to share that I go through Bhagavad Gita shlokas every day. It helps me ease down, betters my composure, solves a lot of day to day problems, and most importantly, I have now taken the first step towards the spiritual journey. Whenever I am sad or in any difficult situation, learnings from Bhagavad Gita helps me overcome delusion each and every time. Thanks to Mr Prasun Kundu for making my life easier.
+</p>
+                            <h6 class="people-card__name mb-0">-Mr. Amit Gulati</h6>
+                            <h6 class="people-card__position mb-0">CEO, My Car My Ride
+</h6>
+                        </div>
+                    </a>
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/testimonial1.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">Earlier , Chanting for me was to recite some selective shlokas. Though I read Geeta but never gave a real try to Geeta chanting ,may be because I  thought it's not necessary to know geeta chanting to get Geeta gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome  Geeta with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings.</p>
+                            <h6 class="people-card__name mb-0">Varsha Adhikari</h6>
+                            <h6 class="people-card__position mb-0">Managing Director, Tinctura Colour</h6>
+                        </div>
+                    </a>
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/bigtest4.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">Geeta chanting experience with Prasun Sir is Inner soul purifying activity for me.. I recommend because it helps me a lot to understand my Mind . Heart, Body and soul and overcome from its weaknesses. My personal experience from Geeta Chanting is like going forward to divinity and ultimate Bliss.
+</p>
+                            <h6 class="people-card__name mb-0">-Deepak Merchant</h6>
+                            <h6 class="people-card__position mb-0">Business Partner at MeraMsg
+</h6>
+                        </div>
+                    </a>
+                    
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/bigtest6.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">I got initiated to Chanting of Bhagwat Gita through Prasoon Kundu Sir and joined chanting online with a group (though completely unknown to me), that was extremely friendly & dedicated Gita lovers.Gita chanting creates a soothing and very positive vibe in the house at the start of the day. As you proceed one chapter after another your Sanskrit pronunciation improves, the words of Slokas becomes clearer to you, unravelling the deeper meaning and secrets of life from one of the oldest and most revered scriptures of Sanatana Dharma“
+</p>
+                            <h6 class="people-card__name mb-0">-Omkar Nath</h6>
+                            <h6 class="people-card__position mb-0"></h6>
                         </div>
                     </a>
 
@@ -64,6 +144,16 @@
                         </div>
                     </a>
 
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Yes, Got to know my strengths and areas of improvement"</p>
+                            <h6 class="people-card__name mb-0">-Mr Neter Singh</h6>
+                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                        </div>
+                    </a>
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/People4.jpg" alt="" class="people-card__logo-fix">
@@ -126,7 +216,7 @@
                         <div class="people-card__content px-0">
                             <p class="people-card__description">"To a large extent I discovered the Arjuna in me. I Need to discover more within myself and I am confident I can do that with guidance from you/your book and mentoring."</p>
                             <h6 class="people-card__name mb-0">-Mr Kunal Sood</h6>
-                            <h6 class="people-card__position mb-0">Assistant Manager, Adani Solar</h6>
+                            <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
                         </div>
                     </a>
 

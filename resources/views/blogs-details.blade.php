@@ -4,7 +4,7 @@
 <?php $page= 'blogs'; ?>
 
 @section('curosal-background',('banner-image6.jpg'))
-@section('curosal-title',('Geeta Chanting is Enchanting'))
+@section('curosal-title',('Gita Chanting is Enchanting'))
 @section('curosal-subtitle',(''))
 
 @section('succes_story__image',('calorx26-06-2019.png'))
@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row pt-5">
                 <div class="col-md-4">
-                    @include('travel/travel-cards')
+                    @include('travel/travel-card-2')
                 </div>
                 <div class="col-md-8">
                     @include('travel/blog1')
@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        @include('blog/team')
+      
         @include('about/succes_story')
     @endsection
 
