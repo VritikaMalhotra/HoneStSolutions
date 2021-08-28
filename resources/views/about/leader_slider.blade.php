@@ -111,6 +111,12 @@
                     <div class="gallery-card pt-3">
                         <img src="img/our-partner-img1_1.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
+                    <div class="gallery-card pt-3">
+                        <img src="img/sora_logo.jpeg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    <div class="gallery-card pt-3">
+                        <img src="img/visamo_logo.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
@@ -129,6 +135,9 @@
                         <img src="img/volansys1.png  " alt="" class="gallery-card__image-fix img-fluid">
                     </div>
 
+                    <div class="gallery-card pt-3">
+                        <img src="img/next_logo.jpeg  " alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
@@ -144,6 +153,9 @@
                     <div class="gallery-card pt-3">
                         <img src="img/olx_cash_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
+                    <div class="gallery-card pt-3">
+                        <img src="img/ama_logo.png" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
                 </div>
 
 
@@ -157,6 +169,9 @@
                     
                     <div class="gallery-card pt-3">
                         <img src="img/gls_logo.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                    </div>
+                    <div class="gallery-card pt-3">
+                        <img src="img/booksclubandbliss23-04-2019.png" alt="" class="gallery-card__image-fix img-fluid">
                     </div>
                     
 
