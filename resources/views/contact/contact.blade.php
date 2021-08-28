@@ -59,7 +59,7 @@
                 <div class="contact__logo">
                     <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
                 </div>
-                <p>Together We Can Make a Difference</p>
+                <p style=" font-family: 'Brush Script MT';">Together We Can Make a Difference</p>
             </div>
         </div>
 
