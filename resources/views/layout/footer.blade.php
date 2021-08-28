@@ -59,7 +59,7 @@
         <div class="footer__logo">
           <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
-        <p>Together We Can Make a Difference</p>
+        <p style=" font-family: 'Brush Script MT';">Together We Can Make a Difference</p>
 
         <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team with collective experience of 50+ years, will take care of all your needs.</p>
 
