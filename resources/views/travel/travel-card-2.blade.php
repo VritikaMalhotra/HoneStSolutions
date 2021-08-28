@@ -34,7 +34,7 @@
                     <div class="travel-card col-md-12 mb-4">
                     <a href="#">
                         <div class="travel-card__image">
-                            <img src="img/prasun_sir_profile2.png" alt="" class="travel-card__image-fix">
+                            <img src="img/sandhya_mam_profile.png" alt="" class="travel-card__image-fix">
                         </div>
                         <div class="travel-card__content px-4 py-4">
                             {{-- <input type="range" class="travel-card__range form-range" id="disabledRange" disabled value='99'> --}}
