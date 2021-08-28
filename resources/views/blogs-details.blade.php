@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        @include('blog/team')
+      
         @include('about/succes_story')
     @endsection
 
