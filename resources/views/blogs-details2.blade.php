@@ -4,7 +4,7 @@
 <?php $page= 'blogs'; ?>
 
 @section('curosal-background',('banner-image6.jpg'))
-@section('curosal-title',('Experience the Power of Bhagvad Geeta'))
+@section('curosal-title',('Experience the Power of Bhagvad Gita'))
 @section('curosal-subtitle',(''))
 
 @section('succes_story__image',('booksclubandbliss23-04-2019.png'))

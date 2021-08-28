@@ -41,12 +41,12 @@
                             <img src="img/blog1.jpg" alt="" class="blog-card__image-fix">
                         </div>
                         <div class="blog-card__body col-md-12 px-3 py-3">
-                            <h4 class="blog-card__title mb-1">Geeta Chanting is Enchanting</h4>
+                            <h4 class="blog-card__title mb-1">Gita Chanting is Enchanting</h4>
                             <p class="blog-card__subtitle-date mb-1">by Prasun Kundu</p>
                             <div class="blog-card__travelcare d-flex pt-24 align-items-center">
                                 <!-- <img src="img/logo.png" alt="" class="blog-card__tag-image"> -->
                                 <!-- <i class="fa fa-tag" aria-hidden="true" style="color:gray;"></i> -->
-                                <!-- <p class="blog-card__travelcare-link m-0 ml-1">Geeta Chanting is Enchanting</p> -->
+                                <!-- <p class="blog-card__travelcare-link m-0 ml-1">Gita Chanting is Enchanting</p> -->
                             </div>
                             <p class="blog-card__description pt-1 m-0">तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |
 उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: || 34||<br>
@@ -62,7 +62,7 @@
                             <img src="img/blog2.jpg" alt="" class="blog-card__image-fix">
                         </div>
                         <div class="blog-card__body col-md-12 px-3 py-3">
-                            <h4 class="blog-card__title mb-1">Experience The Power of Bhagvad Geeta</h4>
+                            <h4 class="blog-card__title mb-1">Experience The Power of Bhagvad Gita</h4>
                             <p class="blog-card__subtitle-date mb-1">by Prasun Kundu</p>
                             <div class="blog-card__travelcare d-flex pt-24 align-items-center">
                                 <!-- <img src="img/logo.png" alt="" class="blog-card__tag-image">

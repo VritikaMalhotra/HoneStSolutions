@@ -12,7 +12,7 @@
     <body>
         <div class="page-travel-details py-5">
             <div class="container">
-                <h1 class="travel-details__title">Experience the Power of Bhagvad Geeta</h1>
+                <h1 class="travel-details__title">Experience the Power of Bhagvad Gita</h1>
                 <p class="travel-details__description">In our journey of life, we frequently come across situations, which, at times, are not in line with our expectation. Many a times we claim that circumstances play some role, and some elements, beyond our perceived realm of control, are governing our life.</p>
                 <p class="travel-details__description">When one passes through such phases of life and is looking for some structured guideline for conscious attempts towards inner awakening, he/she attempts to gain control in various aspect of life, and take required correction of the course, so that the journey of life cruises in the desired direction. This being the case you are at the right place. When you go through the timeless wisdom of Bhagavad Gita, you shall embark upon a journey, which shall magically transform your life.</p>
                 <div class="travel-details__warpper justify-content-center row m-0">
