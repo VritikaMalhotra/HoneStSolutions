@@ -13,7 +13,11 @@
         width: 100%;
         height: 80vh;
         }
-
+        @media only screen and (max-width: 767px) {
+            .accordion-image__wrap{
+                height: 50vh;
+            }
+        }
         .accordion-image__item {
         flex: 1;
         height: 100%;

@@ -1,10 +1,13 @@
 @extends('app')
 <style>
-    .conatct-us__background{
-        background-image: url(img/background-ship.png),url(img/bacground-om.png);
-        background-repeat: no-repeat;
-        background-position: top left,bottom right;
-        background-size: 200px,200px;
+
+    @media only screen and (min-width: 768px) {
+        .conatct-us__background{
+            background-image: url(img/background-ship.png),url(img/bacground-om.png);
+            background-repeat: no-repeat;
+            background-position: top left,bottom right;
+            background-size: 200px,200px;
+        }
     }
 </style>
 <?php $page= 'contact'; ?>
