@@ -105,7 +105,7 @@
     <body>
         <div class="simple-banner">
             <div class="container">
-                <h1 class="simple-banner__title mb-0">@yield('curosal-title')</h1>
+                <h1 class="simple-banner__title mb-0" style=" font-family: 'Samarkan';">@yield('curosal-title')</h1>
                 <p class="simple-banner__subtitle mb-0">@yield('curosal-subtitle')</p>
             </div>
         </div>

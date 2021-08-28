@@ -57,7 +57,7 @@
             {{-- <div class="our-mission__banner d-flex justify-content-center mb20">
                 <img src="img/our-mission-banner.jpg" alt="" class="our-mission__banner-fix">
             </div> --}}
-            <h1 class="testomoials-carousel__name pt20">Share learnings from Bhagavad Geeta with maximum people to increase happiness quotient.</h1>
+            <h1 class="testomoials-carousel__name pt20">Share learnings from Bhagavad Gita with maximum people to increase happiness quotient.</h1>
             <p class="our-mission__description mb0"> </p>
             <p class="our-mission__description mb0"></p>
             <div class="d-flex justify-content-center pt30">
