@@ -36,15 +36,20 @@
                         <p>“WHAT MIND CAN CONCEIVE MAN CAN ACHIEVE” is the foundation of what we have done till now, doing now and intend to do going forward!
 Germination of an idea in the year 2018 is beginning to show the green shoots of the inputs sown passionately. Countless boardroom strategies executed on the ground, training and mentoring of the work force spanning over 25 years resulting in experience, expertise, empathy and exuberance needs to be shared towards building highly productive teams and great places to work! All of the foregoing blended effectively with Bhagavad Gita makes for a learning which has stood the test of time and is more than relevant currently.</p>
                         <p>The journey began by learning to chant the Bhagavad Gita Shlokas to a in depth research of Chapter 18 of Bhagavad Gita leading to launch of our first book, “The Corporate Bhagavad Gita – Discover The Arjuna in You”. The book is also converted into our signature training programme “Discover The Arjuna in You” programme for which are conducted for employees of Apple, Adani and Reliance to name a few.</p>
-                        
+
                     </div>
                     <div class="col-md-6 about_details__image">
-                        <img src="img/booklaunch.png" alt="Free Bootstrap Template by uicookies.com" class="about_details__image-fix">
+                        <div class="d-flex justify-content-center">
+                            <img src="img/booklaunch.png" alt="Free Bootstrap Template by uicookies.com" class="about_details__image-fix">
+                        </div>
                     </div>
                 </div>
                 <div class="row mt40 mb40">
                     <div class="col-md-6 about_details__image">
-                        <img src="img/Hone-ST-Logo.png" alt="Free Bootstrap Template by uicookies.com" class="about_details__image-fix">
+                        <div class="d-flex justify-content-center">
+                            <img src="img/Hone-ST-Logo.png" alt="Free Bootstrap Template by uicookies.com" class="about_details__image-fix">
+                        </div>
+                        <p style=" font-family: 'Brush Script MT'; text-align:center;">Together We Can Make a Difference</p>
                     </div>
                     <div class="col-md-6 col-md-pull-6 about_details__content">
                         <h2 style="font-family: 'Samarkan', sans-serif;">Our Story</h2>

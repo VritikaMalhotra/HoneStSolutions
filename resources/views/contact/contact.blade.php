@@ -7,7 +7,10 @@
     <title></title>
     <style>
         .contact__logo-fix{
-            width: 150px;
+            width: 80%;
+        }
+        .contact__subtitle{
+            text-align: center;
         }
     </style>
 </head>
@@ -54,12 +57,12 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-5 col-sm-6 p-0">
+        <div class="col-lg-5 col-sm-6 p-0 ">
             <div class="contact__wrap pb-3">
-                <div class="contact__logo">
+                <div class="contact__logo d-flex justify-content-center">
                     <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
                 </div>
-                <p style=" font-family: 'Brush Script MT';">Together We Can Make a Difference</p>
+                <p class="contact__subtitle" style=" font-family: 'Brush Script MT';">Together We Can Make a Difference</p>
             </div>
         </div>
 
