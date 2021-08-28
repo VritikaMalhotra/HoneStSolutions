@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row pt-5">
                 <div class="col-md-4">
-                    @include('travel/travel-cards')
+                    @include('travel/travel-card-2')
                 </div>
                 <div class="col-md-8">
                     @include('travel/blog1')
