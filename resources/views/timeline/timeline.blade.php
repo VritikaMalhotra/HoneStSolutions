@@ -447,6 +447,32 @@
                     <p class="timeline__content-desc">Thanksgiving of schools by Visamo Kids Foundation. Addressed an elite gathering comprising Mr. Rajendra Khemani, Mr. VC of Gujarat VidyaPeeth, Mr. Amit Thakkar - Philanthropist, Mr. Parth Oza - Actor, Singer and Brand Ambassador (Visamo Kids)</p>
                 </div>
             </div>
+            <div class="timeline-item" data-text="Nutan Nagrik Sahakari Bank Ltd.">
+                <div class="timeline__content">
+                    <img src="img/nutanbank20-08-2021.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>20-08-2021</h2>
+                    <p class="timeline__content-desc">First offline session post 16th March 2020!!!
+Participants - Newly promoted to 'Officer' grade from 'Clerk'
+Organization - Nutan Nagarik Sahkari Bank, Ahmedabad
+Number of Participants - 24
+Today's realization - 'Online' cannot replace 'Offline' in training... The connect, the adrenalin rush, the discussions, the learnings are unparalleled.... More importantly no option to switch off the video...!!! 😊</p>
+                </div>
+            </div>
+            <div class="timeline-item" data-text="Ahmedabad Management Association">
+                <div class="timeline__content">
+                    <img src="img/upcoming13-09-2021.PNG" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>13-09-2021</h2>
+                    <p class="timeline__content-desc">Upcoming...</p>
+                </div>
+            </div>
+            <div class="timeline-item" data-text="Ahmedabad Management Association">
+                <div class="timeline__content">
+                    <img src="img/upcoming18-09-2021.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>18-09-2021</h2>
+                    <p class="timeline__content-desc">Upcoming...</p>
+                </div>
+            </div>
+           
             
           
 			
