@@ -8,11 +8,16 @@
     <style>
         .profile-main{
             background-color:white;
-            /* margin-bottom: 15rem; */
-            background-image: url(img/bacground-our-mission.png);
-            background-repeat: no-repeat;
-            background-position: bottom left;
-            background-size: 200px;
+        }
+
+        @media only screen and (min-width: 768px) {
+            .profile-main{
+                /* margin-bottom: 15rem; */
+                background-image: url(img/bacground-our-mission.png);
+                background-repeat: no-repeat;
+                background-position: bottom left;
+                background-size: 200px;
+            }
         }
         .profile-card{
             margin-top:-120px;
@@ -42,6 +47,11 @@
         }
         .profile-card__logo{
             /* padding-top:5rem; */
+        }
+        @media only screen and (max-width: 575px) {
+            .profile-card{
+                margin-top: -60px;
+            }
         }
         @media only screen and (max-width: 575px) {
             .profile-card-second{

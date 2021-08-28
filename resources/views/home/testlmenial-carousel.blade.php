@@ -128,7 +128,7 @@
                             <li data-target="#testomoials-carousel" data-slide-to="6"></li>
                             <li data-target="#testomoials-carousel" data-slide-to="7"></li>
                             <li data-target="#testomoials-carousel" data-slide-to="8"></li>
-                            <!-- <li data-target="#testomoials-carousel" data-slide-to="9"></li>  -->
+                            <li data-target="#testomoials-carousel" data-slide-to="9"></li>  
                     </ul>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -223,6 +223,19 @@
                                     Omkar Nath
                                 </h1>
                                 <p class="testomoials-carousel__description">I got initiated to Chanting of Bhagwat Gita through Prasoon Kundu Sir and joined chanting online with a group (though completely unknown to me), that was extremely friendly & dedicated Gita lovers.Gita chanting creates a soothing and very positive vibe in the house at the start of the day. As you proceed one chapter after another your Sanskrit pronunciation improves, the words of Slokas becomes clearer to you, unravelling the deeper meaning and secrets of life from one of the oldest and most revered scriptures of Sanatana Dharma“
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                                <img src="img/bigtest7.jpeg" alt="" class="testomoials-carousel__image-fix">
+                            </div>
+                            <div class="testomoials-carousel__content">
+                                <h1 class="testomoials-carousel__name pt20">
+                                Shrabani Ghorai, Teacher
+                                </h1>
+                                <p class="testomoials-carousel__description">“When Doubts haunt and disappointment stare at my face and I don’t see a ray of hope, I turn to Bhagavad Gita and find a verse to comfort me and I start to smile in the midst of overwhelming sorrow” – Mahatma GandhiAfter joining Mr. Prasun Kundu’s “Gita Chanting Is Enchanting” batch, I came to know the true meaning of Bhagavad Gita. In his sessions, he says, this powerful scripture can be used at all times to overcome the ethical and moral struggles towards righteous conduct.Chanting of Bhagavad Gita shlokas by Mr. Prasun Kundu is a blissful experience. His explanation on how to pronounce every word, symbol and meaning of every shloka is commendable. Thankyou Mr. Kundu for sharing such goodness with us.Finally we know, Bhagavad Gita’s call for selfless action inspired leaders like Mahatma Gandhi, Bal Gangadhar Tilak, Acharya Vinoba Bhave to name a few. That’s why I believe Bhagavad Gita is helpful to discover inner strength and cultivate mindfulness, compassion, overcome limitations and keep harmonious relationships. Thrilled for the blissful experience.
                                 </p>
                             </div>
                         </div>
