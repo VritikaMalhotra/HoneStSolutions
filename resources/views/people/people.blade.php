@@ -31,6 +31,30 @@
         <div class="page-people py-5">
             <div class="container">
                 <div class="page-people__cards justify-content-center row m-0">
+
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/testimonial1.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Earlier , Chanting for me was to recite some selective shlokas. Though I read gita but never gave a real try to gita chanting ,may be because I thought it's not necessary to know gita chanting to get gita gyan. But chanting with Prasun opened up a new vista a new perspective to understand the importance of sound energy . Prasun helped me to improve my diction with his own chaste uccharan and with simple yet specific instructions. He also made us repeat and absorb the verse completely. The whole process helped me and my family to welcome gita with love and reverence to our lives. Will always be grateful towards him for Sharing his blessings"</p>
+                            <h6 class="people-card__name mb-0">-Varsha Adhikari </h6>
+                            <h6 class="people-card__position mb-0">Managing Director, Tinctura Colour</h6>
+                        </div>
+                    </a>
+
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/testimonial2.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Blessed to be apart of enchanting and enticing Shri Bhagavad Gita chanting with Prasun. With every Shloka - I felt much decluttered and many confusions were cleared and even beyond that there is something so liberating that I am not able to express in words. One has to experience it to understand it. Every chanting session prepared us for more learning and understanding of modern world day to day challenges. Other than the relevance of Bhagavad Gita in today’s corporate world explained by Prasun, what also makes me a big fan is it’s importance in making us more equipoised in any situation. Thank you Prasun for such a blissful experience"</p>
+                            <h6 class="people-card__name mb-0">-Khushal Lalwani</h6>
+                            <h6 class="people-card__position mb-0"> Entrepreneur</h6>
+                        </div>
+                    </a>
+
+ 
                     
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
