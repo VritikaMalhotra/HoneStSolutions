@@ -71,7 +71,7 @@
                     </div>
                     <div class="profile-card__content px-0">
                         <h3 class="profile-card__name mb-0" >Prasun <span class=""style="font-family: 'Samarkan', sans-serif;">Kundu</span></h3>
-                        <p class="profile-card__description">Experience of over 27 years with Nestle India Ltd., Reliance Retail, Idea Cellular, McCormick in the corporate world of which more than 20 years in leadership position.
+                        <p class="profile-card__description">Experience of over 27 years with Nestle India Ltd., Reliance Retail, Idea Cellular, McCormick in the corporate world of which more than 22 years in leadership position.
 Currently Consulting to Next 360, an MVNO based out of Johannesburg for their global business.
 Consulting and research for Roasty Tasty, Boss Leathers, Mobile Anti-Radiation Chips, FMCG Industry, Bonds Market to name a few.
  <b>Author – “The Corporate Bhagavad Gita, Discover The Arjuna in You”</b>. Corporate Trainings on Sales and Marketing and incremental productivity through Bhagavad Gita. Some of the clients – Apple, Reliance, Adani, OLX, Kalorex Foundation, GLS University, Ahmedabad Management Association, Mudra Institute for Communications and Advertising (MICA), Mythopia to name a few.
