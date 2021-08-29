@@ -17,7 +17,6 @@
                     <a href="/" class="navbar__item  <?php if ($page=='home') {echo 'navbar__item_active';} ?>">Home</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
-                    <a href="/gallery" class="navbar__item <?php if ($page=='gallery') {echo 'navbar__item_active';} ?>">Gallery</a>
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/books" class="navbar__item <?php if ($page=='books') {echo 'navbar__item_active';} ?>">Our Book</a>
@@ -37,6 +36,8 @@
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/about" class="navbar__item <?php if ($page=='about') {echo 'navbar__item_active';} ?>">About Us</a>
                 <!-- </li> -->
+                
+                    <a href="/gallery" class="navbar__item <?php if ($page=='gallery') {echo 'navbar__item_active';} ?>">Gallery</a>
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/contact" class="navbar__item <?php if ($page=='contact') {echo 'navbar__item_active';} ?>">Contact Us</a>
                 <!-- </li> -->

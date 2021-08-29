@@ -7,7 +7,7 @@
     <title></title>
     <style>
         .contact__logo-fix{
-            width: 80%;
+            width: 100%;
         }
         .contact__subtitle{
             text-align: center;
@@ -32,11 +32,11 @@
                 <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Mobile Number</h4>
                 <div class="d-flex align-items-center mb-3">
                     <i class="fa fa-phone" style="color:gray"></i>
-                    <p class="contact__call pl-2 mb-0">9824004696</p>
+                    <p class="contact__call pl-2 mb-0">+91-98240-04696</p>
                 </div>
                 <div class="d-flex align-items-center mb-3">
                     <i class="fa fa-phone" style="color:gray"></i>
-                    <p class="contact__call pl-2 mb-0">9624004696</p>
+                    <p class="contact__call pl-2 mb-0">+91-96240-04696</p>
                 </div>
             </div>
             <div class="contact__wrap pb-3">
