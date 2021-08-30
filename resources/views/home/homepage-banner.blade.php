@@ -73,7 +73,7 @@
                     <h1 class="homepage-banner__title mb0">Hone ST</h1>
                     
                     <h2 class="homepage-banner__subtitle mb0">Solutions</h2>
-                    <h2 class="homepage-banner__title mb30" style=" font-family: 'Brush Script MT';"></h2>
+                    <h2 class="homepage-banner__title mb30" style=" font-family: 'Brush Script MT', cursive;"></h2>
                     <h2 class="homepage-banner__title sb0">Share learnings from Bhagavad Gita with maximum people to increase happiness quotient.</h2>
                     {{-- <div class="d-flex justify-content-center"> --}}
                         <a href="#our_services" class="btn btn-orange">Explore Now</a>
