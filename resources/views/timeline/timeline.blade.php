@@ -163,313 +163,313 @@
             <h3 class="timeline-header__subtitle"></h3>
         </div>
         <div class="timeline">
-            <div class="timeline-item" data-text="Apple Inc.">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Apple21-10-2018.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>21-10,18-12-2018</h2>
-                    <p class="timeline__content-desc">Our two sessions of "Discover the Arjuna in You" were held with the employees of Apple, West India Zone comprising employees from Gujarat, Maharastra and MP .</p>
+                    <p class="timeline__content-desc"><b>Apple Inc.</b><br>Our two sessions of "Discover the Arjuna in You" were held with the employees of Apple, West India Zone comprising employees from Gujarat, Maharastra and MP .</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="Book Launch, 'The Corporate Bhagavad Gita - Discover The Arjuna in You'">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/booklaunch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>06-01-2019</h2>
-                    <p class="timeline__content-desc">The first book of Prasun Kundu - "The Corporate Bhagavad Gita - Discover the Arjuna in You" was unveiled in The World Book Fair, Pragati Maidan, New Delhi on 6th January 2019. The book is widely accepted by all sections of people in India and across the world. The book is available on:
+                    <p class="timeline__content-desc"><b>Book Launch, 'The Corporate Bhagavad Gita - Discover The Arjuna in You'</b><br>The first book of Prasun Kundu - "The Corporate Bhagavad Gita - Discover the Arjuna in You" was unveiled in The World Book Fair, Pragati Maidan, New Delhi on 6th January 2019. The book is widely accepted by all sections of people in India and across the world. The book is available on:
 					Amazon -  <a href="https://lnkd.in/fZBSMcf">https://lnkd.in/fZBSMcf</a>
 					Flipkart - <a href="https://lnkd.in/f6KqsDv">https://lnkd.in/f6KqsDv</a></p>
                 </div>
             </div>
             
-			<div class="timeline-item" data-text="Mythopia">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/mythiopia17-02-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>17-02-2019</h2>
-                    <p class="timeline__content-desc">A talk based on the book " The Corporate Bhagavad Gita - Discover the Arjuna in You" was held in Mumbai in association with Mythopia, an organisation promoting ancient wisdom/ mythology. It was an informative audience and many of the participants took signed copies of the book .</p>
+                    <p class="timeline__content-desc"><b>Mythopia</b><br>A talk based on the book " The Corporate Bhagavad Gita - Discover the Arjuna in You" was held in Mumbai in association with Mythopia, an organisation promoting ancient wisdom/ mythology. It was an informative audience and many of the participants took signed copies of the book .</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Reliance Retail">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Reliance8-03-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>08-03-2019</h2>
-                    <p class="timeline__content-desc">A two hours Session  at the Ahmedabad office of Reliance Retail on the occasion of International Women's day. The title of the session was "Discover the Arjuna in you" which was aimed at enhancing the Organisational productivity by increasing productivity of people through powerful teachings of the Bhagavad Gita. We engaged the audience. We addressed a group of 40 people, which included 10 women. It was an interactive session . At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You".</p>
+                    <p class="timeline__content-desc"><b>Reliance Retail</b><br>A two hours Session  at the Ahmedabad office of Reliance Retail on the occasion of International Women's day. The title of the session was "Discover the Arjuna in you" which was aimed at enhancing the Organisational productivity by increasing productivity of people through powerful teachings of the Bhagavad Gita. We engaged the audience. We addressed a group of 40 people, which included 10 women. It was an interactive session . At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You".</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Books & Bliss Club">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/booksclubandbliss23-04-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>23-04-2019</h2>
-                    <p class="timeline__content-desc">Books and Bliss club in collaboration with "Atrangi Community" and American Corner Library held an author meetup with Prasun Kundu, Author of The Corporate Bhagavad Gita. We engaged the audience with a brief about the book and how Bhagavad Gita can help us lead a life full of happiness. At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You"</p>
+                    <p class="timeline__content-desc"><b>Books & Bliss Club</b><br>Books and Bliss club in collaboration with "Atrangi Community" and American Corner Library held an author meetup with Prasun Kundu, Author of The Corporate Bhagavad Gita. We engaged the audience with a brief about the book and how Bhagavad Gita can help us lead a life full of happiness. At the end of the session many of the participants took signed copies of the book " The Corporate Bhagavad Gita - Discover the Arjuna in You"</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama24-05-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>24-05-2019</h2>
-                    <p class="timeline__content-desc">Discover the Arjuna in You was held at the Seminar hall of the Ahmedabad Management Association (AMA). More than 200 people attended the session which ended with an interactive Q & A session. Many of the participants bought signed copies of the book " The Corporate Bhagvad Gita - Discover the Arjuna in You".Check out the full talk @ the below link. 
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Discover the Arjuna in You was held at the Seminar hall of the Ahmedabad Management Association (AMA). More than 200 people attended the session which ended with an interactive Q & A session. Many of the participants bought signed copies of the book " The Corporate Bhagvad Gita - Discover the Arjuna in You".Check out the full talk @ the below link. 
 	<a href="https://youtu.be/68fLyFiaDoM">https://youtu.be/68fLyFiaDoM</a></p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Adani Solar & Power">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Adani26-07-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25,26-06-2019</h2>
-                    <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
+                    <p class="timeline__content-desc"><b>Adani Solar & Power</b><br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Calorx Public School">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/calorx26-06-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>26-06-2019</h2>
-                    <p class="timeline__content-desc">Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagavad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
+                    <p class="timeline__content-desc"><b>Calorx Public School</b><br>Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagavad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Indian Institute of Materials Management (IIMM)">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/iimm10-08-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>10-08-2019</h2>
-                    <p class="timeline__content-desc">Session with members of IIMM which was highly interactive and appreciated by everyone. </p>
+                    <p class="timeline__content-desc"><b>Indian Institute of Materials Management (IIMM)</b><br>Session with members of IIMM which was highly interactive and appreciated by everyone. </p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Adani Solar">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Adani21-08-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>20-21 August 2019</h2>
-                    <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
+                    <p class="timeline__content-desc"><b>Adani Solar</b></br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>05-09-2019</h2>
-                    <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Time Management. Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Time Management. Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="GLS University">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/gls06-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>06-09-2019</h2>
-                    <p class="timeline__content-desc">Talk on Leadership & Team Building based on our book, "The Corporate Bhagavad Gita - Discover The Arjuna in You" for second year students</p>
+                    <p class="timeline__content-desc"><b>GLS University</b><br>Talk on Leadership & Team Building based on our book, "The Corporate Bhagavad Gita - Discover The Arjuna in You" for second year students</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-09-2019</h2>
-                    <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Leadership, Motivation and Time Management. Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Leadership, Motivation and Time Management. Highly interactive session appreciated by all participants</p>
                 </div>
 			</div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Ama12-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>13-09-2019</h2>
-                    <p class="timeline__content-desc">Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Managing Teams. Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Managing Teams. Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-09-2019</h2>
-                    <p class="timeline__content-desc">Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama19-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>19-09-2019</h2>
-                    <p class="timeline__content-desc">One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>20-09-2019</h2>
-                    <p class="timeline__content-desc">Second batch of Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Second batch of Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Reliance Retail">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Reliance25-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25-09-2019</h2>
-                    <p class="timeline__content-desc">Four hours session conducted with the middle and senior management of Reliance Retail on the importance of focus in leadership from Bhagavad Gita. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
+                    <p class="timeline__content-desc"><b>Reliance Retail</b><br>Four hours session conducted with the middle and senior management of Reliance Retail on the importance of focus in leadership from Bhagavad Gita. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Adani Solar">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Adani15-11-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-16 November 2019</h2>
-                    <p class="timeline__content-desc">Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" .</p>
+                    <p class="timeline__content-desc"><b>Adani Solar</b><br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" .</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>23-24th Nov'19</h2>
-                    <p class="timeline__content-desc">Third batch of training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Third batch of training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>16-17-18-19th Mar'20</h2>
-                    <p class="timeline__content-desc">Enhancing Sales and Service Marketing Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Enhancing Sales and Service Marketing Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online1.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>8-25th May'20</h2>
-                    <p class="timeline__content-desc">First batch (online). Duration of the program was 28 hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>First batch (online). Duration of the program was 28 hrs.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Amity University">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/amity14-05-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>14-05-2020</h2>
-                    <p class="timeline__content-desc">Highly interactive session with first year management students of Amity University, Ahmedabad</p>
+                    <p class="timeline__content-desc"><b>Amity University</b><br>Highly interactive session with first year management students of Amity University, Ahmedabad</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="OLX Cash My Car">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/olx15-05-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>15-05-2020</h2>
-                    <p class="timeline__content-desc">Highly interactive session with Olx Cash My Car employees. Using Bhagavad Gita as a guide to establish how individual productivity can be enhanced.</p>
+                    <p class="timeline__content-desc"><b>OLX Cash My Car</b><br>Highly interactive session with Olx Cash My Car employees. Using Bhagavad Gita as a guide to establish how individual productivity can be enhanced.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online1.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>1-16th Jun'20</h2>
-                    <p class="timeline__content-desc">Second Batch (online). The duration of program was 24hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Second Batch (online). The duration of program was 24hrs.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Kalorex Foundation">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/kalorex03-06-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>03-06-2020</h2>
-                    <p class="timeline__content-desc">Highly interactive Facebook Live session with Kalorex Foundation on how to deal with Lock down by adhering to the preachings of Bhagavad Gita</p>
+                    <p class="timeline__content-desc"><b>Kalorex Foundation</b><br>Highly interactive Facebook Live session with Kalorex Foundation on how to deal with Lock down by adhering to the preachings of Bhagavad Gita</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online2.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>22Jun - 6th Jul'20</h2>
-                    <p class="timeline__content-desc">Third Batch (online). The duration of this program was 24hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Third Batch (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Amity University">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/amity05-08-2020.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>05-08-2020</h2>
-                    <p class="timeline__content-desc">Highly interactive session with management students ( freshers - new admission) of Amity University, Ahmedabad</p>
+                    <p class="timeline__content-desc"><b>Amity University</b><br>Highly interactive session with management students ( freshers - new admission) of Amity University, Ahmedabad</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Volansys">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/volansys.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2020</h2>
-                    <p class="timeline__content-desc">Highly Interactive session on Lockdown learnings from Bhagavad Gita with middle management of Volansys</p>
+                    <p class="timeline__content-desc"><b>Volansys</b><br>Highly Interactive session on Lockdown learnings from Bhagavad Gita with middle management of Volansys</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>11 Jul - 16 Aug'20</h2>
-                    <p class="timeline__content-desc">Fourth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Fourth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>22 Aug - 27Sep'20</h2>
-                    <p class="timeline__content-desc">Fifth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Fifth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Gita Chanting Is Enchanting">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online2.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>5Dec'20 - 03Jan'21</h2>
-                    <p class="timeline__content-desc">Sixth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Sixth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="MICA">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/mica25-02-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2021</h2>
-                    <p class="timeline__content-desc">Sales and Distribution Management with students of final year</p>
+                    <p class="timeline__content-desc"><b>MICA</b><br>Sales and Distribution Management with students of final year</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-27th Feb'21 & 12, 19th Mar'21</h2>
-                    <p class="timeline__content-desc">Sales Management Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>12-13-19th Apr'21</h2>
-                    <p class="timeline__content-desc">Retail and Wholesale and Sales Promotion Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Retail and Wholesale and Sales Promotion Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama07-05-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-05-2021</h2>
-                    <p class="timeline__content-desc">Talk on concept "What is NOT Sales". Organizations focus on what is sales but the need to understand what is NOT helps team focussed leading to incremental productivity. Highly interactive session appreciated by all.</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Talk on concept "What is NOT Sales". Organizations focus on what is sales but the need to understand what is NOT helps team focussed leading to incremental productivity. Highly interactive session appreciated by all.</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>13-14th May 2021</h2>
-                    <p class="timeline__content-desc">Enhancing Sales Management for Senior Management. Highly appreciated by participants on account of real life examples and case study to help build right prespective on the concepts</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Enhancing Sales Management for Senior Management. Highly appreciated by participants on account of real life examples and case study to help build right prespective on the concepts</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Ahmedabad Management Association">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>27th July &4th Aug'21</h2>
-                    <p class="timeline__content-desc">Sales Management for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="NL Dalmia Institute of Management Studies and Research">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/nldalmia29-07-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2021</h2>
-                    <p class="timeline__content-desc">Leadership lessons from Bhagavad Gita for the freshers getting inducted to the institute</p>
+                    <p class="timeline__content-desc"><b>NL Dalmia Institute of Management Studies and Research</b><br>Leadership lessons from Bhagavad Gita for the freshers getting inducted to the institute</p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="Visamo Kids Foundation">
+			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/visamo07-08-2021.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>07-08-2021</h2>
-                    <p class="timeline__content-desc">Thanksgiving of schools by Visamo Kids Foundation. Addressed an elite gathering comprising Mr. Rajendra Khemani, Mr. VC of Gujarat VidyaPeeth, Mr. Amit Thakkar - Philanthropist, Mr. Parth Oza - Actor, Singer and Brand Ambassador (Visamo Kids)</p>
+                    <p class="timeline__content-desc"><b>Visamo Kids Foundation</b><br>Thanksgiving of schools by Visamo Kids Foundation. Addressed an elite gathering comprising Mr. Rajendra Khemani, Mr. VC of Gujarat VidyaPeeth, Mr. Amit Thakkar - Philanthropist, Mr. Parth Oza - Actor, Singer and Brand Ambassador (Visamo Kids)</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="Nutan Nagrik Sahakari Bank Ltd.">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/nutanbank20-08-2021.jpeg" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>20-08-2021</h2>
-                    <p class="timeline__content-desc">First offline session post 16th March 2020!!!
+                    <p class="timeline__content-desc"><b>Nutan Nagrik Sahakari Bank Ltd.</b><br>First offline session post 16th March 2020!!!
 Participants - Newly promoted to 'Officer' grade from 'Clerk'
 Organization - Nutan Nagarik Sahkari Bank, Ahmedabad
 Number of Participants - 24
 Today's realization - 'Online' cannot replace 'Offline' in training... The connect, the adrenalin rush, the discussions, the learnings are unparalleled.... More importantly no option to switch off the video...!!! 😊</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="Ahmedabad Management Association">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/upcoming13-09-2021.PNG" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>13-09-2021</h2>
-                    <p class="timeline__content-desc">Upcoming...</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Upcoming...</p>
                 </div>
             </div>
-            <div class="timeline-item" data-text="Ahmedabad Management Association">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/upcoming18-09-2021.jpeg" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>18-09-2021</h2>
-                    <p class="timeline__content-desc">Upcoming...</p>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Upcoming...</p>
                 </div>
             </div>
            
