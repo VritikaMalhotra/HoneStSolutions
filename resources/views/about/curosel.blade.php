@@ -97,6 +97,7 @@
             }
             .simple-banner__subtitle{
                 font-family:  sans-serif;
+                font-size: 20px;
                 font-weight:bold;
                 color:white;
             }
@@ -106,7 +107,7 @@
         <div class="simple-banner">
             <div class="container">
                 <h1 class="simple-banner__title mb-0" style=" font-family: 'Samarkan';">@yield('curosal-title')</h1>
-                <p class="simple-banner__subtitle mb-0">@yield('curosal-subtitle')</p>
+                <p class="simple-banner__subtitle mb-0" style=" font-family: 'Brush Script MT', cursive;">@yield('curosal-subtitle')</p>
             </div>
         </div>
         {{-- <div id="demo" class="carousel slide" data-ride="carousel">
