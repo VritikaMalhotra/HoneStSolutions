@@ -36,6 +36,13 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    @include('contact/google-form')
+                </div>
+            </div>
+        </div>
 
         @include('about/succes_story')
     @endsection
