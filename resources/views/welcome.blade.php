@@ -42,7 +42,7 @@
             @include('home/homepage-banner')
             @include('home/homepage-banner-second')
             {{-- <div class="container"> --}}
-                @include('home/upcoming-events')
+                <!-- @include('home/upcoming-events') -->
                 @include('home/our-service')
                 <div class="background-our-mission">
                     @include('home/our-mission')
