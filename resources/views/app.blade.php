@@ -2,6 +2,8 @@
 
 <head>
     @include('layout/head')
+    <link rel="stylesheet" href="../../public/scss/main.scss">
+    
 </head>
 <body>
     @include('layout/header')

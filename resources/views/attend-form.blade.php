@@ -1,10 +1,12 @@
 @extends('app')
 
-<?php $page= 'books'; ?>
+<?php $page= ''; ?>
 
 
 @section('main-content')
-    @include('form/attend-form')
+    <div class="container">
+        @include('form/attend-form')
+    </div>
 
 @endsection
 

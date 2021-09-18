@@ -111,14 +111,14 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" >Attend</a>
+                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" target="_blank" >Attend</a>
                             </div>
                             <div class="upcoming-events__border-fix">
                             </div>
                         </div>
                         <div class="row m-0">
                             <div class="upcoming-events__wrapper col-md-3">
-                                <div class="upcoming-events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">
+                                <div class="upcoming-events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" target="_blank">
                                     <img src="img/YT_1.jpg"   alt="" class="upcoming-events__profile-fix"></a>
                                 </div>
                             </div>
@@ -154,14 +154,14 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" >Attend</a>
+                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" target="_blank" >Attend</a>
                             </div>
                             <div class="upcoming-events__border-fix">
                             </div>
                         </div>
                         <div class="row m-0">
                             <div class="upcoming-events__wrapper col-md-3">
-                                <div class="upcoming-events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">
+                                <div class="upcoming-events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" target="_blank">
                                     <img src="img/YT_1.jpg"   alt="" class="upcoming-events__profile-fix"></a>
                                 </div>
                             </div>

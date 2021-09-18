@@ -78,7 +78,7 @@
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">In conversation with Ummeed!</h3>
-                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E">
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" target="_blank">
                             <img src="img/YT_1.jpg"   alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" class="events__types-link mb0 pl-1" >View video</a>
+                                <a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" class="events__types-link mb0 pl-1" target="_blank">View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0" >Great Conversation with Mr. Jayesh Kaushik and Mr. Vikash Jha, Founders of Ummeed, on how an individual can remain focussed in these challenging times and come out with flying colours. More importantly, how Bhagavad Gita can help swim through these high tides!!!
@@ -110,7 +110,7 @@ Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our c
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Lockdown Learnings - Part XI</h3>
-                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=yznQB5DH6r4">
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=yznQB5DH6r4" target="_blank">
                             <img src="img/yt_2.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
@@ -132,7 +132,7 @@ Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our c
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="https://www.youtube.com/watch?v=yznQB5DH6r4" class="events__types-link mb0 pl-1" >View video</a>
+                                <a href="https://www.youtube.com/watch?v=yznQB5DH6r4" class="events__types-link mb0 pl-1" target="_blank">View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">Concept of DAVIPS - Karma (Action/Activity)
@@ -143,7 +143,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Interview with Dr. Avani Desai</h3>
-                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=3Y4bKdBum7o">
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=3Y4bKdBum7o" target="_blank">
                             <img src="img/yt_3.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
@@ -165,7 +165,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="https://www.youtube.com/watch?v=3Y4bKdBum7o" class="events__types-link mb0 pl-1" >View video</a>
+                                <a href="https://www.youtube.com/watch?v=3Y4bKdBum7o" class="events__types-link mb0 pl-1" target="_blank" >View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">In this session The author is talking about the book Corporate Bhagavad Gita along with Dr. Avani Desai  </p>
@@ -174,7 +174,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Interview by Dr. Sameer Savaliya</h3>
-                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=qgJaBg53A50">
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=qgJaBg53A50" target="_blank">
                             <img src="img/yt_4.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
@@ -196,7 +196,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="https://www.youtube.com/watch?v=qgJaBg53A50" class="events__types-link mb0 pl-1" >View video</a>
+                                <a href="https://www.youtube.com/watch?v=qgJaBg53A50" class="events__types-link mb0 pl-1" target="_blank">View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">This interview was done at Books n Bliss club with Dr. Sameer Savaliya, Founder of Books n Bliss club. Interview revolced around The Corporate Bhagavad Gita - Discover The Arjuna In You...</p>
@@ -205,7 +205,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
                         <h3 class="events__name">Mr Prasun Kundu</h3>
-                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=68fLyFiaDoM">
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=68fLyFiaDoM" target="_blank">
                             <img src="img/yt_5.jpg" alt="" class="events__profile-fix"></a>
                         </div>
                     </div>
@@ -227,7 +227,7 @@ Corporate experience includes 12 years with Nestle India Limited, 3 Years with R
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="https://www.youtube.com/watch?v=68fLyFiaDoM" class="events__types-link mb0 pl-1" >View video</a>
+                                <a href="https://www.youtube.com/watch?v=68fLyFiaDoM" class="events__types-link mb0 pl-1" target="_blank">View video</a>
                             </div>
                         </div>
                         <p class="events__description mb0">Ahmedabad Management Association</p>
