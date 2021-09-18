@@ -9,7 +9,9 @@
 <body>
     <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {alert('You have submitted your form');}"></iframe>
+onload="if(submitted) {//alert('You have submitted your form');
+window.location='succes-attend-form';
+}"></iframe>
 
     <form method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMwfI0tVpHWSfU_MP6SSyR2r582Gs8uBKFcujXtC2-_rfNcA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
        

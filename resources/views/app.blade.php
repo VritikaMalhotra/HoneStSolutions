@@ -3,6 +3,8 @@
 <head>
     @include('layout/head')
     <link rel="stylesheet" href="../../public/scss/main.scss">
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/scss/main.scss" rel="stylesheet">
     
 </head>
 <body>

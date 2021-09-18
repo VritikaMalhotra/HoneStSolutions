@@ -58,5 +58,11 @@ Route::get('/our-journey', function () {
 Route::get('/attend-form', function () {
     return view('attend-form');
 });
+
+Route::get('/succes-attend-form', function () {
+    return view('succes-attend-form');
+});
+
+
 Route::get('/sendemail',[SendEmailController::class, 'index']);
 Route::post('/sendemail/send',[SendEmailController::class, 'send']);

@@ -68,7 +68,7 @@
                 font-size: 22px;
             }
             .upcoming-events__types-link:hover{
-                color: orange;
+                color: white;
             }
             .upcoming-events__border-fix{
                 background: red;

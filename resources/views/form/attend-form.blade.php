@@ -6,12 +6,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
 	<style>
-		.attend-page{
-			padding: 50px 0;
-		}
-		.attend-page__banner-fix{
-			width:100%;
-		}
+		.attend-page {
+    padding: 50px 0;
+	}
+	.attend-page__banner-fix {
+		width: 100%;
+	}
+
 	</style>
 </head>
 <body>

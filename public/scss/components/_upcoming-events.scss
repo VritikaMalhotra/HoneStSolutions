@@ -1,0 +1,70 @@
+.upcoming-events__background {
+    /* background-image: url(img/background_krishna-bhagavad.png),url(img/background-lotus.png); */
+    /* background-image: url(img/background-lotus.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 350px; */
+}
+.upcoming-events__main-title {
+    background: #ff9031;
+    border-radius: 10px;
+    margin: 0px 30px 20px !important;
+    position: relative;
+}
+.upcoming-events__title-fix {
+    max-width: 100%;
+}
+.upcoming-events__title {
+    text-align: center;
+}
+.upcoming-events__title--shadow {
+    position: relative;
+    font-size: 60px;
+    color: gray;
+    text-align: center;
+    top: -75px;
+    opacity: 0.12;
+}
+
+@media only screen and (max-width: 1023px) {
+    .upcoming-events__profile {
+        justify-content: center;
+    }
+}
+/* @media only screen and (max-width: 767px) {
+    .upcoming-events__media-wrap{
+        justify-content: center;
+    }
+} */
+
+.upcoming-events__profile-fix {
+    width: 60%;
+    padding-right: 10px;
+}
+.upcoming-events__description {
+}
+.upcoming-events__cards {
+    border-left: 10px solid #c9c9c9;
+}
+.upcoming-events__name {
+    border-left: 10px solid gray;
+    margin-left: -10px;
+}
+.upcoming-events__types {
+    color: black;
+    font-size: 22px;
+}
+.upcoming-events__types-link {
+    color: black;
+    font-size: 22px;
+}
+.upcoming-events__types-link:hover {
+    color: orange;
+}
+.upcoming-events__border-fix {
+    background: red;
+    width: 10px;
+    position: absolute;
+    left: -40px;
+    min-height: -webkit-fill-available;
+}
