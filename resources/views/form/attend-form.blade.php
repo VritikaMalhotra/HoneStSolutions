@@ -9,8 +9,25 @@
 		.attend-page {
     padding: 50px 0;
 	}
+	.attend-page__wrapper{
+
+		background-image: url(img/arjun.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		/* background-size: 350px; */
+		background-size: cover;
+	}
 	.attend-page__banner-fix {
 		width: 100%;
+		
+	}
+	.attend-page__title{
+		color:white;
+		text-align:center;
+	}
+	.attend-page__subtitle{
+		color:white;
+		text-align:center;
 	}
 
 	</style>
@@ -18,9 +35,11 @@
 <body>
 	<div class="attend-page">
 		<div class="row m-0">
-			<div class="col-sm-5">
+			<div class="col-sm-5 attend-page__wrapper">
 				<div class="attend-page__banner">
-					<img src="img/homepage-banner.jpg" alt="" class="attend-page__banner-fix">
+					<!-- <img src="img/homepage-banner.jpg" alt="" class="attend-page__banner-fix"> -->
+					<h1 class="attend-page__title">First</h1>
+					<p class="attend-page__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum tenetur fuga culpa magni repudiandae suscipit aspernatur earum cumque accusantium nostrum soluta et voluptatibus, dolorem omnis doloribus cum minus iusto beatae.</p>
 				</div>
 			</div>
 			<div class="col-sm-6 offset-sm-1">
