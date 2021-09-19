@@ -11,7 +11,7 @@
 	}
 	.attend-page__wrapper{
 
-		background-image: url(img/arjun.jpg);
+		background-image: url(img/back_details.jpg);
 		background-repeat: no-repeat;
 		background-position: center;
 		/* background-size: 350px; */
@@ -38,7 +38,13 @@
 			<div class="col-sm-5 attend-page__wrapper">
 				<div class="attend-page__banner">
 					<!-- <img src="img/homepage-banner.jpg" alt="" class="attend-page__banner-fix"> -->
-					<h1 class="attend-page__title">First</h1>
+					<br><br>
+					<h1 class="attend-page__title">Event Title</h1>
+					<br>
+					<p class="attend-page__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum tenetur fuga culpa magni repudiandae suscipit aspernatur earum cumque accusantium nostrum soluta et voluptatibus, dolorem omnis doloribus cum minus iusto beatae.</p>
+					<br>
+					<p class="attend-page__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum tenetur fuga culpa magni repudiandae suscipit aspernatur earum cumque accusantium nostrum soluta et voluptatibus, dolorem omnis doloribus cum minus iusto beatae.</p>
+					<br>
 					<p class="attend-page__subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum tenetur fuga culpa magni repudiandae suscipit aspernatur earum cumque accusantium nostrum soluta et voluptatibus, dolorem omnis doloribus cum minus iusto beatae.</p>
 				</div>
 			</div>
