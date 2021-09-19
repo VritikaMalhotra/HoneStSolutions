@@ -83,7 +83,7 @@
     <div class="upcoming-events upcoming-events__background">
         <div class="container">
             <div class="upcoming-events__title d-flex justify-content-center">
-                <img src="img/videos.png" alt="" class="upcoming-events__title-fix">
+                <img src="img/upcoming_events.png" alt="" class="upcoming-events__title-fix">
             </div>
             {{-- <h1 class="upcoming-events__title mb0">upcoming-Events</h1>
             <h1 class="upcoming-events__title--shadow mb0">upcoming-Events</h1> --}}
@@ -132,49 +132,7 @@
                   
                 </div>
 
-                <div class="upcoming-events__card my-5">
-                    <div class="">
-                        <div class="upcoming-events__main-title row  mb30">
-                            <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
-                                <h4 class="upcoming-events__types mb0 pl-1">First Session</h4>
-                            </div>
-                            <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
-                                <div class="d-flex align-items-center">
-                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                </div>
-                                <h4 class="upcoming-events__types mb0 pl-1">Duration: 1hr 11min</h4>
-                            </div>
-                            <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
-                                <div class="d-flex align-items-center">
-                                    <i class="fa fa-calendar-o " ></i>
-                                </div>
-                                <h4 class="upcoming-events__types mb0 pl-1">Date: May 25 2021</h4>
-                            </div>
-                            <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
-                                <div class="d-flex align-items-center">
-                                    <i class="fa fa-play-circle" aria-hidden="true"></i>
-                                </div>
-                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" target="_blank" >Attend</a>
-                            </div>
-                            <div class="upcoming-events__border-fix">
-                            </div>
-                        </div>
-                        <div class="row m-0">
-                            <div class="upcoming-events__wrapper col-md-3">
-                                <div class="upcoming-events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" target="_blank">
-                                    <img src="img/YT_1.jpg"   alt="" class="upcoming-events__profile-fix"></a>
-                                </div>
-                            </div>
-                            <div class="col-md-9">
-                                <p class="upcoming-events__description mb0" >Great Conversation with Mr. Jayesh Kaushik and Mr. Vikash Jha, Founders of Ummeed, on how an individual can remain focussed in these challenging times and come out with flying colours. More importantly, how Bhagavad Gita can help swim through these high tides!!!
-                                    Unveil the power of Bhagavad Gita and how by choosing Lord Shri Krishna as our charioteer we can remain focussed in righteous action.</p>
-                            </div>
-
-                        </div>
-                    </div>
-                  
-                </div>
-               
+                
              
             </div>
         </div>
