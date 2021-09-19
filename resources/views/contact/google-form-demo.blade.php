@@ -5,6 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .modal__banner{
+            padding:40px;
+            display:flex;
+            justify-content:center;
+        }
+        .modal__banner-fix{
+            width:80%;
+        }
+        .modal__subtitle{
+            text-align:center;
+            font-weight:bold;
+            font-family: 'Samarkan';
+        }
+        .modal-header{
+            border:none;
+        }
+    </style>
 </head>
 <body>
 <script type="text/javascript">var submitted=false;</script>
@@ -84,9 +102,14 @@ $('#exampleModal').modal('toggle')
             <input name="entry.583034435" type="text" class="form-control" id="your_expectations" placeholder="Enter expectations">
         </div>
         <button type="submit" name="submit" class="btn btn-orange">SUBMIT</button>
+        <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+            Launch demo modal
+        </button> -->
     </form>
+    
+    
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
+        <div class="modal-dialog modal-sm" role="document">
             <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="exampleModalLabel">Gita Chanting Is Enchanting</h5>
@@ -95,11 +118,15 @@ $('#exampleModal').modal('toggle')
                 </button>
             </div>
             <div class="modal-body">
-                Submit Done
+                <div class="modal__banner ">
+                    <img src="img/homepage-banner.jpg" alt="" class="modal__banner-fix">
+                </div>
+                <h1 class="modal__subtitle">Submit Done</h1>
+                
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location='attend-form';">Close</button>
-            </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location='attend-form';">Close</button>
+                </div> -->
             </div>
         </div>
     </div>
