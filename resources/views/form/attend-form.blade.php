@@ -24,7 +24,7 @@
 				</div>
 			</div>
 			<div class="col-sm-6 offset-sm-1">
-				@include('contact/google-form')
+				@include('contact/google-form-demo')
 			</div>
 		</div>
 	</div>

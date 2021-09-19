@@ -10,7 +10,10 @@
     <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
 onload="if(submitted) {//alert('You have submitted your form');
-window.location='succes-attend-form';
+// window.location='succes-attend-form';
+// window.open('', '#exampleModal', 'width=400,height=400,resizeable,scrollbars');
+
+$('#exampleModal').modal('toggle')
 }"></iframe>
 
     <form method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMwfI0tVpHWSfU_MP6SSyR2r582Gs8uBKFcujXtC2-_rfNcA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
@@ -31,7 +34,26 @@ window.location='succes-attend-form';
             <label for="your_message">Message</label>
             <textarea name="entry.1932199715" id="your_massage" cols="30" rows="10" class="form-control"></textarea>
         </div>
-        <button type="submit" name="submit" class="btn btn-orange">SUBMIT</button>
+        <button type="submit" name="submit" class="btn btn-orange" >SUBMIT</button>
     </form>
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Gita Chanting Is Enchanting</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="window.location='attend-form';">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Submit Done
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location='attend-form';">Close</button>
+            </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 </html>
