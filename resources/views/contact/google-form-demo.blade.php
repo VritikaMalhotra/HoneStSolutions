@@ -7,12 +7,17 @@
     <title>Document</title>
     <style>
         .modal__banner{
-            padding:40px;
+            padding:0 40px;
             display:flex;
             justify-content:center;
         }
         .modal__banner-fix{
-            width:80%;
+            width:70%;
+        }
+        .modal-title{
+            /* font-family: 'Brush Script MT', cursive; */
+            /* font-weight:500; */
+            font-style:italic;
         }
         .modal__subtitle{
             text-align:center;
@@ -21,6 +26,14 @@
         }
         .modal-header{
             border:none;
+        }
+        .modal-footer{
+            justify-content:center;
+            border:none;
+        }
+        .modal-body{
+            padding-top:0;
+            padding-bottom:0;
         }
     </style>
 </head>
@@ -109,7 +122,7 @@ $('#exampleModal').modal('toggle')
     
     
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-dialog" role="document">
             <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="exampleModalLabel">Gita Chanting Is Enchanting</h5>
@@ -121,12 +134,12 @@ $('#exampleModal').modal('toggle')
                 <div class="modal__banner ">
                     <img src="img/homepage-banner.jpg" alt="" class="modal__banner-fix">
                 </div>
-                <h1 class="modal__subtitle">Submit Done</h1>
+                <h1 class="modal__subtitle mb-0">Thanks you for submitting</h1>
                 
             </div>
-                <!-- <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location='attend-form';">Close</button>
-                </div> -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location='attend-form';">Send another response</button>
+                </div>
             </div>
         </div>
     </div>
