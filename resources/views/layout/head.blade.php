@@ -518,17 +518,35 @@
     .navbar__item {
       display: inline-block;
       padding: 26px 20px;
-      ;
+      
       text-decoration: none;
       color: #fff;
       font-size: 20px;
       border-bottom: 2px solid black;
     }
+    @media(max-width: 1680px) {
+      .navbar__item {
+        padding: 26px 16px;
+        font-size: 18px;
+      }
+    }
+    @media(max-width: 1500px) {
+      .navbar__item {
+        padding: 26px 14px;
+        font-size: 18px;
+      }
+    }
 
     @media(max-width: 1440px) {
       .navbar__item {
-        padding: 16px 15px;
-        font-size: 18px;
+        padding: 16px 13px;
+        font-size: 17px;
+      }
+    }
+    @media(max-width: 1320px) {
+      .navbar__item {
+        padding: 16px 12px;
+        font-size: 15px;
       }
     }
 
@@ -539,10 +557,16 @@
         font-size: 13px;
       }
     }
+    @media(max-width: 1120px) {
+      .navbar__item {
+        padding: 16px 10px;
+        font-size: 13px;
+      }
+    }
     @media(max-width: 1024px) {
       .navbar__item {
-        padding: 14px 12px;
-        font-size: 13px;
+        padding: 14px 10px;
+        font-size: 12px;
       }
     }
     @media(max-width: 992px) {
