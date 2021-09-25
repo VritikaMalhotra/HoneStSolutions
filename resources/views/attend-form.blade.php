@@ -4,7 +4,7 @@
 
 
 @section('curosal-background',('ved19.jpg'))
-@section('curosal-title',('Experience the Power of Bhagvad Gita'))
+@section('curosal-title',('Gita Chanting is Enchanting'))
 @section('curosal-subtitle',(''))
 
 @section('main-content')
