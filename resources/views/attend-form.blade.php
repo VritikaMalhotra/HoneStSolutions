@@ -1,6 +1,6 @@
 @extends('app')
 
-<?php $page= ''; ?>
+<?php $page= 'register'; ?>
 
 
 @section('curosal-background',('ved19.jpg'))
