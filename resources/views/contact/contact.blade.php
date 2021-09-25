@@ -21,11 +21,11 @@
                 <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Emails</h4>
                 <div class="d-flex align-items-center mb-3">
                     <i class="fa fa-envelope" style="color:gray"></i>
-                    <p class="contact__mail pl-2 mb-0">prasun@honestsol.com</p>
+                    <p class="contact__mail pl-2 mb-0">prasun.honestsol@gmail.com</p>
                 </div>
                 <div class="d-flex align-items-center mb-3">
                     <i class="fa fa-envelope" style="color:gray"></i>
-                    <p class="contact__mail pl-2 mb-0">sandhya@honestsol.com</p>
+                    <p class="contact__mail pl-2 mb-0">sandhya.honestsol@gmail.com</p>
                 </div>
             </div>
             <div class="contact__wrap pb-3">
