@@ -10,7 +10,8 @@
             background-color: #FF9031;
             background-image: url(img/ved10.jpeg);
             background-repeat: no-repeat;
-            background-size: 1535px,800px;
+            /* background-size: 1535px,800px; */
+            background-size:cover;
         }
         .homepage-banner__wrapper{
             background-color: white;

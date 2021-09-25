@@ -519,20 +519,39 @@
       ;
       text-decoration: none;
       color: #fff;
-      font-size: 16px;
+      font-size: 20px;
       border-bottom: 2px solid black;
     }
 
     @media(max-width: 1440px) {
       .navbar__item {
         padding: 12px 15px;
-        font-size: 12px;
+        font-size: 18px;
       }
     }
 
+    
     @media(max-width: 1280px) {
       .navbar__item {
         padding: 10px 14px;
+        font-size: 14px;
+      }
+    }
+    @media(max-width: 1024px) {
+      .navbar__item {
+        padding: 10px 12px;
+        font-size: 13px;
+      }
+    }
+    @media(max-width: 992px) {
+      .navbar__item {
+        padding: 10px 10px;
+        font-size: 11px;
+      }
+    }
+    @media(max-width: 830px) {
+      .navbar__item {
+        padding: 10px 10px;
         font-size: 10px;
       }
     }
