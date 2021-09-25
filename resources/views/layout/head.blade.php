@@ -525,7 +525,7 @@
 
     @media(max-width: 1440px) {
       .navbar__item {
-        padding: 12px 15px;
+        padding: 16px 15px;
         font-size: 18px;
       }
     }
@@ -533,25 +533,25 @@
     
     @media(max-width: 1280px) {
       .navbar__item {
-        padding: 10px 14px;
-        font-size: 14px;
+        padding: 16px 12px;
+        font-size: 13px;
       }
     }
     @media(max-width: 1024px) {
       .navbar__item {
-        padding: 10px 12px;
+        padding: 14px 12px;
         font-size: 13px;
       }
     }
     @media(max-width: 992px) {
       .navbar__item {
-        padding: 10px 10px;
+        padding: 14px 8px;
         font-size: 11px;
       }
     }
     @media(max-width: 830px) {
       .navbar__item {
-        padding: 10px 10px;
+        padding: 14px 8px;
         font-size: 10px;
       }
     }

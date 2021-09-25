@@ -20,7 +20,7 @@
                 <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/books" class="navbar__item <?php if ($page=='books') {echo 'navbar__item_active';} ?>">Our Book</a>
-                    <a href="/attend-form" class="navbar__item <?php if ($page=='books') {echo 'navbar__item_active';} ?>">Register</a>
+                    <a href="/attend-form" class="navbar__item <?php if ($page=='register') {echo 'navbar__item_active';} ?>">Register</a>
                     <!-- </li> -->
                 <!-- <li class="navbar__wrap"> -->
                     <a href="/blogs" class="navbar__item <?php if ($page=='blogs') {echo 'navbar__item_active';} ?>">Blogs</a>
