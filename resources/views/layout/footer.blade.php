@@ -59,7 +59,7 @@
         <div class="footer__logo d-flex justify-content-center">
           <img src="img/Hone-ST-Logo.png" alt="" class="footer__logo-fix">
         </div>
-        <p style=" font-family: 'Brush Script MT', cursive; text-align:center;">Together We Can Make a Difference</p>
+        <p style=" font-family: 'Dancing Script', cursive; text-align:center;">Together We Can Make a Difference</p>
 
         <p>Hone ST solutions strives to equip you with the right resources to help your business succeed in today's hyper competitive markets. Our team with collective experience of 50+ years, will take care of all your needs.</p>
 
@@ -150,7 +150,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2021 Copyright:
-    <a href="https://honestsol.com/"> Hone ST solution</a>
+    <a href="https://honestsol.com/"> HONE ST SOLUTIONS</a>
   </div>
   <!-- Copyright -->
 
