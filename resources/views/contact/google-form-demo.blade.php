@@ -62,7 +62,7 @@ $('#exampleModal').modal('toggle')
         
   
         <div class="form-group">
-            <label for="your_sex">Sex</label>
+            <label for="your_sex">Gender</label>
             <select class="form-control" id="your_sex"  name="entry.1406660062" required>
                 <option value="">Select</option>
                 <option value="Male">Male</option>
@@ -81,7 +81,7 @@ $('#exampleModal').modal('toggle')
       
         <fieldset class="form-group">
             <div class="row">
-            <legend class="col-form-label col-sm-12 pt-0">RadiHow did you come to know about this batch?os</legend>
+            <legend class="col-form-label col-sm-12 pt-0">How did you come to know about this event?</legend>
             <div class="col-sm-12">
                 <div class="form-check">
                 <input class="form-check-input" type="radio" name="entry.1051315673" id="gridRadios1" value="Social Media (Facebook, Whatsapp, Instagram, Twitter)" required>
@@ -134,7 +134,7 @@ $('#exampleModal').modal('toggle')
                 <div class="modal__banner ">
                     <img src="img/homepage-banner.jpg" alt="" class="modal__banner-fix">
                 </div>
-                <h1 class="modal__subtitle mb-0">Thanks you for submitting</h1>
+                <h1 class="modal__subtitle mb-0">Thank you for submitting</h1>
                 
             </div>
                 <div class="modal-footer">
