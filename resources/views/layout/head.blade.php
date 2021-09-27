@@ -611,7 +611,7 @@
       } */
 
       .showing {
-        max-height: 45em;
+        max-height: 100%;
       }
 
       .navbar__item {
