@@ -95,25 +95,25 @@
                     <div class="">
                         <div class="upcoming-events__main-title row  mb30">
                             <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
-                                <h4 class="upcoming-events__types mb0 pl-1">First Session</h4>
+                                <h4 class="upcoming-events__types mb0 pl-1">Gita Chanting</h4>
                             </div>
-                            <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
+                            {{-- <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                 </div>
                                 <h4 class="upcoming-events__types mb0 pl-1">Duration: 1hr 11min</h4>
-                            </div>
+                            </div> --}}
                             <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-calendar-o " ></i>
                                 </div>
-                                <h4 class="upcoming-events__types mb0 pl-1">Date: May 25 2021</h4>
+                                <h4 class="upcoming-events__types mb0 pl-1">Date: 09 OCT 2021</h4>
                             </div>
                             <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
                                 <div class="d-flex align-items-center">
                                     <i class="fa fa-play-circle" aria-hidden="true"></i>
                                 </div>
-                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" href="/attend-form" >Attend</a>
+                                <a href="/attend-form" class="upcoming-events__types-link mb0 pl-1" href="/attend-form" >Register</a>
                             </div>
                             <div class="upcoming-events__border-fix">
                             </div>
@@ -121,11 +121,12 @@
                         <div class="row m-0">
                             <div class="upcoming-events__wrapper col-md-3">
                                 <div class="upcoming-events__profile d-flex">
-                                    <img src="img/bhagvad_event.jpg"   alt="" class="upcoming-events__profile-fix"></a>
+                                    <img src="img/event9thoct.jpeg"   alt="" class="upcoming-events__profile-fix"></a>
                                 </div>
                             </div>
                             <div class="col-md-9">
-                                <p class="upcoming-events__description mb0" style="color:black !important">Chapter 18 is the summary (of the earlier 17 chapters) of The Bhagavad Gita and it is said that anyone who has read, understood and implemented this chapter of The Bhagavad Gita has read, understood and implemented whole of The Bhagavad Gita.</p>
+                                <p class="upcoming-events__description mb0" style="color:black !important">In chapter 18 verse (shloka) no.70, Bhagawan Shri Krishna tells Arjuna that anyone who reads the Bhagavad Gita will worship me by her/his worship of wisdom. <br>
+                                    That’s the power of The Bhagavad Gita! However, one needs to first learn how to read this great scripture in the original sanskrit text. Through this batch of “Gita Chanting Is Enchanting” we bring you Chapter 18 of The Bhagavad Gita wherein we will help you learn how to read the verses (shlokas) correctly and what each shloka stand for.</p>
                             </div>
 
                         </div>

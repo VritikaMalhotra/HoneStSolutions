@@ -166,7 +166,7 @@
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Apple21-10-2018.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>21-10,18-12-2018</h2>
+                    <h2 class=timeline__content-title>21-10,08-12-2018</h2>
                     <p class="timeline__content-desc"><b>Apple Inc.</b><br>Our two sessions of "Discover the Arjuna in You" were held with the employees of Apple, West India Zone comprising employees from Gujarat, Maharastra and MP .</p>
                 </div>
             </div>
@@ -401,7 +401,7 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>12-27th Feb'21 & 12, 19th Mar'21</h2>
+                    <h2 class=timeline__content-title>12-27th Feb'21 & 12,19th Mar'21</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
@@ -429,7 +429,7 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>27th July &4th Aug'21</h2>
+                    <h2 class=timeline__content-title>27th July & 4th Aug'21</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
