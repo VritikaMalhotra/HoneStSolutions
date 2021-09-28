@@ -56,7 +56,7 @@ In chapter 18 verse (shloka) no.70, Bhagawan Shri Krishna tells Arjuna that anyo
 					<p class="attend-page__subtitle">That’s the power of The Bhagavad Gita! However, one needs to first learn how to read this great scripture in the original sanskrit text. Through this batch of “Gita Chanting Is Enchanting” we bring you Chapter 18 of The Bhagavad Gita wherein we will help you learn how to read the verses (shlokas) correctly and what each shloka stand for.</p>
 					<br>
 					<p class="attend-page__subtitle">Unveil the power of The Bhagavad Gita over the next 12-14 sessions while you learn to read and experience the power of chanting!</p>
-				<h4 class="attend-page__subtitle">Time : 10am – 11am <br>Day : Every Saturday <br>Starting : 9th October 2021.<br>
+				<h4 class="attend-page__subtitle">Time : 10am – 11am. <br>Day : Every Saturday & Sunday.<br>Starting : 9th October 2021.<br>Ending : 21st November 2021.
 </h4>
 				</div>
 			</div>
