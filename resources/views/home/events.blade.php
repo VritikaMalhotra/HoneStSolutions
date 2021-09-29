@@ -77,6 +77,36 @@
             <div class="events__cards">
                 <div class="row events__card my-5">
                     <div class="events__wrapper col-md-3">
+                        <h3 class="events__name">Discover the ARJUNA in You</h3>
+                        <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=TA52gzyU768" target="_blank">
+                            <img src="img/ama_video.jpg"   alt="" class="events__profile-fix"></a>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="row mb30">
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
+                                <div class="d-flex align-items-center">
+                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                </div>
+                                <h4 class="events__types mb0 pl-1">Duration: 58 min</h4>
+                            </div>
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
+                                <div class="d-flex align-items-center">
+                                    <i class="fa fa-calendar-o " ></i>
+                                </div>
+                                <h4 class="events__types mb0 pl-1">Date: Sept 20 2021</h4>
+                            </div>
+                            <div class="events__media-wrap d-flex col-lg-4 col-md-6 col-sm-6">
+                                <div class="d-flex align-items-center">
+                                    <i class="fa fa-play-circle" aria-hidden="true"></i>
+                                </div>
+                                <a href="https://www.youtube.com/watch?v=TA52gzyU768" class="events__types-link mb0 pl-1" target="_blank">View video</a>
+                            </div>
+                        </div>
+                        <p class="events__description mb0" >Discover the ARJUNA in You by Mr. Prasun Kundu Corporate Trainer & Consultant September 18, 2021.</div>
+                </div>
+                <div class="row events__card my-5">
+                    <div class="events__wrapper col-md-3">
                         <h3 class="events__name">In conversation with Ummeed!</h3>
                         <div class="events__profile d-flex"><a href="https://www.youtube.com/watch?v=1nI-Sa1uf-E" target="_blank">
                             <img src="img/YT_1.jpg"   alt="" class="events__profile-fix"></a>

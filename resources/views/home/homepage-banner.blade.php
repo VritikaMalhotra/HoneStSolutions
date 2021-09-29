@@ -71,11 +71,11 @@
         <div class="container">
             <div class="row homepage-banner__wrapper">
                 <div class="col-md-6">
-                    <h1 class="homepage-banner__title mb0" >Our Vision</h1>
+                    <h1 class="homepage-banner__subtitle mb0" style="font-size: 50px">Our Vision</h1>
                     
                     {{-- <h2 class="homepage-banner__subtitle mb0">Solutions</h2> --}}
                     <h2 class="homepage-banner__title mb30" style=" font-family: 'Brush Script MT', cursive;"></h2>
-                    <h2 class="homepage-banner__title sb0">Share learnings from Bhagavad Gita with maximum people to increase happiness quotient.</h2>
+                    <h2 class="homepage-banner__title sb0">Share learnings from Bhagavad Gita with maximum people to increase happiness quotient</h2>
                     {{-- <div class="d-flex justify-content-center"> --}}
                         <a href="#our_services" class="btn btn-orange">Explore Now</a>
                     {{-- </div> --}}

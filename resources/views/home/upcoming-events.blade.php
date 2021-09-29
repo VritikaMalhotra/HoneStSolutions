@@ -126,7 +126,7 @@
                             </div>
                             <div class="col-md-9">
                                 <p class="upcoming-events__description mb0" style="color:black !important">In chapter 18 verse (shloka) no.70, Bhagawan Shri Krishna tells Arjuna that anyone who reads the Bhagavad Gita will worship me by her/his worship of wisdom. <br>
-                                    That’s the power of The Bhagavad Gita! However, one needs to first learn how to read this great scripture in the original sanskrit text. Through this batch of “Gita Chanting Is Enchanting” we bring you Chapter 18 of The Bhagavad Gita wherein we will help you learn how to read and chant the verses (shlokas) correctly and what each verse stand for. Come Experience Power of Bhagavad Gita Chanting.</p>
+                                    That’s the power of The Bhagavad Gita! However, one needs to first learn how to read this great scripture in the original sanskrit text. Through this batch of “Gita Chanting Is Enchanting” we bring you Chapter 18 of The Bhagavad Gita wherein we will help you learn how to read the verses (shlokas) correctly and what each shloka stand for.</p>
                             </div>
 
                         </div>
