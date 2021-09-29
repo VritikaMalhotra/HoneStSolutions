@@ -154,8 +154,8 @@
 (Attend AMA lecture)
 "</p>
                             <h6 class="people-card__name mb-0">-Helly Dholakiya</h6>
-                            <h6 class="people-card__position mb-0">School of Petroleum ManagemenlllGuest
-Lecture Commlnee MemberllComent Writer
+                            <h6 class="people-card__position mb-0">School of Petroleum Management, Guest
+Lecture Committee Member, Content Writer
 SPM Mirror
 
 </h6>
