@@ -22,6 +22,9 @@
 	 padding: 0 10px;
 	 box-sizing: border-box;
 	 color: #fff;
+      background-color: black;
+    position: relative;
+    opacity: 0.8;
 }
  .timeline__content-desc {
 	 margin: 0;
@@ -91,6 +94,7 @@
 	 top: 50%;
 	 transition: 0.3s all 0.2s;
 	 opacity: 1;
+	 margin: -38px 0 15px 0;
 }
  .timeline-item--active .timeline__content-title {
 	 margin: -33px 0 15px 0;
