@@ -170,7 +170,7 @@
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Apple21-10-2018.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>21-10,08-12-2018</h2>
+                    <h2 class=timeline__content-title>21-10-2018,08-12-2018</h2>
                     <p class="timeline__content-desc"><b>Apple Inc.</b><br>Our two sessions of "Discover the Arjuna in You" were held with the employees of Apple, West India Zone comprising employees from Gujarat, Maharastra and MP .</p>
                 </div>
             </div>
@@ -213,20 +213,21 @@
 	<a href="https://youtu.be/68fLyFiaDoM">https://youtu.be/68fLyFiaDoM</a></p>
                 </div>
             </div>
-			<div class="timeline-item" data-text="">
-                <div class="timeline__content">
-                    <img src="img/Adani26-07-2019.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>25,26-06-2019</h2>
-                    <p class="timeline__content-desc"><b>Adani Solar & Power</b><br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
-                </div>
-            </div>
-			<div class="timeline-item" data-text="">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/calorx26-06-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>26-06-2019</h2>
                     <p class="timeline__content-desc"><b>Calorx Public School</b><br>Importance of focusing on goals through the teachings of the Bhagavad Gita. The students were motivated to read, understand imbibe and implement the teachings of Bhagavad Gita in their daily lives to enrich living in pursuit to happiness! Two copies of " The Corporate Bhagavad Gita - Discover the Arjuna in You" were presented to the school Library.</p>
                 </div>
             </div>
+			<div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/Adani26-07-2019.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>25-07-2021,26-07-2019</h2>
+                    <p class="timeline__content-desc"><b>Adani Solar & Power</b><br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
+                </div>
+            </div>
+			
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/iimm10-08-2019.png" alt="" class="timeline__img">
@@ -237,7 +238,7 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Adani21-08-2019.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>20-21 August 2019</h2>
+                    <h2 class=timeline__content-title>20-08-2021,21-08-2021</h2>
                     <p class="timeline__content-desc"><b>Adani Solar</b></br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" </p>
                 </div>
             </div>
@@ -262,35 +263,7 @@
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Leadership, Motivation and Time Management. Highly interactive session appreciated by all participants</p>
                 </div>
 			</div>
-			<div class="timeline-item" data-text="">
-                <div class="timeline__content">
-                    <img src="img/Ama12-09-2019.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>13-09-2019</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Managing Teams. Highly interactive session appreciated by all participants</p>
-                </div>
-            </div>
-			<div class="timeline-item" data-text="">
-                <div class="timeline__content">
-                    <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>15-09-2019</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
-                </div>
-            </div>
-			<div class="timeline-item" data-text="">
-                <div class="timeline__content">
-                    <img src="img/ama19-09-2019.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>19-09-2019</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"</p>
-                </div>
-            </div>
-			<div class="timeline-item" data-text="">
-                <div class="timeline__content">
-                    <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>20-09-2019</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Second batch of Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
-                </div>
-            </div>
-			<div class="timeline-item" data-text="">
+            <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/Reliance25-09-2019.png" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>25-09-2019</h2>
@@ -299,29 +272,58 @@
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
+                    <img src="img/Ama12-09-2019.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>13-10-2019</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Rashtriya Bal Swasthya Karyakram (RBSK) representatives on Managing Teams. Highly interactive session appreciated by all participants</p>
+                </div>
+            </div>
+			<div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/ama.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>15-10-2019</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
+                </div>
+            </div>
+			<div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/ama19-09-2019.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>19-10-2019</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management. Each participant was presented with a signed copy of our book "The Corporate Bhagavad Gita - Discover The Arjuna in You"</p>
+                </div>
+            </div>
+			<div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/ama.png" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>20-10-2019</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Second batch of Training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
+                </div>
+            </div>
+			
+			<div class="timeline-item" data-text="">
+                <div class="timeline__content">
                     <img src="img/Adani15-11-2019.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>15-16 November 2019</h2>
+                    <h2 class=timeline__content-title>15-11-2019,16-11-2019</h2>
                     <p class="timeline__content-desc"><b>Adani Solar</b><br>Two days workshop of our signature program - "Discover The Arjuna In You" which invlolves using the concepts of Bhagavad Gita to increase productivity of individuals towards greater productivity of the organization. Each participant was given a copy of the book "The Corporate Bhagavad Gita" .</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>23-24th Nov'19</h2>
+                    <h2 class=timeline__content-title>23-11-2019,24-11-2019</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Third batch of training done for Tourists Guides to be deployed at the Statue of Unity (SoU). Highly interactive session appreciated by all participants</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>16-17-18-19th Mar'20</h2>
+                    <h2 class=timeline__content-title>16,17,18,19-03-2020</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Enhancing Sales and Service Marketing Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online1.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>8-25th May'20</h2>
+                    <h2 class=timeline__content-title>8-25th May'2020</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>First batch (online). Duration of the program was 28 hrs.</p>
                 </div>
             </div>
@@ -342,7 +344,7 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online1.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>1-16th Jun'20</h2>
+                    <h2 class=timeline__content-title>1-16th June'2020</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Second Batch (online). The duration of program was 24hrs.</p>
                 </div>
             </div>
@@ -356,7 +358,7 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online2.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>22Jun - 6th Jul'20</h2>
+                    <h2 class=timeline__content-title>22 June - 6th July'2020</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Third Batch (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
@@ -377,42 +379,42 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>11 Jul - 16 Aug'20</h2>
+                    <h2 class=timeline__content-title>11 Jul - 16 Aug'2020</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Fourth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/onlineweekendbatch.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>22 Aug - 27Sep'20</h2>
+                    <h2 class=timeline__content-title>22 Aug - 27 Sep'2020</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Fifth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/online2.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>5Dec'20 - 03Jan'21</h2>
+                    <h2 class=timeline__content-title>5 Dec'2020 - 03Jan'2021</h2>
                     <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Sixth - Weekend Batch (Sat-Sun) (online). The duration of this program was 24hrs.</p>
                 </div>
             </div>
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/mica25-02-2021.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>07-08-2021</h2>
+                    <h2 class=timeline__content-title>25,26-02-2021</h2>
                     <p class="timeline__content-desc"><b>MICA</b><br>Sales and Distribution Management with students of final year</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>12-27th Feb'21 & 12,19th Mar'21</h2>
+                    <h2 class=timeline__content-title>12-27th Feb'2021 & 12,19th Mar'2021</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>12-13-19th Apr'21</h2>
+                    <h2 class=timeline__content-title>12,13,19th Apr'21</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Retail and Wholesale and Sales Promotion Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
@@ -426,21 +428,21 @@
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>13-14th May 2021</h2>
+                    <h2 class=timeline__content-title>13,14th May 2021</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Enhancing Sales Management for Senior Management. Highly appreciated by participants on account of real life examples and case study to help build right prespective on the concepts</p>
                 </div>
             </div>
 			<div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/ama.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>27th July & 4th Aug'21</h2>
+                    <h2 class=timeline__content-title>27-07-2021,04-08-2021</h2>
                     <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Sales Management for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
                 </div>
             </div>
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/nldalmia29-07-2021.png" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>07-08-2021</h2>
+                    <h2 class=timeline__content-title>29-07-2021</h2>
                     <p class="timeline__content-desc"><b>NL Dalmia Institute of Management Studies and Research</b><br>Leadership lessons from Bhagavad Gita for the freshers getting inducted to the institute</p>
                 </div>
             </div>
@@ -465,15 +467,17 @@ Today's realization - 'Online' cannot replace 'Offline' in training... The conne
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
                     <img src="img/upcoming13-09-2021.PNG" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>13-09-2021</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Upcoming...</p>
+                    <h2 class=timeline__content-title>13-09-2021 to 24-09-2021  </h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>First offline batch post pandemic came as a waft of fresh air with highly engaged participants from Sales and Marketing professionals to entrepreneurs from various industries and walk of life.
+                        The feedback from participants stand as a testimony to the engagement and the value add experienced!</p>
                 </div>
             </div>
+            
             <div class="timeline-item" data-text="">
                 <div class="timeline__content">
-                    <img src="img/upcoming18-09-2021.jpeg" alt="" class="timeline__img">
-                    <h2 class=timeline__content-title>18-09-2021</h2>
-                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Upcoming...</p>
+                    <img src="img/event9thoct.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>09-10-2021</h2>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Upcoming...</p>
                 </div>
             </div>
            
