@@ -144,6 +144,24 @@
                         </div>
                     </a>
 
+                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/dummy_person.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"It was a great session today Thank you for sharing your plethora of knowledge and expertise in Bhagwat Gita. Regards.
+
+(Attend AMA lecture)
+"</p>
+                            <h6 class="people-card__name mb-0">-Helly Dholakiya</h6>
+                            <h6 class="people-card__position mb-0">School of Petroleum ManagemenlllGuest
+Lecture Commlnee MemberllComent Writer
+SPM Mirror
+
+</h6>
+                        </div>
+                    </a>
+
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
                             <img src="img/People2.jpg" alt="" class="people-card__logo-fix">
@@ -175,6 +193,21 @@
                             <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
                         </div>
                     </a>
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/dummy_person.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Had a good learning in today's
+seminar, thank you for answering
+my question.Also, I was in the ﬁrst
+row Hope to hear more from you
+soon.
+"</p>
+                            <h6 class="people-card__name mb-0">-Mr Jainam Shah</h6>
+                            <h6 class="people-card__position mb-0">Kotak Mahindra Life</h6>
+                        </div>
+                    </a>
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
@@ -184,6 +217,21 @@
                             <p class="people-card__description">"With the help of this training I discovered the Arjuna in me. I need to focus on Gyan and Dhruti"</p>
                             <h6 class="people-card__name mb-0">-Mr Nilesh J Savani</h6>
                             <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                        </div>
+                    </a>
+
+ <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/dummy_person.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Thank you, sir, for yesterday
+insightful seminar, learned a lot, will
+work more on discovering Arjuna
+within myself.
+"</p>
+                            <h6 class="people-card__name mb-0">-Mr Akhil Awasthi</h6>
+                            <h6 class="people-card__position mb-0">Intern at Profitmart Securities Pvt. Ltd.</h6>
                         </div>
                     </a>
 
@@ -197,6 +245,17 @@
                             <h6 class="people-card__position mb-0">Associate Manager, Adani Solar</h6>
                         </div>
                     </a>
+<a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/dummy_person.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Thank you sir for wonderful guidance
+I was an attendee in this seminar"</p>
+                            <h6 class="people-card__name mb-0">-Mr Jaydev Joshi</h6>
+                            <h6 class="people-card__position mb-0">Sr. Advertising Data Analyst at Kinetiq</h6>
+                        </div>
+                    </a>
 
                     <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
                         <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
@@ -206,6 +265,20 @@
                             <p class="people-card__description">"I discovered the Arjuna in me which will help me – 1. As a leader in an organization 2. As a person 3. Tide through difficult times/exams in life                                "</p>
                             <h6 class="people-card__name mb-0">-Mr Ashok Kumar</h6>
                             <h6 class="people-card__position mb-0">Senior Engineer, Adani Solar</h6>
+                        </div>
+                    </a>
+
+                    <a href="#" class="people-card col-lg-4 col-md-6 col-sm-6 pt-5">
+                        <div class="people-card__logo d-flex justify-content-center px-0 mb-4">
+                            <img src="img/dummy_person.png" alt="" class="people-card__logo-fix">
+                        </div>
+                        <div class="people-card__content px-0">
+                            <p class="people-card__description">"Thank You Sir. It was a wonderfull
+session that I attended today.
+Guidance given by you will definitely
+help a lot."</p>
+                            <h6 class="people-card__name mb-0">-Tanvi Shah</h6>
+                            <h6 class="people-card__position mb-0">Master of Business Administration</h6>
                         </div>
                     </a>
 
