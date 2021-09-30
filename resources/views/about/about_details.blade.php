@@ -49,7 +49,7 @@ Germination of an idea in the year 2018 is beginning to show the green shoots of
                         <div class="d-flex justify-content-center">
                             <img src="img/Hone-ST-Logo.png" alt="Free Bootstrap Template by uicookies.com" class="about_details__image-fix">
                         </div>
-                        <p style=" font-family: 'Brush Script MT', cursive; text-align:center;">Together We Can Make a Difference</p>
+                        <!-- <p style=" font-family: 'Brush Script MT', cursive; text-align:center;">Together We Can Make a Difference</p> -->
                     </div>
                     <div class="col-md-6 col-md-pull-6 about_details__content">
                         <h2 style="font-family: 'Samarkan', sans-serif;">Our Story</h2>

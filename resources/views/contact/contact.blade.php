@@ -62,7 +62,7 @@
                 <div class="contact__logo d-flex justify-content-center">
                     <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">
                 </div>
-                <p class="contact__subtitle" style=" font-family: 'Brush Script MT', cursive;">Together We Can Make a Difference</p>
+                <!-- <p class="contact__subtitle" style=" font-family: 'Brush Script MT', cursive;">Together We Can Make a Difference</p> -->
             </div>
         </div>
 

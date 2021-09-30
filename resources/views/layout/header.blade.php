@@ -7,7 +7,7 @@
             <div class="home-st-logo__image d-flex justify-content-center">
                 <img src="img/Hone-ST-Logo.png" alt="" class="home-st-logo-fix">
             </div>
-            <p class="home-logo-title m-0" style=" font-family: 'Brush Script MT', cursive;">Together We Can Make a Difference</p>
+            <!-- <p class="home-logo-title m-0" style=" font-family: 'Brush Script MT', cursive;">Together We Can Make a Difference</p> -->
 
         </div>
         <div class="menu">

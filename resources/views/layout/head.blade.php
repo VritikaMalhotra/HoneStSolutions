@@ -477,7 +477,7 @@
 
     @media(max-width: 1024px) {
       .logo {
-        padding: 5px 0px;
+        /* padding: 5px 0px; */
       }
     }
 
@@ -598,7 +598,7 @@
 
       .logo {
         position: absolute;
-        top: 0;
+        top: 1%;
         /* margin-top: -64px; */
       }
 
