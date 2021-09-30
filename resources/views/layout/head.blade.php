@@ -480,7 +480,7 @@
 
     @media(max-width: 1024px) {
       .logo {
-        /* padding: 5px 0px; */
+        padding:  0px;
       }
     }
 
