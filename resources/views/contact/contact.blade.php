@@ -16,7 +16,7 @@
 </head>
 <body>
     <div class="row m-0">
-        <div class="col-lg-7 col-sm-6 p-0">
+        <div class="col-lg-6 col-sm-6 p-0">
             <div class="contact__wrap pb-3">
                 <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Emails</h4>
                 <div class="d-flex align-items-center mb-3">
@@ -57,7 +57,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-5 col-sm-6 p-0 ">
+        <div class="col-lg-6 col-sm-6 p-0 ">
             <div class="contact__wrap pb-3">
                 <div class="contact__logo d-flex justify-content-center">
                     <img src="img/Hone-ST-Logo.png" alt="" class="contact__logo-fix">

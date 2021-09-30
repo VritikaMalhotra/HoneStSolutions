@@ -456,13 +456,13 @@
 
     @media(max-width: 1440px) {
       nav .home-st-logo-fix {
-        width: 80px;
+        width: 100px;
       }
     }
 
-    @media(max-width: 768px) {
+    @media(max-width: 786px) {
       nav .home-st-logo-fix {
-        width: 100px;
+        width: 120px;
       }
     }
 
@@ -480,7 +480,7 @@
 
     @media(max-width: 1024px) {
       .logo {
-        padding:  0px;
+        padding:  5px 0px;
       }
     }
 
@@ -542,13 +542,13 @@
 
     @media(max-width: 1440px) {
       .navbar__item {
-        padding: 16px 13px;
+        padding: 24px 13px;
         font-size: 17px;
       }
     }
     @media(max-width: 1320px) {
       .navbar__item {
-        padding: 16px 12px;
+        padding: 24px 12px;
         font-size: 15px;
       }
     }
@@ -556,13 +556,13 @@
     
     @media(max-width: 1280px) {
       .navbar__item {
-        padding: 16px 12px;
+        padding: 24px 12px;
         font-size: 13px;
       }
     }
     @media(max-width: 1120px) {
       .navbar__item {
-        padding: 16px 10px;
+        padding: 24px 10px;
         font-size: 13px;
       }
     }

@@ -30,7 +30,12 @@
             }
             @media(max-width: 1440px) {
                 .main-content {
-                    padding-top: 66px;
+                    padding-top: 80px;
+                }
+            }
+            @media(max-width: 1024px) {
+                .main-content {
+                    padding-top: 60px;
                 }
             }
             @media(max-width: 786px) {
