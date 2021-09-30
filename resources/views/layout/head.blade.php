@@ -462,7 +462,7 @@
 
     @media(max-width: 786px) {
       nav .home-st-logo-fix {
-        width: 120px;
+        width: 90px;
       }
     }
 
