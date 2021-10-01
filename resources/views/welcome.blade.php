@@ -26,21 +26,21 @@
             }
             .main-content{
                 background-color:#e7e7e7;
-                padding-top: 95px;
+                
             }
             @media(max-width: 1440px) {
                 .main-content {
-                    padding-top: 80px;
+                    
                 }
             }
             @media(max-width: 1024px) {
                 .main-content {
-                    padding-top: 60px;
+                    
                 }
             }
             @media(max-width: 786px) {
                 .main-content {
-                    padding-top: 90px;
+                    
                 }
             }
             .background-our-mission{
