@@ -547,7 +547,7 @@
       .dropdown-item{
         box-sizing: border-box;
     width: 100%;
-    padding: 24px;
+    padding: 10px;
     text-align: center;
     font-size: 20px;
       }
@@ -619,6 +619,11 @@
       .navbar__item {
         padding: 14px 8px;
         font-size: 10px;
+      }
+    }
+    @media(max-width: 480px) {
+      .navbar__item {
+        padding: 14px;
       }
     }
 .dropdown-item{
