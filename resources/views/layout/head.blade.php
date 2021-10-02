@@ -438,7 +438,7 @@
       /* background: url('img/img_sm_1.jpg') no-repeat 50% 50%;
       background-size: cover; */
       /* background: transparent; */
-      position: fixed;
+      position: relative;
       z-index: 9999;
     }
 

@@ -83,7 +83,7 @@ Consulting and research for Roasty Tasty, Boss Leathers, Mobile Anti-Radiation C
                 </a>
                 <a href="#" class="profile-card profile-card-second col-md-6 col-sm-6 pb-5">
                     <div class="profile-card__logo d-flex justify-content-center px-0 mb-4">
-                        <img src="img/sandhya_mam_profile.png" alt="" class="profile-card__logo-fix">
+                        <img src="img/sandhya_mam_profile_crop.png" alt="" class="profile-card__logo-fix">
                     </div>
                     <div class="profile-card__content px-0">
                         <h3 class="profile-card__name mb-0">Sandhya Prasun <span class="" style="font-family: 'Samarkan', sans-serif;">Kundu</span></h3>
