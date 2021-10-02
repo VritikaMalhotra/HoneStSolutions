@@ -47,6 +47,14 @@
                                 </div>
                         
                     </li>
+                    <!-- <li class="dropdown">
+                        <button class="dropbtn">Dropdown</button>
+                        <div class="dropdown-content">
+                            <a href="/about">Link 1</a>
+                            <a href="#">Link 2</a>
+                            <a href="#">Link 3</a>
+                        </div>
+                    </li> -->
                 <li>
                     <a href="/gallery" class="navbar__item <?php if ($page=='gallery') {echo 'navbar__item_active';} ?>">Gallery</a>
                 </li>
