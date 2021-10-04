@@ -31,22 +31,34 @@
                 <li>
                     <a href="/service" class="navbar__item <?php if ($page=='service') {echo 'navbar__item_active';} ?>">Our Services</a>
                 </li>
-                    <!-- <a href="/about" class="navbar__item <?php if ($page=='about') {echo 'navbar__item_active';} ?>">About Us</a> -->
-
+                <!-- <li>
+                    <a href="/about" class="navbar__item <?php if ($page=='about') {echo 'navbar__item_active';} ?>">About Us</a>
+                </li> -->
                     <li class="nav-item dropdown">
                         
-                            <a href="" class="navbar__item dropdown-toggle <?php if ($page=='books')  {echo 'dropdown-item_active';} ?> <?php if ($page=='people') {echo 'dropdown-item_active';} ?><?php if ($page=='our-journey') {echo 'dropdown-item_active';} ?>"  id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                About Us
-                            </a>
+                            <div class="navbar__item dropdown-toggle <?php if ($page=='about')  {echo 'dropdown-item_active';} ?> <?php if ($page=='books')  {echo 'dropdown-item_active';} ?> <?php if ($page=='people') {echo 'dropdown-item_active';} ?><?php if ($page=='our-journey') {echo 'dropdown-item_active';} ?>"  id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                
+                            <?php if ($page=='about')  {echo 'About Us';}  else if($page=='books')  {echo 'Our Book';} else if($page=='people')  {echo 'Testimonials';}  else if($page=='our-journey')  {echo 'Our journey';} else{echo 'About Us';} ?>
+                                
+                            </div>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a href="/books" class="dropdown-item <?php if ($page=='books') {echo 'dropdown-item_active';} ?>">Our Book</a>
-                                <!-- <a href="/about" class="dropdown-item <?php if ($page=='about') {echo 'dropdown-item_active';} ?>">About Us</a> -->
+                                <a href="/about" class="dropdown-item <?php if ($page=='about') {echo 'dropdown-item_active';} ?>">About Us</a>
                                 <a href="/people" class=" dropdown-item <?php if ($page=='people') {echo 'dropdown-item_active';} ?>">Testimonials</a>
                                 <a href="/our-journey" class="dropdown-item <?php if ($page=='our-journey') {echo 'dropdown-item_active';} ?>">Our journey</a>
-                                <!-- <a class="dropdown-item" href="#">Action</a> -->
-                                </div>
+                            </div>
                         
                     </li>
+                    <!-- <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Dropdown button
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </div> -->
                     <!-- <li class="dropdown">
                         <button class="dropbtn">Dropdown</button>
                         <div class="dropdown-content">
