@@ -42,13 +42,13 @@
             <div class="contact__wrap pb-3">
                 <h4 class="contact__title mb-3" style="font-family: 'Samarkan', sans-serif;">Social Media</h4>
                 <div class="d-flex contact__socail-icons align-items-center">
-                    <a href="https://www.instagram.com/author_prasunkundu/" target="_blank">
+                    <a href="https://www.instagram.com/hone_st_solutions/" target="_blank">
                         <i class="fa fa-instagram pr-3" style="color:gray"></i>
                     </a>
-                    <a href="https://www.facebook.com/DiscovertheArjunainYou/" target="_blank">
+                    <a href="https://www.facebook.com/HoneST.Solutions.BhagavadGita" target="_blank">
                         <i class="fa fa-facebook pr-3" style="color:gray"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/prasun-kundu" target="_blank">
+                    <a href="https://www.linkedin.com/company/hone-st-solutions/" target="_blank">
                         <i class="fa fa-linkedin pr-3" style="color:gray"></i>
                     </a>
                     <a href="https://twitter.com/sandhyaprasun?s=08" target="_blank">

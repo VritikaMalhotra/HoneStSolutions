@@ -18,9 +18,9 @@
                 </li>
             
                     <!-- <a href="/books" class="navbar__item <?php if ($page=='books') {echo 'navbar__item_active';} ?>">Our Book</a> -->
-                <li>
+                <!-- <li>
                     <a href="/attend-form" class="navbar__item <?php if ($page=='register') {echo 'navbar__item_active';} ?>">Register</a>
-                </li>
+                </li> -->
             
                 <li>
                     <a href="/blogs" class="navbar__item <?php if ($page=='blogs') {echo 'navbar__item_active';} ?>">Blogs</a>
@@ -45,7 +45,7 @@
                                 <a href="/books" class="dropdown-item <?php if ($page=='books') {echo 'dropdown-item_active';} ?>">Our Book</a>
                                 <a href="/about" class="dropdown-item <?php if ($page=='about') {echo 'dropdown-item_active';} ?>">About Us</a>
                                 <a href="/people" class=" dropdown-item <?php if ($page=='people') {echo 'dropdown-item_active';} ?>">Testimonials</a>
-                                <a href="/our-journey" class="dropdown-item <?php if ($page=='our-journey') {echo 'dropdown-item_active';} ?>">Our journey</a>
+                                <a href="/our-journey" class="dropdown-item <?php if ($page=='our-journey') {echo 'dropdown-item_active';} ?>">Our Journey</a>
                             </div>
                         
                     </li>

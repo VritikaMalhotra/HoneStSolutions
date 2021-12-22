@@ -125,13 +125,13 @@
           <p>
             <i class="fa fa-print mr-3"></i> + 01 234 567 89</p> --}}
         <div class="d-flex footer__socail-icons align-items-center">
-          <a href="https://www.instagram.com/author_prasunkundu/" target="_blank">
+          <a href="https://www.instagram.com/hone_st_solutions/" target="_blank">
             <i class="fa fa-instagram pr-3" style="color:white"></i>
           </a>
-          <a href="https://www.facebook.com/DiscovertheArjunainYou/" target="_blank">
+          <a href="https://www.facebook.com/HoneST.Solutions.BhagavadGita" target="_blank">
             <i class="fa fa-facebook pr-3" style="color:white"></i>
           </a>
-          <a href="https://www.linkedin.com/in/prasun-kundu" target="_blank">
+          <a href="https://www.linkedin.com/company/hone-st-solutions/" target="_blank">
             <i class="fa fa-linkedin pr-3" style="color:white"></i>
           </a>
           <a href="https://twitter.com/sandhyaprasun?s=08" target="_blank">

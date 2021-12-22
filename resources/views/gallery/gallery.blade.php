@@ -103,6 +103,13 @@
                         <a href="img/assign5.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/assign5.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        <a href="img/BecomeALeader2.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader2.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/BecomeALeader6.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader6.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                       
 
                     </div>
 
@@ -135,6 +142,13 @@
                         <a href="img/assign6.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/assign6.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        <a href="img/BecomeALeader3.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader3.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/BecomeALeader7.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader7.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                       
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
@@ -165,6 +179,12 @@
                         <a href="img/assign7.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/assign7.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        <a href="img/BecomeALeader4.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader4.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/BecomeALeader8.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader8.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
@@ -192,7 +212,18 @@
                         <a href="img/assign8.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                             <img src="img/assign8.jpg" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        <a href="img/BecomeALeader1.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader1.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        <a href="img/BecomeALeader5.jpg" class="gallery-card pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
+                            <img src="img/BecomeALeader5.jpg" alt="" class="gallery-card__image-fix img-fluid">
+                        </a>
+                        
+                        
                     </div>
+
+                    
+                    
                 </div>
                 {{-- <div class="">
                     <h1 class="mb-4">Second gallery</h1>
@@ -272,6 +303,7 @@
                         <a href="img/visamo07-08-2021.png" class="gallery-card col-lg-3 col-md-4 col-sm-6 pt-3" data-toggle="lightbox" data-gallery="gallery" rel="ligthbox">
                                 <img src="img/visamo07-08-2021.png" alt="" class="gallery-card__image-fix img-fluid">
                         </a>
+                        
                     </div>
                 </div> --}}
             </div>

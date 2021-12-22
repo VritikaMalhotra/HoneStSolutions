@@ -84,14 +84,14 @@
 <body>
     <div class="upcoming-events upcoming-events__background">
         <div class="container">
-            <div class="upcoming-events__title d-flex justify-content-center">
+            <!-- <div class="upcoming-events__title d-flex justify-content-center">
                 <img src="img/upcoming_events.png" alt="" class="upcoming-events__title-fix">
-            </div>
-            {{-- <h1 class="upcoming-events__title mb0">upcoming-Events</h1>
-            <h1 class="upcoming-events__title--shadow mb0">upcoming-Events</h1> --}}
+            </div> -->
+             <!-- <h1 class="upcoming-events__title mb0">upcoming-Events</h1>
+            <h1 class="upcoming-events__title--shadow mb0">upcoming-Events</h1>  -->
             <div class="upcoming-events__cards">
 
-                <div class="upcoming-events__card my-5">
+                <!-- <div class="upcoming-events__card my-5">
                     <div class="">
                         <div class="upcoming-events__main-title row  mb30">
                             <div class="upcoming-events__media-wrap d-flex col-lg-3 col-md-3 col-sm-4">
@@ -132,7 +132,7 @@
                         </div>
                     </div>
                   
-                </div>
+                </div> -->
 
                 
              

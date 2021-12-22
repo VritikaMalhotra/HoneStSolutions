@@ -477,9 +477,68 @@ Today's realization - 'Online' cannot replace 'Offline' in training... The conne
                 <div class="timeline__content">
                     <img src="img/event9thoct.jpeg" alt="" class="timeline__img">
                     <h2 class=timeline__content-title>09-10-2021</h2>
-                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Upcoming...</p>
+                    <p class="timeline__content-desc"><b>Gita Chanting Is Enchanting</b><br>Unveil the power of The Bhagavad Gita over the next 12-14 sessions while you learn to read and experience the power of chanting!
+
+<br>Time : 10am – 11am.
+<br>Day : Every Saturday & Sunday.
+<br>Starting : 9th October 2021.
+<br>Ending : 21st November 2021.</p>
                 </div>
             </div>
+
+            <div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/18-09-2021AMA.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>18-09-2021</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>One Day workshop conducted on Leadership Lessons from Indian Wisdom for middle and senior level management.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/10-10-2021.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>10-10-2021</h2>
+                    <p class="timeline__content-desc"><b>The Bhagavad Gita</b><br>...</p>
+                </div>
+            </div>
+
+
+            <div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/12-11-2021AMA.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>12-11-2021</h2>
+                    <p class="timeline__content-desc"><b>Become a Leader</b><br>Conducted program for children aged 12-18 years on "Become A Leader" from the teachings of Shrimad Bhagavad Gita.
+This is the right and most potential segment of population to reach with the Bhagavad Gita. Initial skepticism soon got replaced with overwhelming energy through the reception received from the children!!!
+Like for Arjun, may Bhagwan Shri Krishna keep guiding all of us towards leading a life full of happiness and fulfillment.</br>
+सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।
+अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः।।18.66।।</p>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/11-11-2021.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>11-12-2021</h2>
+                    <p class="timeline__content-desc"><b>Discover The Arjuna In You</b><br>Do you wish to become productive in your Personal and Professional Life?
+Do you wish to discover the learnings of the Bhagavad Gita?
+Today Organizations are facing challenges with regard to Ownership, Leadership, Communication, Values, Speed, Integrity, Negotiation, Productivity, Lack of Initiative, Excellence in Execution, Relationship, Gap between Skill and Talent, etc -Shrimad Bhagavad Gita has a solution to all the above challenges,
+In today’s life, most of us are taking on the battlefield and are in the same state as that of Arjuna. We also need the mentoring of the Lord to remain focussed and do what is righteous to become more productive personally as well as professionally. 
+Come join us this Saturday on 11th December 2021 – at 5 pm to understand the gist of Shrimad Bhagavad Gita to lead a more holistic life. -Come, ‘Discover the Arjuna in You’ with our Guest Speaker and Author Prasun Kundu. Let us patronize our most potent scripture which is our gift to the world
+Register on the link below: http://bitly.ws/jTSM
+Looking forward to welcoming you to the session🙏🏻
+Team Mindful Living</p>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-text="">
+                <div class="timeline__content">
+                    <img src="img/13 to 24 dec 2021 AMA.jpeg" alt="" class="timeline__img">
+                    <h2 class=timeline__content-title>13-12-2021 to 24-12-2021</h2>
+                    <p class="timeline__content-desc"><b>Ahmedabad Management Association</b><br>Retail and Wholesale and Sales Promotion Modules for Diploma Course in Management. Highly appreciated by participants on account of real life examples to build the right prespective on the concepts</p>
+                </div>
+            </div>
+
+
            
             
           
